@@ -194,6 +194,58 @@ def scrape_list(url: str, id_type: str, list_label: str) -> dict:
     return result
 
 
+CHANGES_FILE = DATA_DIR / "changes.json"
+MAX_HISTORY_ENTRIES = 200  # ~6+ months at one entry/day/list — keeps the file from growing forever
+
+
+def _compact(record: dict) -> dict:
+    """Small summary of a record for the changes log — not the full row."""
+    return {
+        "name": record.get("name"),
+        "parcel_id": record.get("parcel_id"),
+        "total_balance_due": record.get("total_balance_due"),
+    }
+
+
+def compute_diff(previous_records: list[dict], new_records: list[dict]) -> tuple[list[dict], list[dict]]:
+    """Compare by parcel_id. Returns (added, removed) as compact record summaries."""
+    prev_by_id = {r["parcel_id"]: r for r in previous_records if r.get("parcel_id")}
+    new_by_id = {r["parcel_id"]: r for r in new_records if r.get("parcel_id")}
+
+    added_ids = new_by_id.keys() - prev_by_id.keys()
+    removed_ids = prev_by_id.keys() - new_by_id.keys()
+
+    added = [_compact(new_by_id[i]) for i in added_ids]
+    removed = [_compact(prev_by_id[i]) for i in removed_ids]
+    return added, removed
+
+
+def append_change_log(list_type: str, added: list[dict], removed: list[dict]) -> None:
+    """Append one day's diff to data/dorchester_sc/changes.json, trimming old entries."""
+    if not added and not removed:
+        return  # nothing changed — don't pad the log with empty entries
+
+    history = []
+    if CHANGES_FILE.exists():
+        try:
+            history = json.loads(CHANGES_FILE.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            history = []
+
+    history.append(
+        {
+            "date": datetime.now(timezone.utc).date().isoformat(),
+            "list_type": list_type,
+            "added_count": len(added),
+            "removed_count": len(removed),
+            "added": added,
+            "removed": removed,
+        }
+    )
+    history = history[-MAX_HISTORY_ENTRIES:]
+    CHANGES_FILE.write_text(json.dumps(history, indent=2), encoding="utf-8")
+
+
 def main() -> int:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     exit_code = 0
@@ -210,6 +262,24 @@ def main() -> int:
             print(f"[ERROR] Failed to scrape {label} from {url}: {exc}", file=sys.stderr)
             exit_code = 1
             continue
+
+        # Diff against whatever was on disk BEFORE we overwrite it. On the very
+        # first run there's nothing to diff against, so we skip logging that
+        # (a "703 new accounts" entry on day one isn't a meaningful change).
+        previous_records: list[dict] = []
+        had_previous_file = out_path.exists()
+        if had_previous_file:
+            try:
+                previous_data = json.loads(out_path.read_text(encoding="utf-8"))
+                previous_records = previous_data.get("records", [])
+            except json.JSONDecodeError:
+                previous_records = []
+
+        if had_previous_file:
+            added, removed = compute_diff(previous_records, result["records"])
+            if added or removed:
+                append_change_log(label, added, removed)
+                print(f"[CHANGES] {label}: +{len(added)} new, -{len(removed)} removed since last run")
 
         out_path.write_text(json.dumps(result, indent=2), encoding="utf-8")
 
