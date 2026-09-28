@@ -1,0 +1,53 @@
+name: Enrich Dorchester County parcels with GIS/CAMA data
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Only process this many parcels (leave blank for all). Use a small number like 5 for a first test."
+        required: false
+        default: "5"
+      tax_year:
+        description: "Tax year to query"
+        required: false
+        default: "2025"
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run GIS enrichment
+        run: |
+          LIMIT_ARG=""
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            LIMIT_ARG="--limit ${{ github.event.inputs.limit }}"
+          fi
+          python scrapers/dorchester_sc/enrich_gis.py \
+            --tax-year "${{ github.event.inputs.tax_year }}" \
+            $LIMIT_ARG
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/dorchester_sc/parcel_details.json
+          if git diff --cached --quiet; then
+            echo "No data changes — skipping commit."
+          else
+            git commit -m "Update parcel GIS/CAMA enrichment data ($(date -u +'%Y-%m-%d'))"
+            git push
+          fi
