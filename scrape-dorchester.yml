@@ -1,0 +1,40 @@
+name: Scrape Dorchester County SC delinquent tax lists
+
+on:
+  schedule:
+    # Runs daily at 12:00 UTC (8:00 AM ET). Free and unlimited on public repos.
+    - cron: "0 12 * * *"
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write  # needed so the workflow can commit updated data back
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Dorchester scraper
+        run: python scrapers/dorchester_sc/scrape.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/dorchester_sc/
+          if git diff --cached --quiet; then
+            echo "No data changes — skipping commit."
+          else
+            git commit -m "Update Dorchester County delinquent tax data ($(date -u +'%Y-%m-%d'))"
+            git push
+          fi
