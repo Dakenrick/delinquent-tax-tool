@@ -130,6 +130,22 @@
   .empty-state{padding:40px 14px;text-align:center;color:var(--ink-soft);}
   .gis-link{font-size:11px;}
 
+  .change-entry{
+    background:var(--white);border:1px solid var(--rule);border-top:none;
+    padding:12px 14px;
+  }
+  .change-entry .date{
+    font-family:ui-monospace,SFMono-Regular,"Courier New",Courier,monospace;
+    font-weight:700;font-size:13px;margin-bottom:8px;
+  }
+  .change-cols{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+  .change-col h4{margin:0 0 6px;font-size:11px;text-transform:uppercase;letter-spacing:0.05em;}
+  .change-col.added h4{color:var(--red);}
+  .change-col.removed h4{color:var(--teal);}
+  .change-row{font-size:12px;padding:4px 0;border-bottom:1px dotted var(--rule);display:flex;justify-content:space-between;gap:8px;}
+  .change-row .amt{font-family:ui-monospace,SFMono-Regular,"Courier New",Courier,monospace;white-space:nowrap;}
+  @media (max-width:640px){.change-cols{grid-template-columns:1fr;}}
+
   footer{
     max-width:1100px;margin:26px auto 0;font-size:12px;color:var(--ink-soft);
     border-top:1px solid var(--rule);padding-top:12px;
@@ -160,11 +176,12 @@
   <div class="tabs">
     <div class="tab active" data-tab="real_property">Real Property</div>
     <div class="tab" data-tab="mobile_home">Mobile Homes</div>
+    <div class="tab" data-tab="changes">Recent Changes</div>
   </div>
 
   <div class="summary" id="summary">Loading…</div>
 
-  <div class="toolbar">
+  <div class="toolbar" id="filterToolbar">
     <input type="text" id="search" placeholder="Search name or parcel #…">
     <label>Min $ <input type="number" id="minBalance" placeholder="0"></label>
     <label>Max $ <input type="number" id="maxBalance" placeholder="any"></label>
@@ -188,6 +205,8 @@
     </table>
     <div id="emptyState" class="empty-state" style="display:none;"></div>
   </div>
+
+  <div id="changesWrap" style="display:none;"></div>
 </div>
 
 <footer>
@@ -206,6 +225,7 @@ const DATA_FILES = {
   mobile_home: "data/dorchester_sc/mobile_homes.json"
 };
 const COUNTY_META_FILE = "data/counties/dorchester_sc.json";
+const CHANGES_FILE = "data/dorchester_sc/changes.json";
 
 let state = {
   tab: "real_property",
@@ -222,14 +242,17 @@ let state = {
 async function loadAll(){
   const tbody = document.getElementById("tbody");
   try {
-    const [rp, mh, meta] = await Promise.all([
+    const [rp, mh, meta, changes] = await Promise.all([
       fetch(DATA_FILES.real_property).then(r => r.json()),
       fetch(DATA_FILES.mobile_home).then(r => r.json()),
-      fetch(COUNTY_META_FILE).then(r => r.json())
+      fetch(COUNTY_META_FILE).then(r => r.json()),
+      // changes.json won't exist until there's at least one day-over-day diff — that's fine, not an error
+      fetch(CHANGES_FILE).then(r => r.ok ? r.json() : []).catch(() => [])
     ]);
     state.datasets.real_property = rp;
     state.datasets.mobile_home = mh;
     state.countyMeta = meta;
+    state.changes = changes || [];
     renderSaleInfo();
     render();
   } catch (err) {
@@ -317,7 +340,47 @@ function filteredRecords(){
   return recs;
 }
 
+function renderChanges(){
+  const wrap = document.getElementById("changesWrap");
+  const changes = state.changes || [];
+  if (changes.length === 0){
+    wrap.innerHTML = `<div class="empty-state">No changes recorded yet — this fills in once the scraper has run on at least two different days.</div>`;
+    return;
+  }
+  // newest first
+  const sorted = [...changes].reverse();
+  wrap.innerHTML = sorted.map(entry => {
+    const listLabel = entry.list_type === "real_property" ? "Real Property" : "Mobile Homes";
+    const addedRows = entry.added.map(r => `
+      <div class="change-row"><span>${escapeHtml(r.name)} <span class="mono" style="color:var(--ink-soft);">${escapeHtml(r.parcel_id)}</span></span><span class="amt">$${(r.total_balance_due||0).toLocaleString(undefined,{minimumFractionDigits:2})}</span></div>
+    `).join("") || `<div class="change-row" style="color:var(--ink-soft);">None</div>`;
+    const removedRows = entry.removed.map(r => `
+      <div class="change-row"><span>${escapeHtml(r.name)} <span class="mono" style="color:var(--ink-soft);">${escapeHtml(r.parcel_id)}</span></span><span class="amt">$${(r.total_balance_due||0).toLocaleString(undefined,{minimumFractionDigits:2})}</span></div>
+    `).join("") || `<div class="change-row" style="color:var(--ink-soft);">None</div>`;
+
+    return `
+      <div class="change-entry">
+        <div class="date">${entry.date} — ${listLabel}</div>
+        <div class="change-cols">
+          <div class="change-col added">
+            <h4>+ ${entry.added_count} New</h4>
+            ${addedRows}
+          </div>
+          <div class="change-col removed">
+            <h4>&minus; ${entry.removed_count} Dropped Off (paid, or resolved)</h4>
+            ${removedRows}
+          </div>
+        </div>
+      </div>
+    `;
+  }).join("");
+}
+
 function render(){
+  if (state.tab === "changes"){
+    renderChanges();
+    return;
+  }
   const ds = currentDataset();
   const idLabel = state.tab === "real_property" ? "TMS #" : "Sticker #";
   document.getElementById("idHeader").textContent = idLabel;
@@ -370,6 +433,13 @@ document.querySelectorAll(".tab").forEach(tab => {
     document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
     tab.classList.add("active");
     state.tab = tab.dataset.tab;
+
+    const isChanges = state.tab === "changes";
+    document.getElementById("filterToolbar").style.display = isChanges ? "none" : "flex";
+    document.getElementById("tableWrap").style.display = isChanges ? "none" : "block";
+    document.getElementById("summary").style.display = isChanges ? "none" : "flex";
+    document.getElementById("changesWrap").style.display = isChanges ? "block" : "none";
+
     render();
   });
 });
