@@ -24,6 +24,28 @@ data/
 requirements.txt
 ```
 
+## Viewing the site
+
+`index.html` at the repo root is the frontend — a self-contained page (no
+build step, no dependencies) that fetches the JSON files under `data/` and
+renders a filterable, sortable ledger view, split into Real Property and
+Mobile Homes tabs.
+
+**To publish it for free with GitHub Pages:**
+1. In the repo, go to **Settings > Pages**.
+2. Under "Build and deployment", set **Source** to "Deploy from a branch".
+3. Set **Branch** to `main` and the folder to `/ (root)`.
+4. Click **Save**. GitHub gives you a URL like
+   `https://yourusername.github.io/delinquent-tax-tool/` — it can take a
+   minute or two to go live the first time.
+
+Because `index.html` lives at the repo root alongside the `data/` folder,
+its relative fetches (`data/dorchester_sc/real_property.json`, etc.) resolve
+correctly once served this way. It will NOT work if you just double-click
+`index.html` and open it as a local file — browsers block local JSON
+fetches for security. Either use GitHub Pages, or run a quick local server
+from the repo root (`python -m http.server`) and open it from there.
+
 ## Running a scraper locally
 
 ```bash
