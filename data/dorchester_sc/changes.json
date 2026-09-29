@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-09-29",
+    "list_type": "real_property",
+    "added_count": 0,
+    "removed_count": 3,
+    "added": [],
+    "removed": [
+      {
+        "name": "SKIPPER WANDA L",
+        "parcel_id": "130-01-07-003.000-C",
+        "total_balance_due": 3708.43
+      },
+      {
+        "name": "PARKER LAWANNA",
+        "parcel_id": "130-14-01-006.000-C",
+        "total_balance_due": 1899.86
+      },
+      {
+        "name": "FERRELL HENRY J SR & HENRY JR &",
+        "parcel_id": "126-00-00-059.000-C",
+        "total_balance_due": 3479.29
+      }
+    ]
+  },
+  {
+    "date": "2026-09-29",
+    "list_type": "mobile_home",
+    "added_count": 0,
+    "removed_count": 3,
+    "added": [],
+    "removed": [
+      {
+        "name": "BRITT LOUISE R",
+        "parcel_id": "30036C",
+        "total_balance_due": 324.69
+      },
+      {
+        "name": "MARTIN LUCILLE & LEROY",
+        "parcel_id": "18130C",
+        "total_balance_due": 311.77
+      },
+      {
+        "name": "MOON DAN AND MARY",
+        "parcel_id": "29437C",
+        "total_balance_due": 405.57
+      }
+    ]
+  }
+]

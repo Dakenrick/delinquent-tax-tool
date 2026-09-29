@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "mobile_home",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000201.pgm",
-  "scraped_at": "2026-09-28T20:23:07.117149+00:00",
-  "record_count": 340,
+  "scraped_at": "2026-09-29T17:20:08.111365+00:00",
+  "record_count": 337,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 277791.85,
+  "parsed_total_balance_due": 276749.82,
   "totals_match": false,
   "records": [
     {
@@ -211,14 +211,6 @@
       "formerly_owned_by": [
         "BRITT ANNIE"
       ]
-    },
-    {
-      "name": "BRITT LOUISE R",
-      "parcel_id": "30036C",
-      "id_type": "sticker",
-      "total_balance_due": 324.69,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
     },
     {
       "name": "BRITT WILLA MAE",
@@ -1511,14 +1503,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MARTIN LUCILLE & LEROY",
-      "parcel_id": "18130C",
-      "id_type": "sticker",
-      "total_balance_due": 311.77,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MARTIN SHIRLEY",
       "parcel_id": "7256C",
       "id_type": "sticker",
@@ -1707,14 +1691,6 @@
       "parcel_id": "29419C",
       "id_type": "sticker",
       "total_balance_due": 852.04,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "MOON DAN AND MARY",
-      "parcel_id": "29437C",
-      "id_type": "sticker",
-      "total_balance_due": 405.57,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },

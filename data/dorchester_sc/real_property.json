@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "real_property",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000200.pgm",
-  "scraped_at": "2026-09-28T20:23:06.135077+00:00",
-  "record_count": 703,
+  "scraped_at": "2026-09-29T17:20:07.226149+00:00",
+  "record_count": 700,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 2512667.49,
+  "parsed_total_balance_due": 2503579.91,
   "totals_match": false,
   "records": [
     {
@@ -1854,14 +1854,6 @@
       "parcel_id": "121-00-00-077.000-C",
       "id_type": "tms",
       "total_balance_due": 1861.78,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "FERRELL HENRY J SR & HENRY JR &",
-      "parcel_id": "126-00-00-059.000-C",
-      "id_type": "tms",
-      "total_balance_due": 3479.29,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -3772,14 +3764,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "PARKER LAWANNA",
-      "parcel_id": "130-14-01-006.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1899.86,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "PARSON AMBER R (TRUSTEE)",
       "parcel_id": "144-05-00-047.000-C",
       "id_type": "tms",
@@ -4632,14 +4616,6 @@
       "parcel_id": "032-00-00-194.000-C",
       "id_type": "tms",
       "total_balance_due": 537.33,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SKIPPER WANDA L",
-      "parcel_id": "130-01-07-003.000-C",
-      "id_type": "tms",
-      "total_balance_due": 3708.43,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
