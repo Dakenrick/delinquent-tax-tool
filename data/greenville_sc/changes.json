@@ -1363,5 +1363,50 @@
       }
     ],
     "removed": []
+  },
+  {
+    "date": "2026-09-29",
+    "list_type": "tax_sale",
+    "added_count": 0,
+    "removed_count": 6,
+    "added": [],
+    "removed": [
+      {
+        "item_number": "4708",
+        "name": "DG FARM AND LAND CO LLC",
+        "parcel_id": "0523010100605",
+        "total_balance_due": 6416.29
+      },
+      {
+        "item_number": "3876",
+        "name": "COPELAND FRANK JR NORRIS MAMIE",
+        "parcel_id": "0053000200300",
+        "total_balance_due": 2838.77
+      },
+      {
+        "item_number": "11288",
+        "name": "MACK CLAUDIA N",
+        "parcel_id": "0095000301301",
+        "total_balance_due": 1771.87
+      },
+      {
+        "item_number": "11296",
+        "name": "MACK CLAUDIA N MACK PELZIER JR",
+        "parcel_id": "0199010207900",
+        "total_balance_due": 5986.73
+      },
+      {
+        "item_number": "20160",
+        "name": "333 HIGHRIDGE LLC",
+        "parcel_id": "0053000200200",
+        "total_balance_due": 3768.06
+      },
+      {
+        "item_number": "11292",
+        "name": "MACK CLAUDIA N",
+        "parcel_id": "0197000103000",
+        "total_balance_due": 4960.2
+      }
+    ]
   }
 ]

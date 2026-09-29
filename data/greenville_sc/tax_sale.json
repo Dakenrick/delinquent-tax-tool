@@ -4,11 +4,11 @@
   "list_type": "tax_sale",
   "source_url": "https://www.greenvillecounty.org/appsas400/taxsale/",
   "tax_year": "2025",
-  "scraped_at": "2026-09-29T02:54:30.640072+00:00",
-  "record_count": 1752,
+  "scraped_at": "2026-09-29T18:05:04.298164+00:00",
+  "record_count": 1746,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 5346471.16,
+  "parsed_total_balance_due": 5320729.24,
   "totals_match": null,
   "records": [
     {
@@ -2436,14 +2436,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "3876",
-      "parcel_id": "0053000200300",
-      "name": "COPELAND FRANK JR NORRIS MAMIE",
-      "total_balance_due": 2838.77,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0053000200300",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "3924",
       "parcel_id": "0673030100601",
       "name": "COSTER JASON",
@@ -2873,14 +2865,6 @@
       "name": "DEVOS ESTHER MARIE",
       "total_balance_due": 2286.09,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0560060105300",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "4708",
-      "parcel_id": "0523010100605",
-      "name": "DG FARM AND LAND CO LLC",
-      "total_balance_due": 6416.29,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0523010100605",
       "tax_year": "2025"
     },
     {
@@ -6841,30 +6825,6 @@
       "name": "LOWERY CARL M JR",
       "total_balance_due": 1611.99,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=B004010107500",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "11288",
-      "parcel_id": "0095000301301",
-      "name": "MACK CLAUDIA N",
-      "total_balance_due": 1771.87,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0095000301301",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "11292",
-      "parcel_id": "0197000103000",
-      "name": "MACK CLAUDIA N",
-      "total_balance_due": 4960.2,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0197000103000",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "11296",
-      "parcel_id": "0199010207900",
-      "name": "MACK CLAUDIA N MACK PELZIER JR",
-      "total_balance_due": 5986.73,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0199010207900",
       "tax_year": "2025"
     },
     {
@@ -11953,14 +11913,6 @@
       "name": "305 CORNELIA LAND TRUST",
       "total_balance_due": 5428.31,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0155001201300",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "20160",
-      "parcel_id": "0053000200200",
-      "name": "333 HIGHRIDGE LLC",
-      "total_balance_due": 3768.06,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0053000200200",
       "tax_year": "2025"
     },
     {
