@@ -1,0 +1,30 @@
+{
+  "county": "Greenville",
+  "state": "SC",
+  "last_updated": "2026-09-28",
+  "note": "Dates below are published yearly by the county and are NOT scraped. Update this file by hand each tax year from the county's Tax Sale pages.",
+  "tax_collector_office": {
+    "contact_name": "Sharay Peters",
+    "contact_title": "Tax Sale Coordinator",
+    "phone": "864.467.7050"
+  },
+  "tax_sale": {
+    "year": 2026,
+    "sale_dates": ["2026-10-19", "2026-10-20"],
+    "sale_time_note": "10 a.m. until — TBA",
+    "sale_location": "Greenville Convention Center, Room 102BC, 1 Exposition Dr, Greenville, SC 29607",
+    "bidder_registration_opens": "2026-09-15",
+    "bidder_registration_notes": "Registration held at least 30 days prior to the sale, online only. No onsite registration on the day of the sale — all participants must be registered in advance.",
+    "bidder_registration_url": "https://app.greenvillecounty.org/BidderRegistration.html",
+    "procedures_url": "https://www.greenvillecounty.org/TaxCollector/TaxSaleProcedures.aspx",
+    "faq_url": "https://www.greenvillecounty.org/TaxCollector/TaxSaleFAQ.aspx",
+    "overage_info_url": "https://www.greenvillecounty.org/TaxCollector/pdf/taxsaleoverbid.pdf",
+    "claim_form_url": "https://www.greenvillecounty.org/TaxCollector/pdf/taxsaleclaimform.pdf",
+    "redemption_info_url": "https://www.greenvillecounty.org/TaxCollector/pdf/RedemptionInformation.pdf"
+  },
+  "data_sources": {
+    "tax_sale_list": "https://www.greenvillecounty.org/appsas400/taxsale/",
+    "real_property_search": "https://www.greenvillecounty.org/appsas400/RealProperty/",
+    "tax_collector_home": "https://www.greenvillecounty.org/TaxCollector/"
+  }
+}
