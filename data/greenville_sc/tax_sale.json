@@ -4,11 +4,11 @@
   "list_type": "tax_sale",
   "source_url": "https://www.greenvillecounty.org/appsas400/taxsale/",
   "tax_year": "2025",
-  "scraped_at": "2026-09-29T02:08:07.790065+00:00",
-  "record_count": 1526,
+  "scraped_at": "2026-09-29T02:54:30.640072+00:00",
+  "record_count": 1752,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 4597601.43,
+  "parsed_total_balance_due": 5346471.16,
   "totals_match": null,
   "records": [
     {
@@ -12212,11 +12212,1819 @@
       "tax_year": "2025"
     },
     {
+      "item_number": "91000",
+      "parcel_id": null,
+      "name": "ALLEN RANDALL R",
+      "total_balance_due": 2208.96,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91001",
+      "parcel_id": null,
+      "name": "ARNOLD CHRISTOPHER JAMES",
+      "total_balance_due": 1214.0,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91002",
+      "parcel_id": null,
+      "name": "BEATY O GROSS III",
+      "total_balance_due": 1750.41,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91003",
+      "parcel_id": null,
+      "name": "BRIDGES GEORGE J",
+      "total_balance_due": 1376.52,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91004",
+      "parcel_id": null,
+      "name": "CAGLE MATTHEW D",
+      "total_balance_due": 1113.33,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91005",
+      "parcel_id": null,
+      "name": "CAROLA LOUIS P",
+      "total_balance_due": 2395.57,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91006",
+      "parcel_id": null,
+      "name": "DUNCAN BETHANY N",
+      "total_balance_due": 1615.67,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91007",
+      "parcel_id": null,
+      "name": "ELLIOT ANGELA",
+      "total_balance_due": 1002.09,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91008",
+      "parcel_id": null,
+      "name": "EUROPEAN MARINE LLC",
+      "total_balance_due": 976.22,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91009",
+      "parcel_id": null,
+      "name": "FLURY HARRY",
+      "total_balance_due": 2571.86,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91010",
+      "parcel_id": null,
+      "name": "HALL RICKY W",
+      "total_balance_due": 928.83,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91011",
+      "parcel_id": null,
+      "name": "HILL JAMES G",
+      "total_balance_due": 2014.61,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91012",
+      "parcel_id": null,
+      "name": "HOLLEY SHEENA",
+      "total_balance_due": 855.59,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91013",
+      "parcel_id": null,
+      "name": "INSURANCE AUTO AUCTI ONS",
+      "total_balance_due": 1023.12,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91014",
+      "parcel_id": null,
+      "name": "LEWIS JOHN HOBART",
+      "total_balance_due": 879.77,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91015",
+      "parcel_id": null,
+      "name": "NATIONAL STRIPED BAS S ASSOC I",
+      "total_balance_due": 2189.26,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91016",
+      "parcel_id": null,
+      "name": "PACE ELIZABETH B",
+      "total_balance_due": 962.79,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91017",
+      "parcel_id": null,
+      "name": "SHAVER ROSS C",
+      "total_balance_due": 1006.31,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91018",
+      "parcel_id": null,
+      "name": "SIMS ANDREW TYLER",
+      "total_balance_due": 971.65,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91019",
+      "parcel_id": null,
+      "name": "SMOUSE BRETT D",
+      "total_balance_due": 1326.95,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91020",
+      "parcel_id": null,
+      "name": "SOUTH CAROLINA FARM BUREAU",
+      "total_balance_due": 1129.03,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91021",
+      "parcel_id": null,
+      "name": "TRIPLETTE GERAMY L",
+      "total_balance_due": 1199.77,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91022",
+      "parcel_id": null,
+      "name": "WELLS KENNETH",
+      "total_balance_due": 1469.0,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "91023",
+      "parcel_id": null,
+      "name": "WILBOURN THOMAS J",
+      "total_balance_due": 1634.27,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94003",
+      "parcel_id": null,
+      "name": "AMERICAN AVIA SVC",
+      "total_balance_due": 1232.47,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94007",
+      "parcel_id": null,
+      "name": "APPALACHIAN STANDARD FLOORS",
+      "total_balance_due": 10767.17,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94011",
+      "parcel_id": null,
+      "name": "B&D HOLDINGS LLC",
+      "total_balance_due": 12032.68,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94015",
+      "parcel_id": null,
+      "name": "BARKSDALE AIR GROUP LLC",
+      "total_balance_due": 7735.78,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94019",
+      "parcel_id": null,
+      "name": "BARNES BARNEY L",
+      "total_balance_due": 948.5,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94023",
+      "parcel_id": null,
+      "name": "BCS AIR LLC",
+      "total_balance_due": 10976.27,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94035",
+      "parcel_id": null,
+      "name": "BROPILOTS LLC",
+      "total_balance_due": 2844.23,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94039",
+      "parcel_id": null,
+      "name": "BROWN HENRY J",
+      "total_balance_due": 1867.35,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94043",
+      "parcel_id": null,
+      "name": "CATALINA SIERRA INC",
+      "total_balance_due": 7079.07,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94047",
+      "parcel_id": null,
+      "name": "CERTUSBANK NA",
+      "total_balance_due": 1632.36,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94055",
+      "parcel_id": null,
+      "name": "CHANGES IN ELEVATION AVIATION",
+      "total_balance_due": 6558.62,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94059",
+      "parcel_id": null,
+      "name": "CLIFTON KENNETH E",
+      "total_balance_due": 1934.51,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94063",
+      "parcel_id": null,
+      "name": "EXODUS AIRCRAFT LLC",
+      "total_balance_due": 10342.88,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94067",
+      "parcel_id": null,
+      "name": "FEW 28 AVIATION LLC",
+      "total_balance_due": 14342.39,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94071",
+      "parcel_id": null,
+      "name": "FEW 28 AVIATION LLC",
+      "total_balance_due": 10117.37,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94075",
+      "parcel_id": null,
+      "name": "FIRST BANK OF THE LAKE",
+      "total_balance_due": 50179.4,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94079",
+      "parcel_id": null,
+      "name": "FIVE STAR AVIATION LLC",
+      "total_balance_due": 1487.05,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94083",
+      "parcel_id": null,
+      "name": "FIVE STAR AVIATION LLC",
+      "total_balance_due": 1633.4,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94087",
+      "parcel_id": null,
+      "name": "FIVE STAR AVIATION LLC",
+      "total_balance_due": 2661.02,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94091",
+      "parcel_id": null,
+      "name": "FOREST CAPITAL LLC",
+      "total_balance_due": 10709.34,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94095",
+      "parcel_id": null,
+      "name": "FOUR ONE BRAVO LLC",
+      "total_balance_due": 1089.18,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94099",
+      "parcel_id": null,
+      "name": "FRAZIER FORREST ALAN",
+      "total_balance_due": 1018.39,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94103",
+      "parcel_id": null,
+      "name": "FX AVIATION CAPITAL LLC",
+      "total_balance_due": 8237.9,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94107",
+      "parcel_id": null,
+      "name": "FX AVIATION LLC",
+      "total_balance_due": 18996.12,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94111",
+      "parcel_id": null,
+      "name": "FX AVIATION LLC",
+      "total_balance_due": 17371.48,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94115",
+      "parcel_id": null,
+      "name": "GABRIELS WINGS LLC",
+      "total_balance_due": 847.76,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94119",
+      "parcel_id": null,
+      "name": "GAINO AIR LLC",
+      "total_balance_due": 1298.46,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94127",
+      "parcel_id": null,
+      "name": "GLOBAL PETROLEUM SERVICES LLC",
+      "total_balance_due": 11404.54,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94131",
+      "parcel_id": null,
+      "name": "GLOBAL PETROLEUM SERVICES LLC",
+      "total_balance_due": 4251.22,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94135",
+      "parcel_id": null,
+      "name": "GOLDT ROBERT",
+      "total_balance_due": 4725.9,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94139",
+      "parcel_id": null,
+      "name": "GREENVILLE FLIGHT LLC",
+      "total_balance_due": 1551.74,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94143",
+      "parcel_id": null,
+      "name": "GREENVILLE FLIGHT LLC",
+      "total_balance_due": 1703.01,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94147",
+      "parcel_id": null,
+      "name": "GREENVILLE FLIGHT LLC",
+      "total_balance_due": 2143.36,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94151",
+      "parcel_id": null,
+      "name": "GREENVILLE FLYERS LLC",
+      "total_balance_due": 5682.43,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94155",
+      "parcel_id": null,
+      "name": "GUIHER LESLIE JR",
+      "total_balance_due": 1501.66,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94159",
+      "parcel_id": null,
+      "name": "HAAS BRANDON R",
+      "total_balance_due": 1369.18,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94163",
+      "parcel_id": null,
+      "name": "HAYNIE ENTERPRISES",
+      "total_balance_due": 1274.64,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94167",
+      "parcel_id": null,
+      "name": "HAYNIE ENTERPRISES INC",
+      "total_balance_due": 1790.73,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94171",
+      "parcel_id": null,
+      "name": "HENRY WRIGHT",
+      "total_balance_due": 2701.01,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94175",
+      "parcel_id": null,
+      "name": "HERVE SAVARY AVIATION INC",
+      "total_balance_due": 2841.14,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94179",
+      "parcel_id": null,
+      "name": "HOLCOMBE DAVID",
+      "total_balance_due": 5303.16,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94183",
+      "parcel_id": null,
+      "name": "HOLCOMBE JOE DAVID",
+      "total_balance_due": 7614.88,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94187",
+      "parcel_id": null,
+      "name": "HOLCOMBE JOE DAVID",
+      "total_balance_due": 4172.8,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94195",
+      "parcel_id": null,
+      "name": "HOLMES DAVID W",
+      "total_balance_due": 1283.69,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94199",
+      "parcel_id": null,
+      "name": "INFINITY AERONAUTICS LLC",
+      "total_balance_due": 31021.19,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94203",
+      "parcel_id": null,
+      "name": "INNOVATIVE SCIENTIFIC SOLUTION",
+      "total_balance_due": 9022.21,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94207",
+      "parcel_id": null,
+      "name": "JAKE FLIES LLC",
+      "total_balance_due": 2703.52,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94211",
+      "parcel_id": null,
+      "name": "JETLEG MANAGEMENT LLC",
+      "total_balance_due": 36949.78,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94215",
+      "parcel_id": null,
+      "name": "JOHNSON ANTHONY",
+      "total_balance_due": 1244.95,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94219",
+      "parcel_id": null,
+      "name": "KNOLLWOOD VENTURES LLC",
+      "total_balance_due": 5891.07,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94223",
+      "parcel_id": null,
+      "name": "LEATHERHEADS LLC",
+      "total_balance_due": 879.38,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94227",
+      "parcel_id": null,
+      "name": "LUCK AVIATION LLC",
+      "total_balance_due": 1029.57,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94231",
+      "parcel_id": null,
+      "name": "L526 AVIATION LLC",
+      "total_balance_due": 1158.86,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94235",
+      "parcel_id": null,
+      "name": "MCKINNON KERWIN A",
+      "total_balance_due": 1503.04,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94239",
+      "parcel_id": null,
+      "name": "MEEK KENNETH LEE",
+      "total_balance_due": 4089.92,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94243",
+      "parcel_id": null,
+      "name": "MY BEARDED REALTOR LLC",
+      "total_balance_due": 3368.42,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94247",
+      "parcel_id": null,
+      "name": "NIEMITALO BRUCE D",
+      "total_balance_due": 1754.73,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94251",
+      "parcel_id": null,
+      "name": "NOVEY ROBERT N",
+      "total_balance_due": 1510.37,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94255",
+      "parcel_id": null,
+      "name": "N28WR LLC",
+      "total_balance_due": 1602.03,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94259",
+      "parcel_id": null,
+      "name": "N3542X LLC",
+      "total_balance_due": 3797.49,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94263",
+      "parcel_id": null,
+      "name": "N500TJ LLC",
+      "total_balance_due": 2787.92,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94271",
+      "parcel_id": null,
+      "name": "N800K LLC",
+      "total_balance_due": 1251.57,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94275",
+      "parcel_id": null,
+      "name": "N81CL LLC",
+      "total_balance_due": 5995.53,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94279",
+      "parcel_id": null,
+      "name": "N9552L LLC",
+      "total_balance_due": 3020.8,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94283",
+      "parcel_id": null,
+      "name": "OLD STAGE AIR INC",
+      "total_balance_due": 951.24,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94287",
+      "parcel_id": null,
+      "name": "PARKER BOB PERSONAL REPRESENTA",
+      "total_balance_due": 1976.93,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94291",
+      "parcel_id": null,
+      "name": "PARKER BOB PERSONAL REPRESENTA",
+      "total_balance_due": 3394.8,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94295",
+      "parcel_id": null,
+      "name": "PAVIA DAKOTA F",
+      "total_balance_due": 893.96,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94299",
+      "parcel_id": null,
+      "name": "PLAXCO WILLIAM L",
+      "total_balance_due": 2713.97,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94303",
+      "parcel_id": null,
+      "name": "RESORT TRANSPORTATION GS LLC",
+      "total_balance_due": 71961.53,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94307",
+      "parcel_id": null,
+      "name": "RILEY LYDIA L",
+      "total_balance_due": 1151.74,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94311",
+      "parcel_id": null,
+      "name": "SHROUDER JAMES L III",
+      "total_balance_due": 3530.35,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94315",
+      "parcel_id": null,
+      "name": "SIERRA HARPOON LLC",
+      "total_balance_due": 987.28,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94319",
+      "parcel_id": null,
+      "name": "SR AVIATION INC",
+      "total_balance_due": 664.06,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94323",
+      "parcel_id": null,
+      "name": "ST CLAIR WARREN ARTHUR",
+      "total_balance_due": 1177.63,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94331",
+      "parcel_id": null,
+      "name": "STING LLC",
+      "total_balance_due": 3551.85,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94335",
+      "parcel_id": null,
+      "name": "STONE ALEX M",
+      "total_balance_due": 661.5,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94339",
+      "parcel_id": null,
+      "name": "STONE ALEXANDER M JR",
+      "total_balance_due": 661.5,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94343",
+      "parcel_id": null,
+      "name": "TENCH WILLIAM C",
+      "total_balance_due": 1086.34,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94347",
+      "parcel_id": null,
+      "name": "TENCH WILLIAM CARROLL",
+      "total_balance_due": 882.14,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94351",
+      "parcel_id": null,
+      "name": "TODD MICHAEL C",
+      "total_balance_due": 915.18,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94355",
+      "parcel_id": null,
+      "name": "TOMPKINS ALVIN A",
+      "total_balance_due": 1533.16,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94359",
+      "parcel_id": null,
+      "name": "TRIPLE D CESSNA LLC",
+      "total_balance_due": 3428.25,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94363",
+      "parcel_id": null,
+      "name": "TUSSEY MARK S",
+      "total_balance_due": 1266.58,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94367",
+      "parcel_id": null,
+      "name": "VICTOR HARPOON LLC",
+      "total_balance_due": 987.28,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94371",
+      "parcel_id": null,
+      "name": "WEB FLYERS LLC",
+      "total_balance_due": 1530.07,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94375",
+      "parcel_id": null,
+      "name": "WIETHOP JOSH",
+      "total_balance_due": 1665.23,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94379",
+      "parcel_id": null,
+      "name": "WIETHOP JOSHUA DAVID",
+      "total_balance_due": 1033.83,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94383",
+      "parcel_id": null,
+      "name": "ZIPANG INVESTMENTS LLC",
+      "total_balance_due": 1732.39,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "94387",
+      "parcel_id": null,
+      "name": "ZIPANG INVESTMENTS LLC",
+      "total_balance_due": 4394.79,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
       "item_number": "95003",
       "parcel_id": "WG09000200502",
       "name": "CUSTOM MACHINING & DEVELOPMENT",
       "total_balance_due": 10363.99,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=WG09000200502",
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96000",
+      "parcel_id": null,
+      "name": "ABSOLUTE AUTO SALES",
+      "total_balance_due": 2817.64,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96001",
+      "parcel_id": null,
+      "name": "ADAMS BILLY J",
+      "total_balance_due": 2417.08,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96002",
+      "parcel_id": null,
+      "name": "AGARD MICHAEL A",
+      "total_balance_due": 4142.62,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96003",
+      "parcel_id": null,
+      "name": "ALEXANDER CHRISTOPHER I",
+      "total_balance_due": 1109.64,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96004",
+      "parcel_id": null,
+      "name": "ALEXANDER JAY J",
+      "total_balance_due": 1133.84,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96005",
+      "parcel_id": null,
+      "name": "ASHLEY WILLIAM R",
+      "total_balance_due": 2547.77,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96006",
+      "parcel_id": null,
+      "name": "AUTREY JR FRANKLIN L",
+      "total_balance_due": 1273.73,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96007",
+      "parcel_id": null,
+      "name": "BARNETT GERALD ALLEN",
+      "total_balance_due": 2492.21,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96008",
+      "parcel_id": null,
+      "name": "BARRETT THOMAS A",
+      "total_balance_due": 925.01,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96009",
+      "parcel_id": null,
+      "name": "BATSON RANDALL L",
+      "total_balance_due": 1023.91,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96010",
+      "parcel_id": null,
+      "name": "BEALMEAR MICHAEL",
+      "total_balance_due": 5116.35,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96011",
+      "parcel_id": null,
+      "name": "BEATY O GROSS III",
+      "total_balance_due": 1835.69,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96012",
+      "parcel_id": null,
+      "name": "BLAZEK SCOTT J",
+      "total_balance_due": 1008.56,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96013",
+      "parcel_id": null,
+      "name": "BRELAND BOBBY L",
+      "total_balance_due": 1479.12,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96014",
+      "parcel_id": null,
+      "name": "BRIDGES GEORGE J",
+      "total_balance_due": 1617.35,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96015",
+      "parcel_id": null,
+      "name": "BROWN TONY IRVIN",
+      "total_balance_due": 1597.91,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96016",
+      "parcel_id": null,
+      "name": "BURNS WILLIE K",
+      "total_balance_due": 1532.79,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96017",
+      "parcel_id": null,
+      "name": "BURROUGHS DONALD R",
+      "total_balance_due": 1681.95,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96018",
+      "parcel_id": null,
+      "name": "CAROLA LOUIS P",
+      "total_balance_due": 6355.8,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96019",
+      "parcel_id": null,
+      "name": "CARSON DAVID B",
+      "total_balance_due": 952.85,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96020",
+      "parcel_id": null,
+      "name": "CARSON DAVID B",
+      "total_balance_due": 924.19,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96022",
+      "parcel_id": null,
+      "name": "CHAMBERLAIN RICHARD JUSTIN",
+      "total_balance_due": 2958.58,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96023",
+      "parcel_id": null,
+      "name": "CRABTREE TIMOTHY M",
+      "total_balance_due": 1691.11,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96024",
+      "parcel_id": null,
+      "name": "CREWS KENNETH M",
+      "total_balance_due": 887.78,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96025",
+      "parcel_id": null,
+      "name": "DONALD EARNEST W",
+      "total_balance_due": 928.3,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96026",
+      "parcel_id": null,
+      "name": "DUMIT III GEORGE M",
+      "total_balance_due": 5514.0,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96027",
+      "parcel_id": null,
+      "name": "DUNN THOMAS KEVIN",
+      "total_balance_due": 965.35,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96028",
+      "parcel_id": null,
+      "name": "ECKESS DOUGLAS E",
+      "total_balance_due": 2423.68,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96029",
+      "parcel_id": null,
+      "name": "ERVIN MELISSA E",
+      "total_balance_due": 2540.63,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96030",
+      "parcel_id": null,
+      "name": "FANT MARK",
+      "total_balance_due": 1521.02,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96031",
+      "parcel_id": null,
+      "name": "FAST PAK LLC",
+      "total_balance_due": 4644.75,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96032",
+      "parcel_id": null,
+      "name": "GOODNOUGH JOSHUA G",
+      "total_balance_due": 1402.41,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96033",
+      "parcel_id": null,
+      "name": "GREGORY JAMES MYRON JR",
+      "total_balance_due": 1476.33,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96034",
+      "parcel_id": null,
+      "name": "GREGORY MICHAEL L",
+      "total_balance_due": 1090.08,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96035",
+      "parcel_id": null,
+      "name": "GROOME JR JAMES A",
+      "total_balance_due": 3768.98,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96036",
+      "parcel_id": null,
+      "name": "GUIBLE KELLY G",
+      "total_balance_due": 1446.96,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96037",
+      "parcel_id": null,
+      "name": "HAGLER CHERYL G",
+      "total_balance_due": 1829.43,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96038",
+      "parcel_id": null,
+      "name": "HALL RICKY W",
+      "total_balance_due": 895.41,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96039",
+      "parcel_id": null,
+      "name": "HANNAH JOHN",
+      "total_balance_due": 2340.75,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96040",
+      "parcel_id": null,
+      "name": "HANSEN MATTHEW P",
+      "total_balance_due": 1657.79,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96041",
+      "parcel_id": null,
+      "name": "HANSEN MATTHEW P",
+      "total_balance_due": 896.09,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96042",
+      "parcel_id": null,
+      "name": "HARAMUT JOHN R",
+      "total_balance_due": 893.27,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96043",
+      "parcel_id": null,
+      "name": "HARTER DANIEL J",
+      "total_balance_due": 2486.99,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96045",
+      "parcel_id": null,
+      "name": "HAYNES JAMES B",
+      "total_balance_due": 873.26,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96046",
+      "parcel_id": null,
+      "name": "HEAD JOHN A",
+      "total_balance_due": 1336.11,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96047",
+      "parcel_id": null,
+      "name": "HENDRIX VINCENT R",
+      "total_balance_due": 1138.64,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96048",
+      "parcel_id": null,
+      "name": "HOLLEY SHEENA",
+      "total_balance_due": 896.46,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96049",
+      "parcel_id": null,
+      "name": "HOLLIDAY KENNETH A",
+      "total_balance_due": 835.19,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96050",
+      "parcel_id": null,
+      "name": "HOWARD AMBER C",
+      "total_balance_due": 1322.22,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96051",
+      "parcel_id": null,
+      "name": "ILDERTON SCOTT A",
+      "total_balance_due": 841.91,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96052",
+      "parcel_id": null,
+      "name": "INSURANCE AUTO AUCTI ONS",
+      "total_balance_due": 1234.93,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96053",
+      "parcel_id": null,
+      "name": "JOHNSTON KEVIN",
+      "total_balance_due": 942.47,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96054",
+      "parcel_id": null,
+      "name": "JONES CASEY RAY",
+      "total_balance_due": 1015.66,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96055",
+      "parcel_id": null,
+      "name": "JOYNER CAREY DAN",
+      "total_balance_due": 846.42,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96056",
+      "parcel_id": null,
+      "name": "KINGSBURY DANIEL W",
+      "total_balance_due": 935.29,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96057",
+      "parcel_id": null,
+      "name": "KOST COREY J",
+      "total_balance_due": 958.0,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96058",
+      "parcel_id": null,
+      "name": "LANDRUM DEVIN BLAKE",
+      "total_balance_due": 1614.9,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96059",
+      "parcel_id": null,
+      "name": "LEGUIZAMO ESTELLE OELAND",
+      "total_balance_due": 1484.65,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96060",
+      "parcel_id": null,
+      "name": "LIGON RICHARD B",
+      "total_balance_due": 1092.68,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96061",
+      "parcel_id": null,
+      "name": "LITTON JOSHUA C",
+      "total_balance_due": 977.83,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96062",
+      "parcel_id": null,
+      "name": "LORD KEITH A",
+      "total_balance_due": 879.48,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96063",
+      "parcel_id": null,
+      "name": "MALARCHER MIKE",
+      "total_balance_due": 2707.71,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96064",
+      "parcel_id": null,
+      "name": "MARTINEZ GERARDO",
+      "total_balance_due": 858.45,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96065",
+      "parcel_id": null,
+      "name": "MATHEWS ANTHONY L",
+      "total_balance_due": 2093.09,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96066",
+      "parcel_id": null,
+      "name": "MAULDIN WILLIE A",
+      "total_balance_due": 1665.03,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96067",
+      "parcel_id": null,
+      "name": "MCJUNKIN ROBERT M",
+      "total_balance_due": 877.42,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96068",
+      "parcel_id": null,
+      "name": "MERHEB MICHAEL",
+      "total_balance_due": 1196.45,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96069",
+      "parcel_id": null,
+      "name": "MICHAEL JANET",
+      "total_balance_due": 858.03,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96070",
+      "parcel_id": null,
+      "name": "MIDDLETON TRAVIS D",
+      "total_balance_due": 806.76,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96071",
+      "parcel_id": null,
+      "name": "MILLWOOD JOHN W",
+      "total_balance_due": 982.15,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96072",
+      "parcel_id": null,
+      "name": "MORAN MIKE",
+      "total_balance_due": 4227.11,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96073",
+      "parcel_id": null,
+      "name": "MORRIS KRISTIN NICHOLE",
+      "total_balance_due": 853.02,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96074",
+      "parcel_id": null,
+      "name": "NATIONAL STRIPED BAS S ASSOC I",
+      "total_balance_due": 3650.56,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96075",
+      "parcel_id": null,
+      "name": "NEWSOM MICHAEL EDWARD",
+      "total_balance_due": 1056.52,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96076",
+      "parcel_id": null,
+      "name": "OERTLE GARY S",
+      "total_balance_due": 902.97,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96077",
+      "parcel_id": null,
+      "name": "PACHECO REDIN DONALDO",
+      "total_balance_due": 854.12,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96078",
+      "parcel_id": null,
+      "name": "PATRICK JOEL E",
+      "total_balance_due": 1307.08,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96079",
+      "parcel_id": null,
+      "name": "PHELPS BENJAMIN L",
+      "total_balance_due": 933.29,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96080",
+      "parcel_id": null,
+      "name": "PLACE HEATHER A",
+      "total_balance_due": 2294.74,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96081",
+      "parcel_id": null,
+      "name": "PUGH TODD C",
+      "total_balance_due": 904.8,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96082",
+      "parcel_id": null,
+      "name": "PYATT BROWN CHANTE",
+      "total_balance_due": 966.94,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96083",
+      "parcel_id": null,
+      "name": "RATENSKI SHAWN I",
+      "total_balance_due": 850.72,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96084",
+      "parcel_id": null,
+      "name": "RODERICK J F",
+      "total_balance_due": 2219.58,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96085",
+      "parcel_id": null,
+      "name": "RODZEN JAN",
+      "total_balance_due": 2325.63,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96086",
+      "parcel_id": null,
+      "name": "SEGARS DONALD K",
+      "total_balance_due": 1066.92,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96087",
+      "parcel_id": null,
+      "name": "SHAFFER MATTHEW S",
+      "total_balance_due": 2172.42,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96088",
+      "parcel_id": null,
+      "name": "SIMMONS JILLIAN E",
+      "total_balance_due": 2090.83,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96089",
+      "parcel_id": null,
+      "name": "SIMS ANDREW TYLER",
+      "total_balance_due": 1164.81,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96090",
+      "parcel_id": null,
+      "name": "SMITH EDWIN F",
+      "total_balance_due": 2071.9,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96091",
+      "parcel_id": null,
+      "name": "SMITH RANDY C",
+      "total_balance_due": 956.13,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96092",
+      "parcel_id": null,
+      "name": "STAFFORD THOMAS J",
+      "total_balance_due": 2394.84,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96093",
+      "parcel_id": null,
+      "name": "STREET DANIEL S",
+      "total_balance_due": 1398.16,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96094",
+      "parcel_id": null,
+      "name": "SUZUKI OF GREENVILLE",
+      "total_balance_due": 2137.82,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96095",
+      "parcel_id": null,
+      "name": "TAMMY ASHLEY RIDDLE",
+      "total_balance_due": 1056.61,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96096",
+      "parcel_id": null,
+      "name": "TATUM PAMELA K",
+      "total_balance_due": 1636.09,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96097",
+      "parcel_id": null,
+      "name": "THOENNES RICK",
+      "total_balance_due": 2386.46,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96098",
+      "parcel_id": null,
+      "name": "THOMPSON RICHARD W",
+      "total_balance_due": 3069.05,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96099",
+      "parcel_id": null,
+      "name": "THRONE MELISHA R",
+      "total_balance_due": 891.74,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96100",
+      "parcel_id": null,
+      "name": "TINSLEY RYNE H",
+      "total_balance_due": 1749.0,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96101",
+      "parcel_id": null,
+      "name": "TRIPLETTE GERAMY L",
+      "total_balance_due": 1104.05,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96102",
+      "parcel_id": null,
+      "name": "TROXEL JEFFREY A",
+      "total_balance_due": 6240.61,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96103",
+      "parcel_id": null,
+      "name": "TURNBOW SHAWN K",
+      "total_balance_due": 1246.78,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96104",
+      "parcel_id": null,
+      "name": "UPTON JIMMY S",
+      "total_balance_due": 910.31,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96105",
+      "parcel_id": null,
+      "name": "URICH ANDREW C",
+      "total_balance_due": 1201.72,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96106",
+      "parcel_id": null,
+      "name": "WARD TARA D",
+      "total_balance_due": 1076.16,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96107",
+      "parcel_id": null,
+      "name": "WATERS TONY L",
+      "total_balance_due": 1214.38,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96108",
+      "parcel_id": null,
+      "name": "WELLS KENNETH",
+      "total_balance_due": 1826.78,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96109",
+      "parcel_id": null,
+      "name": "WEST TIFFINY A",
+      "total_balance_due": 11919.85,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96110",
+      "parcel_id": null,
+      "name": "WILBOURN THOMAS J",
+      "total_balance_due": 2453.52,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96111",
+      "parcel_id": null,
+      "name": "WILSON VICTOR P",
+      "total_balance_due": 1782.76,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96112",
+      "parcel_id": null,
+      "name": "WOOD KEVIN A",
+      "total_balance_due": 1444.15,
+      "detail_url": null,
+      "tax_year": "2025"
+    },
+    {
+      "item_number": "96113",
+      "parcel_id": null,
+      "name": "YOUNG CHRISTOPHER",
+      "total_balance_due": 954.16,
+      "detail_url": null,
       "tax_year": "2025"
     }
   ]
