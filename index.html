@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Dorchester County, SC — Delinquent Tax Register</title>
+<title>Delinquent Tax Register</title>
 <style>
   :root{
     --paper:#F1ECDD;
@@ -27,9 +27,8 @@
   .mono{font-family:ui-monospace,SFMono-Regular,"Courier New",Courier,monospace;}
   a{color:var(--teal);}
 
-  /* ---- Header ---- */
   header{
-    max-width:1100px;margin:0 auto 18px;
+    max-width:1100px;margin:0 auto 14px;
     display:flex;align-items:flex-start;justify-content:space-between;
     gap:20px;flex-wrap:wrap;
     border-bottom:2px solid var(--ink);
@@ -41,7 +40,7 @@
   }
   h1{
     font-family:ui-monospace,SFMono-Regular,"Courier New",Courier,monospace;
-    font-size:28px;margin:2px 0 0;font-weight:700;
+    font-size:26px;margin:2px 0 0;font-weight:700;
   }
   .stamp{
     font-family:ui-monospace,SFMono-Regular,"Courier New",Courier,monospace;
@@ -54,11 +53,24 @@
     animation:stampin 0.35s ease-out;
     white-space:nowrap;
   }
-  .stamp .big{font-size:15px;font-weight:700;letter-spacing:0.03em;}
+  .stamp .big{font-size:14px;font-weight:700;letter-spacing:0.03em;}
   .stamp .small{font-size:10px;letter-spacing:0.05em;margin-top:2px;}
   @keyframes stampin{
     from{opacity:0;transform:rotate(-4deg) scale(1.4);}
     to{opacity:1;transform:rotate(-4deg) scale(1);}
+  }
+
+  /* ---- County switcher ---- */
+  .county-switcher{
+    max-width:1100px;margin:0 auto 18px;
+    display:flex;align-items:center;gap:10px;
+  }
+  .county-switcher label{font-size:12px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:0.05em;}
+  .county-switcher select{
+    font-family:ui-monospace,SFMono-Regular,"Courier New",Courier,monospace;
+    font-size:14px;font-weight:700;padding:7px 10px;
+    border:2px solid var(--ink);border-radius:3px;background:var(--white);color:var(--ink);
+    cursor:pointer;
   }
 
   /* ---- Sale info panel ---- */
@@ -72,30 +84,27 @@
   #saleinfo .cell{background:var(--white);padding:10px 12px;}
   #saleinfo .cell .label{color:var(--ink-soft);font-size:11px;text-transform:uppercase;letter-spacing:0.05em;}
   #saleinfo .cell .value{margin-top:2px;font-weight:600;}
+  #saleinfo .cell .value a{font-weight:600;}
 
-  /* ---- Tabs ---- */
   .container{max-width:1100px;margin:0 auto;}
-  .tabs{display:flex;gap:2px;margin-bottom:14px;}
+  .tabs{display:flex;gap:2px;margin-bottom:14px;flex-wrap:wrap;}
   .tab{
     padding:9px 16px;background:var(--paper-alt);border:1px solid var(--rule);
     border-bottom:none;cursor:pointer;font-size:14px;color:var(--ink-soft);
   }
   .tab.active{background:var(--white);color:var(--ink);font-weight:700;border-color:var(--ink);}
 
-  /* ---- Summary bar ---- */
   .summary{
     background:var(--white);border:1px solid var(--rule);border-top:1px solid var(--ink);
     padding:10px 14px;font-size:13px;color:var(--ink-soft);
     display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;
   }
   .summary b{color:var(--ink);}
-  .badge{
-    display:inline-block;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700;
-  }
+  .badge{display:inline-block;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700;}
   .badge.ok{background:#DCE8D2;color:#3B5B2A;}
   .badge.warn{background:#F1D7CC;color:var(--red);}
+  .badge.neutral{background:#E4E0D0;color:var(--ink-soft);}
 
-  /* ---- Filter toolbar ---- */
   .toolbar{
     display:flex;gap:10px;flex-wrap:wrap;align-items:center;
     background:var(--white);border:1px solid var(--rule);border-top:none;
@@ -111,7 +120,6 @@
   .toolbar .spacer{flex:1;}
   .toolbar .count{font-size:13px;color:var(--ink-soft);}
 
-  /* ---- Table ---- */
   table{width:100%;border-collapse:collapse;background:var(--white);font-size:13px;}
   thead th{
     text-align:left;padding:9px 10px;border-bottom:2px solid var(--ink);
@@ -120,24 +128,17 @@
   }
   thead th:hover{color:var(--ink);}
   thead th.sorted{color:var(--ink);}
-  thead th .arrow{font-size:10px;margin-left:3px;}
   tbody td{padding:8px 10px;border-bottom:1px solid var(--rule);vertical-align:top;}
   tbody tr:nth-child(even){background:var(--paper-alt);}
   tbody tr:hover{background:#EFE6C8;}
   td.balance{font-weight:700;text-align:right;}
   td.years{color:var(--red);font-size:12px;}
   .formerly{color:var(--ink-soft);font-size:11px;font-style:italic;margin-top:2px;}
-  .empty-state{padding:40px 14px;text-align:center;color:var(--ink-soft);}
+  .empty-state{padding:40px 14px;text-align:center;color:var(--ink-soft);background:var(--white);border:1px solid var(--rule);border-top:none;}
   .gis-link{font-size:11px;}
 
-  .change-entry{
-    background:var(--white);border:1px solid var(--rule);border-top:none;
-    padding:12px 14px;
-  }
-  .change-entry .date{
-    font-family:ui-monospace,SFMono-Regular,"Courier New",Courier,monospace;
-    font-weight:700;font-size:13px;margin-bottom:8px;
-  }
+  .change-entry{background:var(--white);border:1px solid var(--rule);border-top:none;padding:12px 14px;}
+  .change-entry .date{font-family:ui-monospace,SFMono-Regular,"Courier New",Courier,monospace;font-weight:700;font-size:13px;margin-bottom:8px;}
   .change-cols{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
   .change-col h4{margin:0 0 6px;font-size:11px;text-transform:uppercase;letter-spacing:0.05em;}
   .change-col.added h4{color:var(--red);}
@@ -146,10 +147,7 @@
   .change-row .amt{font-family:ui-monospace,SFMono-Regular,"Courier New",Courier,monospace;white-space:nowrap;}
   @media (max-width:640px){.change-cols{grid-template-columns:1fr;}}
 
-  footer{
-    max-width:1100px;margin:26px auto 0;font-size:12px;color:var(--ink-soft);
-    border-top:1px solid var(--rule);padding-top:12px;
-  }
+  footer{max-width:1100px;margin:26px auto 0;font-size:12px;color:var(--ink-soft);border-top:1px solid var(--rule);padding-top:12px;}
 
   @media (max-width:640px){
     .toolbar input[type=text]{width:100%;}
@@ -161,23 +159,24 @@
 
 <header>
   <div class="title-block">
-    <div class="eyebrow">DORCHESTER COUNTY · SOUTH CAROLINA</div>
-    <h1>Delinquent Tax Register</h1>
+    <div class="eyebrow" id="eyebrow">COUNTY · STATE</div>
+    <h1 id="pageTitle">Delinquent Tax Register</h1>
   </div>
   <div id="stamp" class="stamp" style="display:none;">
-    <div class="big" id="stampDate">SALE OCT 19</div>
+    <div class="big" id="stampDate">SALE</div>
     <div class="small" id="stampSub">— days out</div>
   </div>
 </header>
 
+<div class="county-switcher">
+  <label for="countySelect">County:</label>
+  <select id="countySelect"></select>
+</div>
+
 <div id="saleinfo"></div>
 
 <div class="container">
-  <div class="tabs">
-    <div class="tab active" data-tab="real_property">Real Property</div>
-    <div class="tab" data-tab="mobile_home">Mobile Homes</div>
-    <div class="tab" data-tab="changes">Recent Changes</div>
-  </div>
+  <div class="tabs" id="tabs"></div>
 
   <div class="summary" id="summary">Loading…</div>
 
@@ -185,7 +184,7 @@
     <input type="text" id="search" placeholder="Search name or parcel #…">
     <label>Min $ <input type="number" id="minBalance" placeholder="0"></label>
     <label>Max $ <input type="number" id="maxBalance" placeholder="any"></label>
-    <label><input type="checkbox" id="multiYear"> Multi-year delinquent only</label>
+    <label id="multiYearLabel"><input type="checkbox" id="multiYear"> Multi-year delinquent only</label>
     <div class="spacer"></div>
     <div class="count" id="resultCount"></div>
   </div>
@@ -193,11 +192,11 @@
   <div id="tableWrap">
     <table>
       <thead>
-        <tr>
+        <tr id="headerRow">
           <th data-key="name">Name</th>
           <th data-key="parcel_id" id="idHeader">Parcel</th>
           <th data-key="total_balance_due" style="text-align:right;">Balance Due</th>
-          <th data-key="prior_years_unpaid">Prior Years Unpaid</th>
+          <th data-key="prior_years_unpaid" id="yearsHeader">Prior Years Unpaid</th>
           <th></th>
         </tr>
       </thead>
@@ -209,28 +208,39 @@
   <div id="changesWrap" style="display:none;"></div>
 </div>
 
-<footer>
-  Data pulled from Dorchester County's public delinquent tax pages
-  (<a href="https://as400.dorchestercounty.net/webapps/dtx000200.pgm" target="_blank">real property</a>,
-  <a href="https://as400.dorchestercounty.net/webapps/dtx000201.pgm" target="_blank">mobile homes</a>)
-  by an automated GitHub Actions job. Sale dates and registration windows are entered by hand each tax year —
-  always confirm details on the
-  <a href="https://www.dorchestercountysc.gov/government/property-tax-services/delinquent-tax" target="_blank">county's official page</a>
-  before relying on them. This is a personal research tool, not legal or financial advice.
-</footer>
+<footer id="footer"></footer>
 
 <script>
-const DATA_FILES = {
-  real_property: "data/dorchester_sc/real_property.json",
-  mobile_home: "data/dorchester_sc/mobile_homes.json"
+const COUNTIES = {
+  dorchester_sc: {
+    label: "Dorchester County, SC",
+    metaFile: "data/counties/dorchester_sc.json",
+    changesFile: "data/dorchester_sc/changes.json",
+    saleInfoType: "dorchester",
+    footerNote: 'Data pulled from Dorchester County’s public delinquent tax pages by an automated GitHub Actions job. Sale dates and registration windows are entered by hand each tax year — always confirm details on the county’s official page before relying on them. This is a personal research tool, not legal or financial advice.',
+    lists: [
+      { key: "real_property", label: "Real Property", dataFile: "data/dorchester_sc/real_property.json", idLabel: "TMS #", hasMultiYear: true, detailLinkMode: "static", staticDetailUrl: "https://www.dorchestercountysc.gov/government/property-tax-services/assessor/real-estate-mobile-home-search/cama-parcel-lookup-old-page-test-page", staticDetailLabel: "Look up" },
+      { key: "mobile_home", label: "Mobile Homes", dataFile: "data/dorchester_sc/mobile_homes.json", idLabel: "Sticker #", hasMultiYear: true, detailLinkMode: "static", staticDetailUrl: "https://www.dorchestercountysc.gov/government/property-tax-services/assessor/real-estate-mobile-home-search/cama-parcel-lookup-old-page-test-page", staticDetailLabel: "Look up" }
+    ]
+  },
+  greenville_sc: {
+    label: "Greenville County, SC",
+    metaFile: "data/counties/greenville_sc.json",
+    changesFile: "data/greenville_sc/changes.json",
+    saleInfoType: "greenville",
+    footerNote: 'Data pulled from Greenville County’s public tax sale list by an automated GitHub Actions job. Sale dates and registration windows are entered by hand each tax year — always confirm details on the county’s official page before relying on them. This is a personal research tool, not legal or financial advice.',
+    lists: [
+      { key: "tax_sale", label: "Tax Sale List", dataFile: "data/greenville_sc/tax_sale.json", idLabel: "Map #", hasMultiYear: false, detailLinkMode: "perRecord", detailLinkLabel: "Details" }
+    ]
+  }
 };
-const COUNTY_META_FILE = "data/counties/dorchester_sc.json";
-const CHANGES_FILE = "data/dorchester_sc/changes.json";
 
 let state = {
-  tab: "real_property",
-  datasets: {},          // tab -> parsed JSON
+  countyKey: null,
+  activeTab: null, // a list key, or "changes"
+  datasets: {},    // listKey -> parsed JSON
   countyMeta: null,
+  changes: [],
   search: "",
   minBalance: null,
   maxBalance: null,
@@ -239,27 +249,93 @@ let state = {
   sortDir: "desc"
 };
 
-async function loadAll(){
-  const tbody = document.getElementById("tbody");
+function currentCounty(){ return COUNTIES[state.countyKey]; }
+function currentListConfig(){
+  return currentCounty().lists.find(l => l.key === state.activeTab) || null;
+}
+function currentDataset(){
+  return state.datasets[state.activeTab];
+}
+
+function populateCountySelect(){
+  const sel = document.getElementById("countySelect");
+  sel.innerHTML = Object.entries(COUNTIES).map(([key, cfg]) =>
+    `<option value="${key}">${cfg.label}</option>`
+  ).join("");
+  sel.value = state.countyKey;
+  sel.addEventListener("change", () => loadCounty(sel.value));
+}
+
+function buildTabs(){
+  const county = currentCounty();
+  const tabsEl = document.getElementById("tabs");
+  const tabDefs = [
+    ...county.lists.map(l => ({ key: l.key, label: l.label })),
+    { key: "changes", label: "Recent Changes" }
+  ];
+  tabsEl.innerHTML = tabDefs.map(t =>
+    `<div class="tab${t.key === state.activeTab ? ' active' : ''}" data-tab="${t.key}">${t.label}</div>`
+  ).join("");
+  tabsEl.querySelectorAll(".tab").forEach(tabEl => {
+    tabEl.addEventListener("click", () => {
+      state.activeTab = tabEl.dataset.tab;
+      tabsEl.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+      tabEl.classList.add("active");
+      applyTabVisibility();
+      render();
+    });
+  });
+}
+
+function applyTabVisibility(){
+  const isChanges = state.activeTab === "changes";
+  document.getElementById("filterToolbar").style.display = isChanges ? "none" : "flex";
+  document.getElementById("tableWrap").style.display = isChanges ? "none" : "block";
+  document.getElementById("summary").style.display = isChanges ? "none" : "flex";
+  document.getElementById("changesWrap").style.display = isChanges ? "block" : "none";
+}
+
+async function loadCounty(countyKey){
+  state.countyKey = countyKey;
+  const county = COUNTIES[countyKey];
+  state.activeTab = county.lists[0].key;
+  state.datasets = {};
+  state.countyMeta = null;
+  state.changes = [];
+  state.search = ""; state.minBalance = null; state.maxBalance = null; state.multiYearOnly = false;
+  document.getElementById("search").value = "";
+  document.getElementById("minBalance").value = "";
+  document.getElementById("maxBalance").value = "";
+  document.getElementById("multiYear").checked = false;
+
+  document.getElementById("eyebrow").textContent = county.label.toUpperCase();
+  document.getElementById("footer").innerHTML = county.footerNote;
+  document.title = county.label + " — Delinquent Tax Register";
+
+  document.getElementById("summary").textContent = "Loading…";
+  document.getElementById("tbody").innerHTML = "";
+  document.getElementById("emptyState").style.display = "none";
+
+  buildTabs();
+  applyTabVisibility();
+
   try {
-    const [rp, mh, meta, changes] = await Promise.all([
-      fetch(DATA_FILES.real_property).then(r => r.json()),
-      fetch(DATA_FILES.mobile_home).then(r => r.json()),
-      fetch(COUNTY_META_FILE).then(r => r.json()),
-      // changes.json won't exist until there's at least one day-over-day diff — that's fine, not an error
-      fetch(CHANGES_FILE).then(r => r.ok ? r.json() : []).catch(() => [])
+    const listFetches = county.lists.map(l => fetch(l.dataFile).then(r => r.json()));
+    const [meta, changes, ...listResults] = await Promise.all([
+      fetch(county.metaFile).then(r => r.json()),
+      fetch(county.changesFile).then(r => r.ok ? r.json() : []).catch(() => []),
+      ...listFetches
     ]);
-    state.datasets.real_property = rp;
-    state.datasets.mobile_home = mh;
+    county.lists.forEach((l, i) => { state.datasets[l.key] = listResults[i]; });
     state.countyMeta = meta;
     state.changes = changes || [];
     renderSaleInfo();
     render();
   } catch (err) {
-    tbody.innerHTML = "";
     document.getElementById("emptyState").style.display = "block";
+    document.getElementById("tableWrap").querySelector("table").style.display = "none";
     document.getElementById("emptyState").innerHTML =
-      "<b>Couldn't load the data files.</b><br>" +
+      "<b>Couldn't load this county's data files.</b><br>" +
       "If you're opening this file directly (file://), that's expected — browsers block " +
       "local JSON fetches for security. Serve it through GitHub Pages, or run a local server " +
       "(e.g. <code>python -m http.server</code>) from the repo root and open it from there.<br>" +
@@ -268,44 +344,75 @@ async function loadAll(){
   }
 }
 
+function parseDateOnly(iso){
+  // "2026-10-19" parsed via `new Date(string)` is UTC midnight, which rolls
+  // back a calendar day once displayed in any negative-offset timezone
+  // (e.g. US Eastern). Building the date from explicit Y/M/D components
+  // uses local midnight instead, so the displayed date always matches
+  // what the county actually published.
+  const [y, m, d] = iso.split("T")[0].split("-").map(Number);
+  return new Date(y, m - 1, d);
+}
+
+function fmtDate(iso){
+  return parseDateOnly(iso).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});
+}
+
 function renderSaleInfo(){
+  const county = currentCounty();
   const m = state.countyMeta;
   if (!m) return;
-  const sale = m.tax_sale;
-  const saleDate = new Date(sale.sale_date + "T09:00:00");
+
+  let stampLabel, stampSub, cells;
   const today = new Date();
-  const daysOut = Math.ceil((saleDate - today) / 86400000);
 
-  const stamp = document.getElementById("stamp");
-  stamp.style.display = "block";
-  document.getElementById("stampDate").textContent =
-    "SALE " + saleDate.toLocaleDateString("en-US",{month:"short",day:"numeric"}).toUpperCase();
-  document.getElementById("stampSub").textContent =
-    daysOut > 0 ? daysOut + " DAYS OUT" : (daysOut === 0 ? "TODAY" : "PASSED");
+  if (county.saleInfoType === "dorchester"){
+    const sale = m.tax_sale;
+    const saleDate = parseDateOnly(sale.sale_date);
+    const daysOut = Math.ceil((saleDate - today) / 86400000);
+    stampLabel = "SALE " + saleDate.toLocaleDateString("en-US",{month:"short",day:"numeric"}).toUpperCase();
+    stampSub = daysOut > 0 ? daysOut + " DAYS OUT" : (daysOut === 0 ? "TODAY" : "PASSED");
+    cells = [
+      ["Sale date", saleDate.toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric"})],
+      ["Location", sale.sale_location],
+      ["Bidder registration", "Opens " + fmtDate(sale.bidder_registration_opens) + " · Closes " + fmtDate(sale.bidder_registration_closes)],
+      ["Real property advertising", "Starts " + fmtDate(sale.real_property_advertising.starts) + " (" + sale.real_property_advertising.duration + ")"],
+      ["Mobile home advertising", "Starts " + fmtDate(sale.mobile_home_advertising.starts) + " (" + sale.mobile_home_advertising.duration + ")"]
+    ];
+  } else if (county.saleInfoType === "greenville"){
+    const sale = m.tax_sale;
+    const firstDate = parseDateOnly(sale.sale_dates[0]);
+    const daysOut = Math.ceil((firstDate - today) / 86400000);
+    const dateRange = sale.sale_dates.length > 1
+      ? firstDate.toLocaleDateString("en-US",{month:"short",day:"numeric"}).toUpperCase() + "–" + parseDateOnly(sale.sale_dates[1]).getDate()
+      : firstDate.toLocaleDateString("en-US",{month:"short",day:"numeric"}).toUpperCase();
+    stampLabel = "SALE " + dateRange;
+    stampSub = daysOut > 0 ? daysOut + " DAYS OUT" : (daysOut === 0 ? "TODAY" : "PASSED");
+    cells = [
+      ["Sale dates", sale.sale_dates.map(d => parseDateOnly(d).toLocaleDateString("en-US",{weekday:"short",month:"long",day:"numeric",year:"numeric"})).join(" & ") + " (" + sale.sale_time_note + ")"],
+      ["Location", sale.sale_location],
+      ["Bidder registration", "Opens " + fmtDate(sale.bidder_registration_opens) + " — " + sale.bidder_registration_notes],
+      ["Contact", m.tax_collector_office.contact_name + ", " + m.tax_collector_office.contact_title + " · " + m.tax_collector_office.phone],
+      ["More info", `<a href="${sale.procedures_url}" target="_blank">Procedures</a> · <a href="${sale.faq_url}" target="_blank">FAQ</a> · <a href="${sale.bidder_registration_url}" target="_blank">Register</a>`]
+    ];
+  } else {
+    cells = [];
+  }
 
-  const cells = [
-    ["Sale date", saleDate.toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric"})],
-    ["Location", sale.sale_location],
-    ["Bidder registration", "Opens " + fmtDate(sale.bidder_registration_opens) + " · Closes " + fmtDate(sale.bidder_registration_closes)],
-    ["Real property advertising", "Starts " + fmtDate(sale.real_property_advertising.starts) + " (" + sale.real_property_advertising.duration + ")"],
-    ["Mobile home advertising", "Starts " + fmtDate(sale.mobile_home_advertising.starts) + " (" + sale.mobile_home_advertising.duration + ")"]
-  ];
+  const stampEl = document.getElementById("stamp");
+  stampEl.style.display = "block";
+  document.getElementById("stampDate").textContent = stampLabel;
+  document.getElementById("stampSub").textContent = stampSub;
+
   document.getElementById("saleinfo").innerHTML = cells.map(([label,value]) =>
     `<div class="cell"><div class="label">${label}</div><div class="value">${value}</div></div>`
   ).join("");
 }
 
-function fmtDate(iso){
-  return new Date(iso).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});
-}
-
-function currentDataset(){
-  return state.datasets[state.tab];
-}
-
 function filteredRecords(){
   const ds = currentDataset();
-  if (!ds) return [];
+  const listCfg = currentListConfig();
+  if (!ds || !listCfg) return [];
   let recs = ds.records;
 
   if (state.search.trim()){
@@ -321,7 +428,7 @@ function filteredRecords(){
   if (state.maxBalance !== null && !isNaN(state.maxBalance)){
     recs = recs.filter(r => (r.total_balance_due || 0) <= state.maxBalance);
   }
-  if (state.multiYearOnly){
+  if (state.multiYearOnly && listCfg.hasMultiYear){
     recs = recs.filter(r => r.prior_years_unpaid && r.prior_years_unpaid.length > 0);
   }
 
@@ -347,14 +454,11 @@ function renderChanges(){
     wrap.innerHTML = `<div class="empty-state">No changes recorded yet — this fills in once the scraper has run on at least two different days.</div>`;
     return;
   }
-  // newest first
   const sorted = [...changes].reverse();
   wrap.innerHTML = sorted.map(entry => {
-    const listLabel = entry.list_type === "real_property" ? "Real Property" : "Mobile Homes";
-    const addedRows = entry.added.map(r => `
-      <div class="change-row"><span>${escapeHtml(r.name)} <span class="mono" style="color:var(--ink-soft);">${escapeHtml(r.parcel_id)}</span></span><span class="amt">$${(r.total_balance_due||0).toLocaleString(undefined,{minimumFractionDigits:2})}</span></div>
-    `).join("") || `<div class="change-row" style="color:var(--ink-soft);">None</div>`;
-    const removedRows = entry.removed.map(r => `
+    const listCfg = currentCounty().lists.find(l => l.key === entry.list_type);
+    const listLabel = listCfg ? listCfg.label : entry.list_type;
+    const rowsHtml = (arr) => arr.map(r => `
       <div class="change-row"><span>${escapeHtml(r.name)} <span class="mono" style="color:var(--ink-soft);">${escapeHtml(r.parcel_id)}</span></span><span class="amt">$${(r.total_balance_due||0).toLocaleString(undefined,{minimumFractionDigits:2})}</span></div>
     `).join("") || `<div class="change-row" style="color:var(--ink-soft);">None</div>`;
 
@@ -364,11 +468,11 @@ function renderChanges(){
         <div class="change-cols">
           <div class="change-col added">
             <h4>+ ${entry.added_count} New</h4>
-            ${addedRows}
+            ${rowsHtml(entry.added)}
           </div>
           <div class="change-col removed">
             <h4>&minus; ${entry.removed_count} Dropped Off (paid, or resolved)</h4>
-            ${removedRows}
+            ${rowsHtml(entry.removed)}
           </div>
         </div>
       </div>
@@ -377,19 +481,24 @@ function renderChanges(){
 }
 
 function render(){
-  if (state.tab === "changes"){
+  if (state.activeTab === "changes"){
     renderChanges();
     return;
   }
-  const ds = currentDataset();
-  const idLabel = state.tab === "real_property" ? "TMS #" : "Sticker #";
-  document.getElementById("idHeader").textContent = idLabel;
 
-  // summary bar
+  const ds = currentDataset();
+  const listCfg = currentListConfig();
+  if (!listCfg) return;
+
+  document.getElementById("idHeader").textContent = listCfg.idLabel;
+  document.getElementById("yearsHeader").style.display = listCfg.hasMultiYear ? "" : "none";
+  document.getElementById("multiYearLabel").style.display = listCfg.hasMultiYear ? "flex" : "none";
+
   if (ds){
-    const matchBadge = ds.totals_match
-      ? '<span class="badge ok">totals match</span>'
-      : '<span class="badge warn">totals mismatch — check source</span>';
+    let matchBadge;
+    if (ds.totals_match === true) matchBadge = '<span class="badge ok">totals match</span>';
+    else if (ds.totals_match === false) matchBadge = '<span class="badge warn">totals mismatch — check source</span>';
+    else matchBadge = '<span class="badge neutral">no site checksum to verify</span>';
     const scraped = ds.scraped_at ? new Date(ds.scraped_at).toLocaleString() : "never (placeholder data)";
     document.getElementById("summary").innerHTML =
       `<span><b>${ds.record_count}</b> accounts · <b>$${(ds.parsed_total_balance_due||0).toLocaleString(undefined,{minimumFractionDigits:2})}</b> total owed ${matchBadge}</span>` +
@@ -402,6 +511,8 @@ function render(){
 
   const tbody = document.getElementById("tbody");
   const empty = document.getElementById("emptyState");
+  document.querySelector("#tableWrap table").style.display = "table";
+
   if (recs.length === 0){
     tbody.innerHTML = "";
     empty.style.display = "block";
@@ -412,37 +523,34 @@ function render(){
   }
   empty.style.display = "none";
 
-  tbody.innerHTML = recs.map(r => `
+  tbody.innerHTML = recs.map(r => {
+    const yearsCell = listCfg.hasMultiYear
+      ? `<td class="years mono">${(r.prior_years_unpaid||[]).join(" ")}</td>`
+      : "";
+    let detailCell = "";
+    if (listCfg.detailLinkMode === "static"){
+      detailCell = `<td class="gis-link"><a href="${listCfg.staticDetailUrl}" target="_blank">${listCfg.staticDetailLabel} ↗</a></td>`;
+    } else if (listCfg.detailLinkMode === "perRecord" && r.detail_url){
+      detailCell = `<td class="gis-link"><a href="${r.detail_url}" target="_blank">${listCfg.detailLinkLabel} ↗</a></td>`;
+    } else {
+      detailCell = `<td></td>`;
+    }
+    return `
     <tr>
       <td>${escapeHtml(r.name)}${r.formerly_owned_by && r.formerly_owned_by.length ? `<div class="formerly">Formerly: ${r.formerly_owned_by.map(escapeHtml).join(", ")}</div>` : ""}</td>
       <td class="mono">${escapeHtml(r.parcel_id)}</td>
       <td class="balance mono">$${(r.total_balance_due||0).toLocaleString(undefined,{minimumFractionDigits:2})}</td>
-      <td class="years mono">${(r.prior_years_unpaid||[]).join(" ")}</td>
-      <td class="gis-link">${state.tab === "real_property" ? `<a href="https://www.dorchestercountysc.gov/government/property-tax-services/assessor/real-estate-mobile-home-search/cama-parcel-lookup-old-page-test-page" target="_blank">Look up ↗</a>` : ""}</td>
+      ${yearsCell}
+      ${detailCell}
     </tr>
-  `).join("");
+  `;
+  }).join("");
 }
 
 function escapeHtml(s){
   return (s||"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 }
 
-// --- events ---
-document.querySelectorAll(".tab").forEach(tab => {
-  tab.addEventListener("click", () => {
-    document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
-    tab.classList.add("active");
-    state.tab = tab.dataset.tab;
-
-    const isChanges = state.tab === "changes";
-    document.getElementById("filterToolbar").style.display = isChanges ? "none" : "flex";
-    document.getElementById("tableWrap").style.display = isChanges ? "none" : "block";
-    document.getElementById("summary").style.display = isChanges ? "none" : "flex";
-    document.getElementById("changesWrap").style.display = isChanges ? "block" : "none";
-
-    render();
-  });
-});
 document.querySelectorAll("thead th[data-key]").forEach(th => {
   th.addEventListener("click", () => {
     const key = th.dataset.key;
@@ -462,7 +570,8 @@ document.getElementById("minBalance").addEventListener("input", e => { state.min
 document.getElementById("maxBalance").addEventListener("input", e => { state.maxBalance = e.target.value === "" ? null : parseFloat(e.target.value); render(); });
 document.getElementById("multiYear").addEventListener("change", e => { state.multiYearOnly = e.target.checked; render(); });
 
-loadAll();
+populateCountySelect();
+loadCounty("dorchester_sc");
 </script>
 
 </body>
