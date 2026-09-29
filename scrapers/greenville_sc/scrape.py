@@ -62,10 +62,13 @@ def _parse_money(text: str) -> float | None:
 @dataclass
 class TaxSaleRecord:
     item_number: str
-    parcel_id: str  # Greenville calls this "Map #"
+    parcel_id: str | None  # Greenville calls this "Map #". Item numbers in
+    # the ~91000-96113 range are personal property / mobile home entries
+    # with no Map # and no detail page — parcel_id and detail_url are None
+    # for those rows rather than being silently dropped.
     name: str
     total_balance_due: float | None
-    detail_url: str
+    detail_url: str | None
     tax_year: str
 
 
@@ -114,23 +117,31 @@ def parse_records(html: str, tax_year: str) -> tuple[list[TaxSaleRecord], dict]:
                     pass
             continue
 
+        if not item_number.isdigit():
+            continue  # not a real data row (header/footer/stray markup)
+
         # Map # comes from the link's href (authoritative) when present,
         # falling back to the cell text (should always match, but hrefs
         # are the actual source of truth for what the detail page expects).
+        # Some rows (confirmed: item #s ~91000-96113, personal property /
+        # mobile home entries) have a genuinely blank Map # cell and no
+        # detail link — those are kept, just with parcel_id/detail_url
+        # set to None instead of being dropped.
         link = cells[1].find("a")
         map_number = None
         if link and link.get("href"):
             match = re.search(r"MapNumber=([A-Za-z0-9]+)", link["href"])
             if match:
                 map_number = match.group(1)
-        if not map_number:
+        if not map_number and map_cell_text:
             map_number = map_cell_text
-
-        if not map_number or not item_number.isdigit():
-            continue  # not a real data row
+        map_number = map_number or None
 
         balance = _parse_money(amount_text)
-        detail_url = f"{DETAILS_BASE_URL}?TaxYear={tax_year}&MapNumber={map_number}"
+        detail_url = (
+            f"{DETAILS_BASE_URL}?TaxYear={tax_year}&MapNumber={map_number}"
+            if map_number else None
+        )
 
         records.append(
             TaxSaleRecord(
@@ -148,15 +159,25 @@ def parse_records(html: str, tax_year: str) -> tuple[list[TaxSaleRecord], dict]:
 
 def _compact(record: dict) -> dict:
     return {
+        "item_number": record.get("item_number"),
         "name": record.get("name"),
         "parcel_id": record.get("parcel_id"),
         "total_balance_due": record.get("total_balance_due"),
     }
 
 
+def _dedup_key(record: dict) -> str:
+    # Map # is the stable identifier when present. Rows with no Map # (the
+    # personal property / mobile home block, item #s ~91000-96113) have
+    # nothing else stable to key on, so fall back to the item number —
+    # imperfect if the county ever renumbers that block, but far better
+    # than dropping the rows entirely.
+    return record.get("parcel_id") or f"item-{record.get('item_number')}"
+
+
 def compute_diff(previous_records: list[dict], new_records: list[dict]) -> tuple[list[dict], list[dict]]:
-    prev_by_id = {r["parcel_id"]: r for r in previous_records if r.get("parcel_id")}
-    new_by_id = {r["parcel_id"]: r for r in new_records if r.get("parcel_id")}
+    prev_by_id = {_dedup_key(r): r for r in previous_records}
+    new_by_id = {_dedup_key(r): r for r in new_records}
     added_ids = new_by_id.keys() - prev_by_id.keys()
     removed_ids = prev_by_id.keys() - new_by_id.keys()
     added = [_compact(new_by_id[i]) for i in added_ids]
