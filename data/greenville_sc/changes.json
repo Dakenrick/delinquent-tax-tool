@@ -1408,5 +1408,236 @@
         "total_balance_due": 4960.2
       }
     ]
+  },
+  {
+    "date": "2026-09-30",
+    "list_type": "tax_sale",
+    "added_count": 0,
+    "removed_count": 37,
+    "added": [],
+    "removed": [
+      {
+        "item_number": "3208",
+        "name": "CHASTAIN SARA R CHASTAIN RONAL",
+        "parcel_id": "0093000700405",
+        "total_balance_due": 1720.87
+      },
+      {
+        "item_number": "7772",
+        "name": "HAWKINS JOHN",
+        "parcel_id": "0655020601700",
+        "total_balance_due": 677.83
+      },
+      {
+        "item_number": "6260",
+        "name": "FREEMAN JENNIFER S",
+        "parcel_id": "0258000300900",
+        "total_balance_due": 3015.91
+      },
+      {
+        "item_number": "1288",
+        "name": "BELUE GARY ALLEN JR",
+        "parcel_id": "0500020100703",
+        "total_balance_due": 1929.27
+      },
+      {
+        "item_number": "3688",
+        "name": "COLEMAN R CAROLYN COLEMAN BILL",
+        "parcel_id": "T021020102501",
+        "total_balance_due": 3945.75
+      },
+      {
+        "item_number": "9680",
+        "name": "KANZIGG CLAYTON W",
+        "parcel_id": "0537060207100",
+        "total_balance_due": 824.79
+      },
+      {
+        "item_number": "11348",
+        "name": "MAHAFFEY CAROLINE RICHARDSON",
+        "parcel_id": "0541000110300",
+        "total_balance_due": 1256.6
+      },
+      {
+        "item_number": "7848",
+        "name": "HAYNES PEGGY SUE RICE",
+        "parcel_id": "0398000202700",
+        "total_balance_due": 8235.46
+      },
+      {
+        "item_number": "14996",
+        "name": "REDDING HOLLY MARIE REDDING DE",
+        "parcel_id": "0661010101004",
+        "total_balance_due": 779.49
+      },
+      {
+        "item_number": "13096",
+        "name": "NASH HOMES LLC",
+        "parcel_id": "0188010900700",
+        "total_balance_due": 2292.71
+      },
+      {
+        "item_number": "832",
+        "name": "BABBE PARKER",
+        "parcel_id": "0106010300300",
+        "total_balance_due": 11327.74
+      },
+      {
+        "item_number": "6600",
+        "name": "GAY LYDIA",
+        "parcel_id": "T026000102604",
+        "total_balance_due": 2645.53
+      },
+      {
+        "item_number": "10816",
+        "name": "LEONARD JOAN M",
+        "parcel_id": "T029010108000",
+        "total_balance_due": 4505.33
+      },
+      {
+        "item_number": "836",
+        "name": "BABBE PARKER",
+        "parcel_id": "0106010401600",
+        "total_balance_due": 3304.57
+      },
+      {
+        "item_number": "1484",
+        "name": "BISHOP FRED M",
+        "parcel_id": "0534020103102",
+        "total_balance_due": 4965.68
+      },
+      {
+        "item_number": "13104",
+        "name": "NASH HOMES LLC",
+        "parcel_id": "0282000402801",
+        "total_balance_due": 10988.45
+      },
+      {
+        "item_number": "1012",
+        "name": "BARKLEY DWIGHT S",
+        "parcel_id": "0328000103500",
+        "total_balance_due": 1190.17
+      },
+      {
+        "item_number": "7768",
+        "name": "HAWKINS JOHN",
+        "parcel_id": "0655020500300",
+        "total_balance_due": 677.83
+      },
+      {
+        "item_number": "15000",
+        "name": "REDDING HOLLY MARIE REDDING DE",
+        "parcel_id": "0661010101012",
+        "total_balance_due": 773.11
+      },
+      {
+        "item_number": "90047",
+        "name": "BUSHEY VICTORIA",
+        "parcel_id": "B004020100606",
+        "total_balance_due": 1973.21
+      },
+      {
+        "item_number": "1476",
+        "name": "BISHOP BARBARA W",
+        "parcel_id": "T009060118200",
+        "total_balance_due": 2489.97
+      },
+      {
+        "item_number": "10772",
+        "name": "LEGACY PRO-SOLUTIONS LLC JOHNS",
+        "parcel_id": "0066000100201",
+        "total_balance_due": 1392.07
+      },
+      {
+        "item_number": "9504",
+        "name": "JONES JAMES K",
+        "parcel_id": "0373000100200",
+        "total_balance_due": 2811.13
+      },
+      {
+        "item_number": "7192",
+        "name": "GREENE BRENDA RICE (JTWROS) GR",
+        "parcel_id": "G002000500200",
+        "total_balance_due": 2405.55
+      },
+      {
+        "item_number": "90211",
+        "name": "TAYLOR SYLVIA",
+        "parcel_id": "0421000403200",
+        "total_balance_due": 1652.28
+      },
+      {
+        "item_number": "4112",
+        "name": "CRUMP ALLAN",
+        "parcel_id": "0633130113100",
+        "total_balance_due": 5630.16
+      },
+      {
+        "item_number": "7444",
+        "name": "HALL CARPEE RICHARDSON",
+        "parcel_id": "WG02020100202",
+        "total_balance_due": 14411.94
+      },
+      {
+        "item_number": "12460",
+        "name": "MILLERTIME LLC",
+        "parcel_id": "0420000101509",
+        "total_balance_due": 3219.41
+      },
+      {
+        "item_number": "13100",
+        "name": "NASH HOMES LLC",
+        "parcel_id": "0188010900800",
+        "total_balance_due": 2292.71
+      },
+      {
+        "item_number": "13224",
+        "name": "NEWSTYLE BLAIZE RIDGE II LLC",
+        "parcel_id": "0528060106000",
+        "total_balance_due": 1642.56
+      },
+      {
+        "item_number": "12456",
+        "name": "MILLERTIME LLC",
+        "parcel_id": "0420000101508",
+        "total_balance_due": 1617.12
+      },
+      {
+        "item_number": "7188",
+        "name": "GREENE BRENDA RICE",
+        "parcel_id": "P015130112100",
+        "total_balance_due": 3180.43
+      },
+      {
+        "item_number": "11344",
+        "name": "MAHAFFEY CAROLINE RICHARDSON",
+        "parcel_id": "0309000101300",
+        "total_balance_due": 1055.21
+      },
+      {
+        "item_number": "14844",
+        "name": "RAIGOSA ANTONIO RAIGOSA BLANCA",
+        "parcel_id": "B011000304700",
+        "total_balance_due": 1839.11
+      },
+      {
+        "item_number": "16512",
+        "name": "SHREEYAMUNA LLC",
+        "parcel_id": "0126000600900",
+        "total_balance_due": 2737.15
+      },
+      {
+        "item_number": "1572",
+        "name": "BLACKLEY LAUREN D",
+        "parcel_id": "0279040105400",
+        "total_balance_due": 1439.37
+      },
+      {
+        "item_number": "13488",
+        "name": "OLIVERI KATHERINE ELIZABETH (J",
+        "parcel_id": "0110000300900",
+        "total_balance_due": 1788.25
+      }
+    ]
   }
 ]
