@@ -46,5 +46,193 @@
         "total_balance_due": 405.57
       }
     ]
+  },
+  {
+    "date": "2026-09-30",
+    "list_type": "real_property",
+    "added_count": 0,
+    "removed_count": 25,
+    "added": [],
+    "removed": [
+      {
+        "name": "REDDEN TAMMY",
+        "parcel_id": "042-00-00-083.000-C",
+        "total_balance_due": 184.95
+      },
+      {
+        "name": "REDDEN TAMMY C & MICHAEL J",
+        "parcel_id": "042-00-00-044.000-C",
+        "total_balance_due": 480.3
+      },
+      {
+        "name": "RAMSEY CAROLINA (LIFE ESTATE)",
+        "parcel_id": "160-09-00-025.002-C",
+        "total_balance_due": 6425.23
+      },
+      {
+        "name": "CONSTRUCT SOUTH INC",
+        "parcel_id": "045-15-07-005.000-C",
+        "total_balance_due": 10323.31
+      },
+      {
+        "name": "CREEK BOTTOM PRESERVE LLC",
+        "parcel_id": "043-00-00-003.000-C",
+        "total_balance_due": 1181.25
+      },
+      {
+        "name": "ZESKI TERRY L",
+        "parcel_id": "160-09-02-005.000-C",
+        "total_balance_due": 2277.58
+      },
+      {
+        "name": "HILL JOHN W",
+        "parcel_id": "152-00-00-099.000-C",
+        "total_balance_due": 9294.1
+      },
+      {
+        "name": "ELMORE RICHARD & TALVIN",
+        "parcel_id": "032-00-00-214.000-C",
+        "total_balance_due": 1067.22
+      },
+      {
+        "name": "CONSTRUCT SOUTH INC",
+        "parcel_id": "045-15-04-004.000-C",
+        "total_balance_due": 2665.71
+      },
+      {
+        "name": "REDDEN TAMMY",
+        "parcel_id": "102-00-00-021.000-C",
+        "total_balance_due": 1062.25
+      },
+      {
+        "name": "WHITFIELD ROSALEE & ISAAC MCNEIL",
+        "parcel_id": "145-11-05-060.000-C",
+        "total_balance_due": 523.48
+      },
+      {
+        "name": "REDDEN MICHAEL & TAMMY",
+        "parcel_id": "045-13-03-012.000-C",
+        "total_balance_due": 801.26
+      },
+      {
+        "name": "TMR HOLDINGS LLC",
+        "parcel_id": "045-15-11-003.000-C",
+        "total_balance_due": 2363.1
+      },
+      {
+        "name": "TMR HOLDINGS LLC",
+        "parcel_id": "045-15-12-002.000-C",
+        "total_balance_due": 10232.59
+      },
+      {
+        "name": "REDDEN MICHAEL",
+        "parcel_id": "081-00-00-059.000-C",
+        "total_balance_due": 176.4
+      },
+      {
+        "name": "MONTJOY MARTIN W",
+        "parcel_id": "153-03-03-011.000-C",
+        "total_balance_due": 1921.44
+      },
+      {
+        "name": "ROD HOLDINGS LLC",
+        "parcel_id": "045-15-12-005.000-C",
+        "total_balance_due": 17724.26
+      },
+      {
+        "name": "REDDEN TAMMY C",
+        "parcel_id": "058-02-04-004.000-C",
+        "total_balance_due": 3024.73
+      },
+      {
+        "name": "TMR HOLDINGS LLC",
+        "parcel_id": "045-00-00-062.000-C",
+        "total_balance_due": 44817.79
+      },
+      {
+        "name": "TUPPER KATHERINE LEE",
+        "parcel_id": "135-00-00-126.000-C",
+        "total_balance_due": 5861.0
+      },
+      {
+        "name": "REDDEN TAMMY",
+        "parcel_id": "034-00-00-030.000-C",
+        "total_balance_due": 2577.45
+      },
+      {
+        "name": "REDDEN TAMMY C & MICHAEL J (JTRO",
+        "parcel_id": "042-00-00-057.000-C",
+        "total_balance_due": 364.74
+      },
+      {
+        "name": "TMR HOLDINGS LLC",
+        "parcel_id": "045-10-07-008.000-C",
+        "total_balance_due": 845.36
+      },
+      {
+        "name": "TMR HOLDINGS LLC",
+        "parcel_id": "045-15-07-003.000-C",
+        "total_balance_due": 1142.4
+      },
+      {
+        "name": "THOMASON MICHAEL W & MELISSA O",
+        "parcel_id": "129-12-01-011.000-C",
+        "total_balance_due": 7530.6
+      }
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "list_type": "mobile_home",
+    "added_count": 0,
+    "removed_count": 9,
+    "added": [],
+    "removed": [
+      {
+        "name": "FELDER RANDOLPH",
+        "parcel_id": "27939C",
+        "total_balance_due": 1872.75
+      },
+      {
+        "name": "MATHEWS LADON HENRY SR",
+        "parcel_id": "26973C",
+        "total_balance_due": 529.69
+      },
+      {
+        "name": "MORRELL MARY ANN",
+        "parcel_id": "26685C",
+        "total_balance_due": 927.39
+      },
+      {
+        "name": "SHEPPARD LEATHA O",
+        "parcel_id": "17751C",
+        "total_balance_due": 378.9
+      },
+      {
+        "name": "YES COMPAINES LLC",
+        "parcel_id": "27971C",
+        "total_balance_due": 4636.89
+      },
+      {
+        "name": "LINDER DANIEL M",
+        "parcel_id": "28378C",
+        "total_balance_due": 237.97
+      },
+      {
+        "name": "SCOTT MARK EDWARD",
+        "parcel_id": "25412C",
+        "total_balance_due": 332.56
+      },
+      {
+        "name": "ELMORE CAROLYN DENISE",
+        "parcel_id": "24126C",
+        "total_balance_due": 679.26
+      },
+      {
+        "name": "ELMORE RUBY",
+        "parcel_id": "19066C",
+        "total_balance_due": 353.96
+      }
+    ]
   }
 ]

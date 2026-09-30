@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "real_property",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000200.pgm",
-  "scraped_at": "2026-09-29T17:20:07.226149+00:00",
-  "record_count": 700,
+  "scraped_at": "2026-09-30T17:17:49.759499+00:00",
+  "record_count": 675,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 2503579.91,
+  "parsed_total_balance_due": 2364029.19,
   "totals_match": false,
   "records": [
     {
@@ -1364,22 +1364,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "CONSTRUCT SOUTH INC",
-      "parcel_id": "045-15-04-004.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2665.71,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "CONSTRUCT SOUTH INC",
-      "parcel_id": "045-15-07-005.000-C",
-      "id_type": "tms",
-      "total_balance_due": 10323.31,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "COPE ART",
       "parcel_id": "128-04-03-019.000-C",
       "id_type": "tms",
@@ -1436,16 +1420,6 @@
       "total_balance_due": 4761.4,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
-    },
-    {
-      "name": "CREEK BOTTOM PRESERVE LLC",
-      "parcel_id": "043-00-00-003.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1181.25,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "MORELAND AUBREY"
-      ]
     },
     {
       "name": "CRENSHAW RODNEY L & ANITA MICHEL",
@@ -1742,14 +1716,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "ELMORE RICHARD & TALVIN",
-      "parcel_id": "032-00-00-214.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1067.22,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "ENGLISH STREET INVESTMENTS LLC",
       "parcel_id": "050-00-00-036.000-C",
       "id_type": "tms",
@@ -1929,7 +1895,7 @@
       "name": "FOX NICHOLAS",
       "parcel_id": "194-00-00-009.000-C",
       "id_type": "tms",
-      "total_balance_due": 7076.64,
+      "total_balance_due": 2394.42,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -2448,14 +2414,6 @@
       "parcel_id": "007-00-00-082.000-C",
       "id_type": "tms",
       "total_balance_due": 1057.96,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "HILL JOHN W",
-      "parcel_id": "152-00-00-099.000-C",
-      "id_type": "tms",
-      "total_balance_due": 9294.1,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -3528,14 +3486,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MONTJOY MARTIN W",
-      "parcel_id": "153-03-03-011.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1921.44,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MONTROY EDITH M & WELLS ASHLEY",
       "parcel_id": "122-16-07-009.000-C",
       "id_type": "tms",
@@ -3958,14 +3908,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "RAMSEY CAROLINA (LIFE ESTATE)",
-      "parcel_id": "160-09-00-025.002-C",
-      "id_type": "tms",
-      "total_balance_due": 6425.23,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "RANGEL JAVIER M & YULISSA D L TE",
       "parcel_id": "015-00-00-144.000-C",
       "id_type": "tms",
@@ -4032,70 +3974,6 @@
       "formerly_owned_by": [
         "REAM CAROLYN L"
       ]
-    },
-    {
-      "name": "REDDEN MICHAEL",
-      "parcel_id": "081-00-00-059.000-C",
-      "id_type": "tms",
-      "total_balance_due": 176.4,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "REDDEN MICHAEL & TAMMY",
-      "parcel_id": "045-13-03-012.000-C",
-      "id_type": "tms",
-      "total_balance_due": 801.26,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "REDDEN TAMMY",
-      "parcel_id": "102-00-00-021.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1062.25,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "REDDEN TAMMY",
-      "parcel_id": "034-00-00-030.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2577.45,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "REDDEN TAMMY",
-      "parcel_id": "042-00-00-083.000-C",
-      "id_type": "tms",
-      "total_balance_due": 184.95,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "REDDEN TAMMY C",
-      "parcel_id": "058-02-04-004.000-C",
-      "id_type": "tms",
-      "total_balance_due": 3024.73,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "REDDEN TAMMY C & MICHAEL J",
-      "parcel_id": "042-00-00-044.000-C",
-      "id_type": "tms",
-      "total_balance_due": 480.3,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "REDDEN TAMMY C & MICHAEL J (JTRO",
-      "parcel_id": "042-00-00-057.000-C",
-      "id_type": "tms",
-      "total_balance_due": 364.74,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
     },
     {
       "name": "REED SHERRIOD",
@@ -4290,14 +4168,6 @@
       "parcel_id": "045-15-12-003.000-C",
       "id_type": "tms",
       "total_balance_due": 6994.27,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ROD HOLDINGS LLC",
-      "parcel_id": "045-15-12-005.000-C",
-      "id_type": "tms",
-      "total_balance_due": 17724.26,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -5138,14 +5008,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "THOMASON MICHAEL W & MELISSA O",
-      "parcel_id": "129-12-01-011.000-C",
-      "id_type": "tms",
-      "total_balance_due": 7530.6,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "THOMPSON ANNA BELL",
       "parcel_id": "133-00-00-098.000-C",
       "id_type": "tms",
@@ -5194,48 +5056,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "TMR HOLDINGS LLC",
-      "parcel_id": "045-10-07-008.000-C",
-      "id_type": "tms",
-      "total_balance_due": 845.36,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "MCALHANY CHRISTINE W"
-      ]
-    },
-    {
-      "name": "TMR HOLDINGS LLC",
-      "parcel_id": "045-00-00-062.000-C",
-      "id_type": "tms",
-      "total_balance_due": 44817.79,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "TMR HOLDINGS LLC",
-      "parcel_id": "045-15-07-003.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1142.4,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "TMR HOLDINGS LLC",
-      "parcel_id": "045-15-11-003.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2363.1,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "TMR HOLDINGS LLC",
-      "parcel_id": "045-15-12-002.000-C",
-      "id_type": "tms",
-      "total_balance_due": 10232.59,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "TRUETT BECK SUE & BECY SUE",
       "parcel_id": "090-00-00-161.000-C",
       "id_type": "tms",
@@ -5272,14 +5092,6 @@
       "parcel_id": "090-00-00-045.000-C",
       "id_type": "tms",
       "total_balance_due": 365.25,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "TUPPER KATHERINE LEE",
-      "parcel_id": "135-00-00-126.000-C",
-      "id_type": "tms",
-      "total_balance_due": 5861.0,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -5492,14 +5304,6 @@
       "parcel_id": "045-14-04-005.000-C",
       "id_type": "tms",
       "total_balance_due": 1809.62,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "WHITFIELD ROSALEE & ISAAC MCNEIL",
-      "parcel_id": "145-11-05-060.000-C",
-      "id_type": "tms",
-      "total_balance_due": 523.48,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -5728,14 +5532,6 @@
       "parcel_id": "199-00-00-012.000-C",
       "id_type": "tms",
       "total_balance_due": 628.49,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ZESKI TERRY L",
-      "parcel_id": "160-09-02-005.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2277.58,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },

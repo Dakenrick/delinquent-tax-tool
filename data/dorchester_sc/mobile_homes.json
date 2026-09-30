@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "mobile_home",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000201.pgm",
-  "scraped_at": "2026-09-29T17:20:08.111365+00:00",
-  "record_count": 337,
+  "scraped_at": "2026-09-30T17:17:50.113989+00:00",
+  "record_count": 328,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 276749.82,
+  "parsed_total_balance_due": 266800.45,
   "totals_match": false,
   "records": [
     {
@@ -613,26 +613,10 @@
       "formerly_owned_by": []
     },
     {
-      "name": "ELMORE CAROLYN DENISE",
-      "parcel_id": "24126C",
-      "id_type": "sticker",
-      "total_balance_due": 679.26,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "ELMORE GEORGE MARCUS",
       "parcel_id": "25587C",
       "id_type": "sticker",
       "total_balance_due": 303.05,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ELMORE RUBY",
-      "parcel_id": "19066C",
-      "id_type": "sticker",
-      "total_balance_due": 353.96,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -669,18 +653,6 @@
       "id_type": "sticker",
       "total_balance_due": 684.81,
       "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "FELDER RANDOLPH",
-      "parcel_id": "27939C",
-      "id_type": "sticker",
-      "total_balance_due": 1872.75,
-      "prior_years_unpaid": [
-        "2022",
-        "2023",
-        "2024"
-      ],
       "formerly_owned_by": []
     },
     {
@@ -1439,14 +1411,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "LINDER DANIEL M",
-      "parcel_id": "28378C",
-      "id_type": "sticker",
-      "total_balance_due": 237.97,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "LLOYD VALERIE",
       "parcel_id": "27346C",
       "id_type": "sticker",
@@ -1523,14 +1487,6 @@
       "parcel_id": "17665C",
       "id_type": "sticker",
       "total_balance_due": 313.51,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "MATHEWS LADON HENRY SR",
-      "parcel_id": "26973C",
-      "id_type": "sticker",
-      "total_balance_due": 529.69,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1715,14 +1671,6 @@
       "parcel_id": "31105C",
       "id_type": "sticker",
       "total_balance_due": 948.28,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "MORRELL MARY ANN",
-      "parcel_id": "26685C",
-      "id_type": "sticker",
-      "total_balance_due": 927.39,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -2096,14 +2044,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "SCOTT MARK EDWARD",
-      "parcel_id": "25412C",
-      "id_type": "sticker",
-      "total_balance_due": 332.56,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "SEABROOK HAROLD",
       "parcel_id": "23653C",
       "id_type": "sticker",
@@ -2135,14 +2075,6 @@
       "parcel_id": "23644C",
       "id_type": "sticker",
       "total_balance_due": 1261.54,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SHEPPARD LEATHA O",
-      "parcel_id": "17751C",
-      "id_type": "sticker",
-      "total_balance_due": 378.9,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -2718,17 +2650,6 @@
       "id_type": "sticker",
       "total_balance_due": 332.12,
       "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "YES COMPAINES LLC",
-      "parcel_id": "27971C",
-      "id_type": "sticker",
-      "total_balance_due": 4636.89,
-      "prior_years_unpaid": [
-        "2023",
-        "2024"
-      ],
       "formerly_owned_by": []
     },
     {
