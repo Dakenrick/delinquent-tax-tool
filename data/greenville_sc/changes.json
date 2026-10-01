@@ -1639,5 +1639,338 @@
         "total_balance_due": 1788.25
       }
     ]
+  },
+  {
+    "date": "2026-10-01",
+    "list_type": "tax_sale",
+    "added_count": 0,
+    "removed_count": 54,
+    "added": [],
+    "removed": [
+      {
+        "item_number": "94347",
+        "name": "TENCH WILLIAM CARROLL",
+        "parcel_id": null,
+        "total_balance_due": 882.14
+      },
+      {
+        "item_number": "94343",
+        "name": "TENCH WILLIAM C",
+        "parcel_id": null,
+        "total_balance_due": 1086.34
+      },
+      {
+        "item_number": "164",
+        "name": "ADAMS CHARLES E JR",
+        "parcel_id": "0548010102100",
+        "total_balance_due": 1232.62
+      },
+      {
+        "item_number": "624",
+        "name": "ARRINGTON ELIZABETH",
+        "parcel_id": "0598020102600",
+        "total_balance_due": 810.31
+      },
+      {
+        "item_number": "19544",
+        "name": "WILLIAMS OLLIS EST",
+        "parcel_id": "0611010103700",
+        "total_balance_due": 2450.15
+      },
+      {
+        "item_number": "19200",
+        "name": "WESTBROOKS ANTHONY CHARLES WES",
+        "parcel_id": "0238010401402",
+        "total_balance_due": 960.78
+      },
+      {
+        "item_number": "18592",
+        "name": "UPSTATE MOVEMENT AND DEVELOPER",
+        "parcel_id": "0104000200700",
+        "total_balance_due": 4900.34
+      },
+      {
+        "item_number": "1252",
+        "name": "BEHORIAM BRENT",
+        "parcel_id": "0583030103900",
+        "total_balance_due": 928.35
+      },
+      {
+        "item_number": "16628",
+        "name": "SIMPSON SHUNIKA",
+        "parcel_id": "0386000102500",
+        "total_balance_due": 950.14
+      },
+      {
+        "item_number": "10988",
+        "name": "LIEBE MERCEDEZ HOLDINGS LLC",
+        "parcel_id": "0391000201400",
+        "total_balance_due": 3259.66
+      },
+      {
+        "item_number": "1664",
+        "name": "BLUE POINT PROPERTIES LLC",
+        "parcel_id": "0583020100401",
+        "total_balance_due": 1063.13
+      },
+      {
+        "item_number": "18824",
+        "name": "VICTORIO MARGARITA GARCIA",
+        "parcel_id": "0137000500500",
+        "total_balance_due": 2050.53
+      },
+      {
+        "item_number": "920",
+        "name": "BALDWIN JOE SHANE",
+        "parcel_id": "B008020124800",
+        "total_balance_due": 2009.46
+      },
+      {
+        "item_number": "6016",
+        "name": "FORTNER NULA",
+        "parcel_id": "0640030102027",
+        "total_balance_due": 2397.15
+      },
+      {
+        "item_number": "14632",
+        "name": "PRINGLE DAREN A",
+        "parcel_id": "0201000102100",
+        "total_balance_due": 817.36
+      },
+      {
+        "item_number": "14648",
+        "name": "PRINGLE DAREN A",
+        "parcel_id": "0585050117300",
+        "total_balance_due": 825.94
+      },
+      {
+        "item_number": "96023",
+        "name": "CRABTREE TIMOTHY M",
+        "parcel_id": null,
+        "total_balance_due": 1691.11
+      },
+      {
+        "item_number": "19196",
+        "name": "WESTBROOKS ANTHONY CHARLES WES",
+        "parcel_id": "0238010401401",
+        "total_balance_due": 960.78
+      },
+      {
+        "item_number": "16408",
+        "name": "SHELL WALTER A SHELL INA MAE H",
+        "parcel_id": "0365000400900",
+        "total_balance_due": 1634.08
+      },
+      {
+        "item_number": "10300",
+        "name": "KS&D GROUP LLC",
+        "parcel_id": "0638100101200",
+        "total_balance_due": 1870.9
+      },
+      {
+        "item_number": "1652",
+        "name": "BLUE POINT PROPERTIES LLC",
+        "parcel_id": "0373000300100",
+        "total_balance_due": 1414.67
+      },
+      {
+        "item_number": "19800",
+        "name": "WOODS GARY W",
+        "parcel_id": "B013040107100",
+        "total_balance_due": 3385.16
+      },
+      {
+        "item_number": "1648",
+        "name": "BLUE POINT PROPERTIES LLC",
+        "parcel_id": "WG09000201000",
+        "total_balance_due": 19348.37
+      },
+      {
+        "item_number": "11340",
+        "name": "MADE NEW RENOVATIONS LLC",
+        "parcel_id": "0398000201300",
+        "total_balance_due": 3199.16
+      },
+      {
+        "item_number": "14644",
+        "name": "PRINGLE DAREN A",
+        "parcel_id": "0567010103302",
+        "total_balance_due": 677.7
+      },
+      {
+        "item_number": "5148",
+        "name": "EARLY WILLIAM KENT",
+        "parcel_id": "0554030100900",
+        "total_balance_due": 1841.41
+      },
+      {
+        "item_number": "10784",
+        "name": "LEISTER VIRGIL BRIAN",
+        "parcel_id": "0657060100602",
+        "total_balance_due": 824.17
+      },
+      {
+        "item_number": "1668",
+        "name": "BLUE POINT PROPERTIES LLC",
+        "parcel_id": "0583020100402",
+        "total_balance_due": 2196.99
+      },
+      {
+        "item_number": "14004",
+        "name": "PENLAND JULIA GAINES PATRICIA",
+        "parcel_id": "0212000701700",
+        "total_balance_due": 3726.94
+      },
+      {
+        "item_number": "4456",
+        "name": "DAWKINS DAVEN D DAWKINS DAVID",
+        "parcel_id": "T006001301500",
+        "total_balance_due": 2248.31
+      },
+      {
+        "item_number": "19552",
+        "name": "WILLIAMS OLLIS EST",
+        "parcel_id": "0611010105800",
+        "total_balance_due": 1369.82
+      },
+      {
+        "item_number": "17256",
+        "name": "STALLCUP JEREMY",
+        "parcel_id": "0182000206300",
+        "total_balance_due": 2418.26
+      },
+      {
+        "item_number": "2108",
+        "name": "BROWN ZELMA ANN FOSTER",
+        "parcel_id": "G014000305623",
+        "total_balance_due": 3202.85
+      },
+      {
+        "item_number": "16028",
+        "name": "SAXON DEBORAH SAXON TRACY L",
+        "parcel_id": "0602020103505",
+        "total_balance_due": 750.17
+      },
+      {
+        "item_number": "10024",
+        "name": "KOPISH JEFF",
+        "parcel_id": "0295000100507",
+        "total_balance_due": 5753.13
+      },
+      {
+        "item_number": "18404",
+        "name": "TROIKA GROUP LLC",
+        "parcel_id": "0645060101601",
+        "total_balance_due": 4535.59
+      },
+      {
+        "item_number": "17296",
+        "name": "STATES ESTATES AT FAIRVIEW LLC",
+        "parcel_id": "0330000100132",
+        "total_balance_due": 1990.06
+      },
+      {
+        "item_number": "15468",
+        "name": "ROBERTS THERESA ANN",
+        "parcel_id": "0229000104000",
+        "total_balance_due": 2109.7
+      },
+      {
+        "item_number": "10780",
+        "name": "LEISTER VIRGIL",
+        "parcel_id": "0657060100900",
+        "total_balance_due": 888.0
+      },
+      {
+        "item_number": "19496",
+        "name": "WILLIAMS GREGORY A",
+        "parcel_id": "B011000203900",
+        "total_balance_due": 3046.29
+      },
+      {
+        "item_number": "4296",
+        "name": "DANCING EILEEN LLC",
+        "parcel_id": "0059000500400",
+        "total_balance_due": 37190.61
+      },
+      {
+        "item_number": "7428",
+        "name": "GVL MANAGEMENT LLC",
+        "parcel_id": "0367000100214",
+        "total_balance_due": 1480.71
+      },
+      {
+        "item_number": "7792",
+        "name": "HAWKINS MELISSA",
+        "parcel_id": "0655020500600",
+        "total_balance_due": 1163.9
+      },
+      {
+        "item_number": "14544",
+        "name": "POWDERSVILLE HOLDINGS LLC",
+        "parcel_id": "0599010102002",
+        "total_balance_due": 1531.02
+      },
+      {
+        "item_number": "7660",
+        "name": "HARRISON BERNICE",
+        "parcel_id": "0121000100500",
+        "total_balance_due": 2440.53
+      },
+      {
+        "item_number": "14636",
+        "name": "PRINGLE DAREN A",
+        "parcel_id": "0404000301000",
+        "total_balance_due": 743.89
+      },
+      {
+        "item_number": "19060",
+        "name": "WATSON JEFFREY WATSON SANDRA R",
+        "parcel_id": "T023000700600",
+        "total_balance_due": 984.84
+      },
+      {
+        "item_number": "1660",
+        "name": "BLUE POINT PROPERTIES LLC",
+        "parcel_id": "0373000300102",
+        "total_balance_due": 3380.76
+      },
+      {
+        "item_number": "8832",
+        "name": "INTEGRITY CAROLINAS LLC",
+        "parcel_id": "0528030102006",
+        "total_balance_due": 2064.65
+      },
+      {
+        "item_number": "9548",
+        "name": "JONES WILLIE MACK",
+        "parcel_id": "WG02050107500",
+        "total_balance_due": 3031.97
+      },
+      {
+        "item_number": "7788",
+        "name": "HAWKINS MELISSA",
+        "parcel_id": "0655020500400",
+        "total_balance_due": 871.79
+      },
+      {
+        "item_number": "11208",
+        "name": "LOWE NICHOLAS RYAN",
+        "parcel_id": "0505020103203",
+        "total_balance_due": 1429.57
+      },
+      {
+        "item_number": "19192",
+        "name": "WESTBROOKS ANTHONY C",
+        "parcel_id": "0238010401403",
+        "total_balance_due": 1145.78
+      },
+      {
+        "item_number": "14752",
+        "name": "PUGH LARRY",
+        "parcel_id": "0197000500900",
+        "total_balance_due": 1792.35
+      }
+    ]
   }
 ]
