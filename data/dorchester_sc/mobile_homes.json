@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "mobile_home",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000201.pgm",
-  "scraped_at": "2026-09-30T17:17:50.113989+00:00",
-  "record_count": 328,
+  "scraped_at": "2026-10-01T17:45:51.669941+00:00",
+  "record_count": 316,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 266800.45,
+  "parsed_total_balance_due": 257743.3,
   "totals_match": false,
   "records": [
     {
@@ -293,14 +293,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "BURGREEN DOUGLAS A & WILMA L & S",
-      "parcel_id": "24438C",
-      "id_type": "sticker",
-      "total_balance_due": 897.5,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "CANANT PHILIP N",
       "parcel_id": "16124C",
       "id_type": "sticker",
@@ -377,14 +369,6 @@
       "parcel_id": "5547C",
       "id_type": "sticker",
       "total_balance_due": 439.57,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "COOPER CINDY LEE",
-      "parcel_id": "27076C",
-      "id_type": "sticker",
-      "total_balance_due": 205.42,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -664,22 +648,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "FISHER CAROLYN SUE",
-      "parcel_id": "24618C",
-      "id_type": "sticker",
-      "total_balance_due": 396.77,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "FISHER JOHN W",
-      "parcel_id": "22835C",
-      "id_type": "sticker",
-      "total_balance_due": 439.57,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "FLYNN JOSEPH & SONIA",
       "parcel_id": "21326C",
       "id_type": "sticker",
@@ -716,14 +684,6 @@
       "parcel_id": "28233C",
       "id_type": "sticker",
       "total_balance_due": 1490.3,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "FULLER CHRISTOPHER WAYNE OR LEWI",
-      "parcel_id": "28460C",
-      "id_type": "sticker",
-      "total_balance_due": 559.43,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -812,14 +772,6 @@
       "parcel_id": "29395C",
       "id_type": "sticker",
       "total_balance_due": 772.02,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "GIRON ALONSO GUZMAN",
-      "parcel_id": "28141C",
-      "id_type": "sticker",
-      "total_balance_due": 743.06,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1315,14 +1267,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "KNIGHT TOOLS INC",
-      "parcel_id": "26874C",
-      "id_type": "sticker",
-      "total_balance_due": 1195.5,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "LAND SHEILA O",
       "parcel_id": "24170C",
       "id_type": "sticker",
@@ -1770,14 +1714,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "PEARSON LATONIA DENISE OR JORON",
-      "parcel_id": "29632C",
-      "id_type": "sticker",
-      "total_balance_due": 336.29,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "PEREZ CARIAS ASTRID PAOLA",
       "parcel_id": "30724C",
       "id_type": "sticker",
@@ -1872,14 +1808,6 @@
       "parcel_id": "31386C",
       "id_type": "sticker",
       "total_balance_due": 2605.88,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "PROGRESS PROPERTIES LLC",
-      "parcel_id": "30809C",
-      "id_type": "sticker",
-      "total_balance_due": 2518.75,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -2207,14 +2135,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "SNYDER ERIC GRANT OR PATRICIA AN",
-      "parcel_id": "30370C",
-      "id_type": "sticker",
-      "total_balance_due": 464.89,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "SPELLS EARNESTINE WILLIAMS",
       "parcel_id": "26003C",
       "id_type": "sticker",
@@ -2235,14 +2155,6 @@
       "parcel_id": "25900C",
       "id_type": "sticker",
       "total_balance_due": 668.6,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "STEPHENS STANLEY A JR & TERESA S",
-      "parcel_id": "22624C",
-      "id_type": "sticker",
-      "total_balance_due": 604.65,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -2355,14 +2267,6 @@
       "parcel_id": "13919C",
       "id_type": "sticker",
       "total_balance_due": 614.06,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "TRADER PRICILLA V & WILLIE C",
-      "parcel_id": "23008C",
-      "id_type": "sticker",
-      "total_balance_due": 695.32,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },

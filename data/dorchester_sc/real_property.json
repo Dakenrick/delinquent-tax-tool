@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "real_property",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000200.pgm",
-  "scraped_at": "2026-09-30T17:17:49.759499+00:00",
-  "record_count": 675,
+  "scraped_at": "2026-10-01T17:45:50.938275+00:00",
+  "record_count": 654,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 2364029.19,
+  "parsed_total_balance_due": 2329871.69,
   "totals_match": false,
   "records": [
     {
@@ -241,16 +241,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "APPELT BRIAN DAVID",
-      "parcel_id": "161-00-00-097.000-C",
-      "id_type": "tms",
-      "total_balance_due": 12295.08,
-      "prior_years_unpaid": [
-        "2024"
-      ],
-      "formerly_owned_by": []
-    },
-    {
       "name": "ARD HOLLY P",
       "parcel_id": "153-01-09-010.000-C",
       "id_type": "tms",
@@ -331,14 +321,6 @@
       "parcel_id": "121-00-00-207.000-C",
       "id_type": "tms",
       "total_balance_due": 445.53,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "BAKER JULIE MIZZELL",
-      "parcel_id": "008-00-00-107.000-C",
-      "id_type": "tms",
-      "total_balance_due": 593.7,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1824,30 +1806,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "FISHER CAROLYN",
-      "parcel_id": "161-01-06-002.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1142.51,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "FISHER CAROLYN S",
-      "parcel_id": "045-07-03-030.000-C",
-      "id_type": "tms",
-      "total_balance_due": 370.42,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "FISHER DIANA & JOHN (LIFE ESTATE",
-      "parcel_id": "067-00-00-087.000-C",
-      "id_type": "tms",
-      "total_balance_due": 652.55,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "FITZGERALD JACOB THOMAS ETAL",
       "parcel_id": "151-11-00-066.000-C",
       "id_type": "tms",
@@ -2042,14 +2000,6 @@
       "parcel_id": "031-15-00-014.000-C",
       "id_type": "tms",
       "total_balance_due": 1293.37,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "GLENN EUGENE",
-      "parcel_id": "133-00-00-090.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1096.87,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -2410,14 +2360,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "HILDERBRAND ANNIE MEREDITH H",
-      "parcel_id": "007-00-00-082.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1057.96,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "HILTONS HEAVY EQUIPMENT LLC",
       "parcel_id": "101-00-00-031.000-C",
       "id_type": "tms",
@@ -2540,14 +2482,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "INABINETT GEORGE T & ORA BELLE",
-      "parcel_id": "035-00-00-013.000-C",
-      "id_type": "tms",
-      "total_balance_due": 596.38,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "INFINGER PATRICIA G",
       "parcel_id": "015-00-00-022.000-C",
       "id_type": "tms",
@@ -2594,14 +2528,6 @@
       "parcel_id": "092-00-00-088.000-C",
       "id_type": "tms",
       "total_balance_due": 637.79,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "JAMES ROBERT",
-      "parcel_id": "045-14-09-001.000-C",
-      "id_type": "tms",
-      "total_balance_due": 583.32,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -2682,14 +2608,6 @@
       "parcel_id": "003-00-00-033.000-C",
       "id_type": "tms",
       "total_balance_due": 1127.14,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "JOHNSON SHARON",
-      "parcel_id": "129-06-04-002.000-C",
-      "id_type": "tms",
-      "total_balance_due": 332.56,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -3078,14 +2996,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "LEWIS-RAY DELORIS Z",
-      "parcel_id": "081-00-00-038.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1040.85,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "LIMEHOUSE THOMAS",
       "parcel_id": "135-11-00-027.000-C",
       "id_type": "tms",
@@ -3410,14 +3320,6 @@
       "parcel_id": "137-09-01-014.000-C",
       "id_type": "tms",
       "total_balance_due": 1190.51,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "MILLER SAMUEL W",
-      "parcel_id": "133-00-00-068.000-C",
-      "id_type": "tms",
-      "total_balance_due": 594.81,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -3932,14 +3834,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "RAY DELORIS Z",
-      "parcel_id": "080-00-00-118.000-C",
-      "id_type": "tms",
-      "total_balance_due": 810.4,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "RAY DERRICK WENDELL",
       "parcel_id": "020-00-00-089.000-C",
       "id_type": "tms",
@@ -3952,14 +3846,6 @@
       "parcel_id": "020-00-00-091.000-C",
       "id_type": "tms",
       "total_balance_due": 441.78,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "RAY WENDY L & RHEA A & DARON WOO",
-      "parcel_id": "080-00-00-053.000-C",
-      "id_type": "tms",
-      "total_balance_due": 3027.07,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -4156,14 +4042,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "ROBINSON VERA & LEATHANN & JOY &",
-      "parcel_id": "133-00-00-059.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1002.22,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "ROD HOLDINGS LLC",
       "parcel_id": "045-15-12-003.000-C",
       "id_type": "tms",
@@ -4188,14 +4066,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "ROGERS JOYCE LAVERN",
-      "parcel_id": "129-11-14-037.000-C",
-      "id_type": "tms",
-      "total_balance_due": 505.41,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "ROSENSKI VICTORIA A",
       "parcel_id": "136-15-03-013.000-C",
       "id_type": "tms",
@@ -4216,14 +4086,6 @@
       "parcel_id": "035-00-00-145.000-C",
       "id_type": "tms",
       "total_balance_due": 805.6,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ROSS ANTONIO WASHIE & SABRINA",
-      "parcel_id": "035-00-00-112.000-C",
-      "id_type": "tms",
-      "total_balance_due": 672.92,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -4466,22 +4328,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "SINGLETON EDWARD JR",
-      "parcel_id": "137-08-02-006.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2317.51,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SINGLETON EDWARD JR",
-      "parcel_id": "043-00-00-075.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2877.08,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "SINGLETON GREGORY",
       "parcel_id": "032-00-00-194.000-C",
       "id_type": "tms",
@@ -4660,14 +4506,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "SOLOMON SHANNON F",
-      "parcel_id": "130-07-08-011.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1991.5,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "SOTO JULIO H VASQUEZ",
       "parcel_id": "154-14-03-048.000-C",
       "id_type": "tms",
@@ -4779,16 +4617,6 @@
       "prior_years_unpaid": [],
       "formerly_owned_by": [
         "STEPHENS STANLEY A"
-      ]
-    },
-    {
-      "name": "STEPHENS STANLEY A JR",
-      "parcel_id": "106-00-00-023.000-C",
-      "id_type": "tms",
-      "total_balance_due": 596.38,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "STEPHENS STANLEY A SR (ESTATE) E"
       ]
     },
     {

@@ -234,5 +234,188 @@
         "total_balance_due": 353.96
       }
     ]
+  },
+  {
+    "date": "2026-10-01",
+    "list_type": "real_property",
+    "added_count": 0,
+    "removed_count": 21,
+    "added": [],
+    "removed": [
+      {
+        "name": "MILLER SAMUEL W",
+        "parcel_id": "133-00-00-068.000-C",
+        "total_balance_due": 594.81
+      },
+      {
+        "name": "BAKER JULIE MIZZELL",
+        "parcel_id": "008-00-00-107.000-C",
+        "total_balance_due": 593.7
+      },
+      {
+        "name": "ROSS ANTONIO WASHIE & SABRINA",
+        "parcel_id": "035-00-00-112.000-C",
+        "total_balance_due": 672.92
+      },
+      {
+        "name": "APPELT BRIAN DAVID",
+        "parcel_id": "161-00-00-097.000-C",
+        "total_balance_due": 12295.08
+      },
+      {
+        "name": "HILDERBRAND ANNIE MEREDITH H",
+        "parcel_id": "007-00-00-082.000-C",
+        "total_balance_due": 1057.96
+      },
+      {
+        "name": "FISHER CAROLYN S",
+        "parcel_id": "045-07-03-030.000-C",
+        "total_balance_due": 370.42
+      },
+      {
+        "name": "ROBINSON VERA & LEATHANN & JOY &",
+        "parcel_id": "133-00-00-059.000-C",
+        "total_balance_due": 1002.22
+      },
+      {
+        "name": "JAMES ROBERT",
+        "parcel_id": "045-14-09-001.000-C",
+        "total_balance_due": 583.32
+      },
+      {
+        "name": "LEWIS-RAY DELORIS Z",
+        "parcel_id": "081-00-00-038.000-C",
+        "total_balance_due": 1040.85
+      },
+      {
+        "name": "STEPHENS STANLEY A JR",
+        "parcel_id": "106-00-00-023.000-C",
+        "total_balance_due": 596.38
+      },
+      {
+        "name": "FISHER CAROLYN",
+        "parcel_id": "161-01-06-002.000-C",
+        "total_balance_due": 1142.51
+      },
+      {
+        "name": "JOHNSON SHARON",
+        "parcel_id": "129-06-04-002.000-C",
+        "total_balance_due": 332.56
+      },
+      {
+        "name": "RAY DELORIS Z",
+        "parcel_id": "080-00-00-118.000-C",
+        "total_balance_due": 810.4
+      },
+      {
+        "name": "RAY WENDY L & RHEA A & DARON WOO",
+        "parcel_id": "080-00-00-053.000-C",
+        "total_balance_due": 3027.07
+      },
+      {
+        "name": "SINGLETON EDWARD JR",
+        "parcel_id": "043-00-00-075.000-C",
+        "total_balance_due": 2877.08
+      },
+      {
+        "name": "GLENN EUGENE",
+        "parcel_id": "133-00-00-090.000-C",
+        "total_balance_due": 1096.87
+      },
+      {
+        "name": "ROGERS JOYCE LAVERN",
+        "parcel_id": "129-11-14-037.000-C",
+        "total_balance_due": 505.41
+      },
+      {
+        "name": "SOLOMON SHANNON F",
+        "parcel_id": "130-07-08-011.000-C",
+        "total_balance_due": 1991.5
+      },
+      {
+        "name": "FISHER DIANA & JOHN (LIFE ESTATE",
+        "parcel_id": "067-00-00-087.000-C",
+        "total_balance_due": 652.55
+      },
+      {
+        "name": "INABINETT GEORGE T & ORA BELLE",
+        "parcel_id": "035-00-00-013.000-C",
+        "total_balance_due": 596.38
+      },
+      {
+        "name": "SINGLETON EDWARD JR",
+        "parcel_id": "137-08-02-006.000-C",
+        "total_balance_due": 2317.51
+      }
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "list_type": "mobile_home",
+    "added_count": 0,
+    "removed_count": 12,
+    "added": [],
+    "removed": [
+      {
+        "name": "SNYDER ERIC GRANT OR PATRICIA AN",
+        "parcel_id": "30370C",
+        "total_balance_due": 464.89
+      },
+      {
+        "name": "PROGRESS PROPERTIES LLC",
+        "parcel_id": "30809C",
+        "total_balance_due": 2518.75
+      },
+      {
+        "name": "FISHER JOHN W",
+        "parcel_id": "22835C",
+        "total_balance_due": 439.57
+      },
+      {
+        "name": "FULLER CHRISTOPHER WAYNE OR LEWI",
+        "parcel_id": "28460C",
+        "total_balance_due": 559.43
+      },
+      {
+        "name": "BURGREEN DOUGLAS A & WILMA L & S",
+        "parcel_id": "24438C",
+        "total_balance_due": 897.5
+      },
+      {
+        "name": "COOPER CINDY LEE",
+        "parcel_id": "27076C",
+        "total_balance_due": 205.42
+      },
+      {
+        "name": "KNIGHT TOOLS INC",
+        "parcel_id": "26874C",
+        "total_balance_due": 1195.5
+      },
+      {
+        "name": "TRADER PRICILLA V & WILLIE C",
+        "parcel_id": "23008C",
+        "total_balance_due": 695.32
+      },
+      {
+        "name": "STEPHENS STANLEY A JR & TERESA S",
+        "parcel_id": "22624C",
+        "total_balance_due": 604.65
+      },
+      {
+        "name": "PEARSON LATONIA DENISE OR JORON",
+        "parcel_id": "29632C",
+        "total_balance_due": 336.29
+      },
+      {
+        "name": "FISHER CAROLYN SUE",
+        "parcel_id": "24618C",
+        "total_balance_due": 396.77
+      },
+      {
+        "name": "GIRON ALONSO GUZMAN",
+        "parcel_id": "28141C",
+        "total_balance_due": 743.06
+      }
+    ]
   }
 ]
