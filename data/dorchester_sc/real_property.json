@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "real_property",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000200.pgm",
-  "scraped_at": "2026-10-01T17:45:50.938275+00:00",
-  "record_count": 654,
+  "scraped_at": "2026-10-02T17:05:58.298646+00:00",
+  "record_count": 631,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 2329871.69,
+  "parsed_total_balance_due": 2293571.52,
   "totals_match": false,
   "records": [
     {
@@ -181,14 +181,6 @@
       "parcel_id": "122-00-00-073.000-C",
       "id_type": "tms",
       "total_balance_due": 1876.12,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ALTMAN RANDY ALLEN",
-      "parcel_id": "198-00-00-016.000-C",
-      "id_type": "tms",
-      "total_balance_due": 3001.04,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1149,7 +1141,7 @@
       "name": "CHAMBERLAIN CURTIS & HEATHER (JT",
       "parcel_id": "015-00-00-155.000-C",
       "id_type": "tms",
-      "total_balance_due": 158.54,
+      "total_balance_due": 43.54,
       "prior_years_unpaid": [],
       "formerly_owned_by": [
         "CHAMBERLAIN CURTIS & HEATHER ("
@@ -1168,22 +1160,6 @@
       "parcel_id": "121-03-01-030.000-C",
       "id_type": "tms",
       "total_balance_due": 8586.96,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "CHAVIS BONNIE",
-      "parcel_id": "122-16-10-005.000-C",
-      "id_type": "tms",
-      "total_balance_due": 80.0,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "CHAVIS BONNIE",
-      "parcel_id": "122-16-10-008.000-C",
-      "id_type": "tms",
-      "total_balance_due": 80.0,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1334,14 +1310,6 @@
       "parcel_id": "106-00-00-112.000-C",
       "id_type": "tms",
       "total_balance_due": 450.34,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "CONNOR BARRY D SR",
-      "parcel_id": "145-09-04-011.000-C",
-      "id_type": "tms",
-      "total_balance_due": 80.0,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1550,14 +1518,6 @@
       "formerly_owned_by": [
         "HARTZOG BRADY M & MARIA H BOEHLE"
       ]
-    },
-    {
-      "name": "DORADO BUILDERS LLC",
-      "parcel_id": "136-16-10-006.000-C",
-      "id_type": "tms",
-      "total_balance_due": 3513.37,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
     },
     {
       "name": "DORADO BUILDERS LLC",
@@ -1790,14 +1750,6 @@
       ]
     },
     {
-      "name": "FERGUSON MAURICE A",
-      "parcel_id": "130-10-04-044.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1204.51,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "FERREL GWENDOLYN ET AL",
       "parcel_id": "121-00-00-077.000-C",
       "id_type": "tms",
@@ -1830,16 +1782,6 @@
       "total_balance_due": 26509.87,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
-    },
-    {
-      "name": "FOOTMAN FLORA (ESTATE) ETAL",
-      "parcel_id": "015-00-00-050.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2136.78,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "FOOTMAN FLORA ET AL"
-      ]
     },
     {
       "name": "FOSTER BRYAN & WAYNE RABON & TAR",
@@ -2076,14 +2018,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "GRAY JILL ANN",
-      "parcel_id": "137-08-01-002.000-C",
-      "id_type": "tms",
-      "total_balance_due": 763.58,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "GREEN ALEXANDER M",
       "parcel_id": "007-00-00-240.000-C",
       "id_type": "tms",
@@ -2254,14 +2188,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "HARRIS BRENDA & TROY MARTINO (LI",
-      "parcel_id": "080-00-00-135.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1172.53,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "HARRIS WYATT COLE & JUSTIN LEE",
       "parcel_id": "161-00-00-086.000-C",
       "id_type": "tms",
@@ -2380,14 +2306,6 @@
       "parcel_id": "135-00-00-015.000-C",
       "id_type": "tms",
       "total_balance_due": 7885.74,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "HOFFMAN DAVID N III",
-      "parcel_id": "135-00-00-109.000-C",
-      "id_type": "tms",
-      "total_balance_due": 970.07,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -2734,14 +2652,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "KAMILLIAN PROPERTIES LLC",
-      "parcel_id": "086-00-00-007.000-C",
-      "id_type": "tms",
-      "total_balance_due": 3977.13,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "KECK ROBERT W",
       "parcel_id": "150-00-00-044.000-C",
       "id_type": "tms",
@@ -2850,26 +2760,6 @@
       "total_balance_due": 523.48,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
-    },
-    {
-      "name": "KNIGHT OLIVIA LUANNE & ERNIE JR",
-      "parcel_id": "058-00-00-054.000-C",
-      "id_type": "tms",
-      "total_balance_due": 80.0,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "KNIGHT OLIVIA LUANNE & ERNIE J"
-      ]
-    },
-    {
-      "name": "KNIGHT OLIVIA LUANNE & ERNIE JR",
-      "parcel_id": "058-00-00-182.000-C",
-      "id_type": "tms",
-      "total_balance_due": 80.0,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "KNIGHT OLIVIA LUANNE & ERNIE J"
-      ]
     },
     {
       "name": "LADSON ERIC",
@@ -3526,14 +3416,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "NICKERSON STEPHANIE JOAN",
-      "parcel_id": "153-09-01-039.000-C",
-      "id_type": "tms",
-      "total_balance_due": 80.0,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "NIXON ANNETTE",
       "parcel_id": "016-00-00-013.000-C",
       "id_type": "tms",
@@ -3794,14 +3676,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "PRYOR MARTHA",
-      "parcel_id": "110-00-00-061.000-C",
-      "id_type": "tms",
-      "total_balance_due": 570.18,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "PULLIAM DAVID WAYNE II",
       "parcel_id": "122-00-00-171.000-C",
       "id_type": "tms",
@@ -3926,14 +3800,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "REVELL PEGGY CHARLENE",
-      "parcel_id": "014-00-00-023.000-C",
-      "id_type": "tms",
-      "total_balance_due": 5372.51,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "REVELL STEPHANIE L",
       "parcel_id": "023-00-00-019.000-C",
       "id_type": "tms",
@@ -3990,16 +3856,6 @@
       "total_balance_due": 855.3,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
-    },
-    {
-      "name": "RISHER JERRY M & SHEILA H (JTROS",
-      "parcel_id": "025-00-00-006.000-C",
-      "id_type": "tms",
-      "total_balance_due": 985.58,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "RISHER JERRY M & RANAE R SMOAK"
-      ]
     },
     {
       "name": "RIVERS LAWRENCE",
@@ -4278,14 +4134,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "SIMMONS FREDDIE ET AL",
-      "parcel_id": "085-00-00-005.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1157.62,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "SIMMONS NATHANIEL & ET AL",
       "parcel_id": "069-00-00-003.000-C",
       "id_type": "tms",
@@ -4351,14 +4199,6 @@
       "prior_years_unpaid": [
         "2024"
       ],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SLOAN RESIDENTIAL LLC",
-      "parcel_id": "162-05-05-009.000-C",
-      "id_type": "tms",
-      "total_balance_due": 4757.25,
-      "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
     {
@@ -4892,14 +4732,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "TUCK DANIEL & DAVID & ROBIN D",
-      "parcel_id": "122-02-04-002.000-C",
-      "id_type": "tms",
-      "total_balance_due": 710.98,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "TUCKER SAMUEL & TIMOTHY & JEFFRE",
       "parcel_id": "143-02-00-015.000-C",
       "id_type": "tms",
@@ -5026,14 +4858,6 @@
       "parcel_id": "126-00-00-134.000-C",
       "id_type": "tms",
       "total_balance_due": 325.13,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "WASHINGTON LUCILLE & RICHARD",
-      "parcel_id": "035-00-00-213.000-C",
-      "id_type": "tms",
-      "total_balance_due": 767.59,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -5224,16 +5048,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "WILLIAMSON CHERYL (LIFE ESTATE)",
-      "parcel_id": "129-12-02-003.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1298.63,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "WILLIAMSON RICHARD A"
-      ]
-    },
-    {
       "name": "WILLIAMSON JASON",
       "parcel_id": "165-00-00-031.000-C",
       "id_type": "tms",
@@ -5310,14 +5124,6 @@
       "parcel_id": "097-16-02-006.000-C",
       "id_type": "tms",
       "total_balance_due": 1585.3,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "WRIGHT KEVIN E SR & PAMELA L",
-      "parcel_id": "130-11-04-005.000-C",
-      "id_type": "tms",
-      "total_balance_due": 3345.82,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
