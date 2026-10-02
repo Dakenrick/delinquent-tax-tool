@@ -4,11 +4,11 @@
   "list_type": "tax_sale",
   "source_url": "https://www.greenvillecounty.org/appsas400/taxsale/",
   "tax_year": "2025",
-  "scraped_at": "2026-10-01T18:25:26.273827+00:00",
-  "record_count": 1655,
+  "scraped_at": "2026-10-02T17:52:31.865666+00:00",
+  "record_count": 1612,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 5044066.62,
+  "parsed_total_balance_due": 4938439.19,
   "totals_match": null,
   "records": [
     {
@@ -268,14 +268,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "308",
-      "parcel_id": "0601020110500",
-      "name": "ALLEN ARIEL",
-      "total_balance_due": 2087.61,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0601020110500",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "316",
       "parcel_id": "0506080106100",
       "name": "ALLEN FANNIE B",
@@ -305,14 +297,6 @@
       "name": "ALLEN RONALD L",
       "total_balance_due": 1517.38,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0243000300215",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "380",
-      "parcel_id": "0574210107800",
-      "name": "ALLISON ZECHARIAH AUSTIN ALLIS",
-      "total_balance_due": 6925.01,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0574210107800",
       "tax_year": "2025"
     },
     {
@@ -636,14 +620,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "804",
-      "parcel_id": "B013040300500",
-      "name": "BABB BENNY LEE",
-      "total_balance_due": 3918.78,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=B013040300500",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "812",
       "parcel_id": "0540100105300",
       "name": "BABB BENNY LEE",
@@ -857,14 +833,6 @@
       "name": "BENDINGWOOD LLC",
       "total_balance_due": 1833.9,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=B010000100101",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "1332",
-      "parcel_id": "0505050200700",
-      "name": "BENNEFIELD NANCY L BENNEFIELD",
-      "total_balance_due": 1312.33,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0505050200700",
       "tax_year": "2025"
     },
     {
@@ -1828,43 +1796,11 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "3120",
-      "parcel_id": "0198000503300",
-      "name": "CHANEY CONWAY SMITH LINDA LOUI",
-      "total_balance_due": 1968.67,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0198000503300",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "3176",
       "parcel_id": "0159000801300",
       "name": "CHARETTE CYNTHIA M WORLEY MELI",
       "total_balance_due": 2332.53,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0159000801300",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "3180",
-      "parcel_id": "0529030100800",
-      "name": "CHARTWELL ESTATES II COMMUNITY",
-      "total_balance_due": 1635.17,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0529030100800",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "3184",
-      "parcel_id": "0529070104900",
-      "name": "CHARTWELL ESTATES II COMMUNITY",
-      "total_balance_due": 687.45,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0529070104900",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "3188",
-      "parcel_id": "0529110103500",
-      "name": "CHARTWELL ESTATES II COMMUNITY",
-      "total_balance_due": 687.45,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0529110103500",
       "tax_year": "2025"
     },
     {
@@ -2108,46 +2044,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "3480",
-      "parcel_id": "0123001300600",
-      "name": "CLATWORTHY PROPERTIES LLC",
-      "total_balance_due": 2678.66,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0123001300600",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "3484",
-      "parcel_id": "0123001300700",
-      "name": "CLATWORTHY PROPERTIES LLC",
-      "total_balance_due": 2892.14,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0123001300700",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "3488",
-      "parcel_id": "0123001301100",
-      "name": "CLATWORTHY PROPERTIES LLC",
-      "total_balance_due": 870.75,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0123001301100",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "3492",
-      "parcel_id": "0151000400800",
-      "name": "CLATWORTHY PROPERTIES LLC",
-      "total_balance_due": 1604.59,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0151000400800",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "3496",
-      "parcel_id": "0386000202600",
-      "name": "CLATWORTHY PROPERTIES LLC",
-      "total_balance_due": 738.12,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0386000202600",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "3504",
       "parcel_id": "0634030102116",
       "name": "CLAYTON BRYAN KEITH",
@@ -2265,14 +2161,6 @@
       "name": "COOCHTEK PROPERTIES LLC",
       "total_balance_due": 1382.64,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0637040100900",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "3860",
-      "parcel_id": "0611010102802",
-      "name": "COOLEY ALBERTA",
-      "total_balance_due": 1097.01,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0611010102802",
       "tax_year": "2025"
     },
     {
@@ -3596,14 +3484,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "6292",
-      "parcel_id": "0505020100302",
-      "name": "FRISBEE BETTY D FRISBEE ROBERT",
-      "total_balance_due": 1158.02,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0505020100302",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "6296",
       "parcel_id": "0121001700300",
       "name": "FROM THE HEART HOME CARE LLC",
@@ -3681,14 +3561,6 @@
       "name": "G S SERVICES INC",
       "total_balance_due": 2590.41,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0593050104500",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "6388",
-      "parcel_id": "0576020100330",
-      "name": "GAGNE JUDITH A",
-      "total_balance_due": 5504.06,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0576020100330",
       "tax_year": "2025"
     },
     {
@@ -4012,22 +3884,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "6876",
-      "parcel_id": "0311000200502",
-      "name": "GOLDEN ROXANNE",
-      "total_balance_due": 807.41,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0311000200502",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "6880",
-      "parcel_id": "0367000100203",
-      "name": "GOLDEN ROXANNE",
-      "total_balance_due": 1324.4,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0367000100203",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "6916",
       "parcel_id": "0238010102500",
       "name": "GONZALEZ DAVID DELA CRUZ (JTWR",
@@ -4193,14 +4049,6 @@
       "name": "GREEN ROBERT ALLEN",
       "total_balance_due": 1102.28,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0645020100502",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "7196",
-      "parcel_id": "T007000101800",
-      "name": "GREENE BRENDA RICE (JTWROS) GR",
-      "total_balance_due": 2444.57,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=T007000101800",
       "tax_year": "2025"
     },
     {
@@ -4588,14 +4436,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "7712",
-      "parcel_id": "0651020102808",
-      "name": "HARTWIG KAJSA MERTENS",
-      "total_balance_due": 778.11,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0651020102808",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "7740",
       "parcel_id": "G008002001000",
       "name": "HAWKINS ALETHA H",
@@ -4625,14 +4465,6 @@
       "name": "HAWTHORNE GLADYS",
       "total_balance_due": 1648.77,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0523010101000",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "7836",
-      "parcel_id": "0586020101009",
-      "name": "HAWTHORNE KAMIRA MEGHAN HAWTHO",
-      "total_balance_due": 1122.47,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0586020101009",
       "tax_year": "2025"
     },
     {
@@ -4737,14 +4569,6 @@
       "name": "HEWINS ELSIE HEWINS J B, HEWIN",
       "total_balance_due": 1485.58,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0384000100900",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "8176",
-      "parcel_id": "0118000601200",
-      "name": "HILL JAMES ALVIN",
-      "total_balance_due": 5132.85,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0118000601200",
       "tax_year": "2025"
     },
     {
@@ -5412,14 +5236,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "9160",
-      "parcel_id": "0523030105500",
-      "name": "JARA LIDIA WAHL",
-      "total_balance_due": 2277.99,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0523030105500",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "9176",
       "parcel_id": "0048000201200",
       "name": "JDD HOLDINGS LLC",
@@ -5460,27 +5276,11 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "9228",
-      "parcel_id": "M011020202200",
-      "name": "JETER ANTHONY L",
-      "total_balance_due": 3114.46,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=M011020202200",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "9232",
       "parcel_id": "M011020202201",
       "name": "JETER ANTHONY L",
       "total_balance_due": 2516.57,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=M011020202201",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "9236",
-      "parcel_id": "M011020202202",
-      "name": "JETER ANTHONY L",
-      "total_balance_due": 1968.93,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=M011020202202",
       "tax_year": "2025"
     },
     {
@@ -6172,14 +5972,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "10728",
-      "parcel_id": "0537070101200",
-      "name": "LEDFORD JOE HANEY DORIS, LEDFO",
-      "total_balance_due": 1886.15,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0537070101200",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "10752",
       "parcel_id": "0570010100401",
       "name": "LEE MELISSA JANE",
@@ -6217,22 +6009,6 @@
       "name": "LESLEY TINA LESLEY ANTHONY O,",
       "total_balance_due": 1068.29,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0610060100606",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "10844",
-      "parcel_id": "B004030101000",
-      "name": "LESTER CARL DRAYTON LESTER GEO",
-      "total_balance_due": 708.38,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=B004030101000",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "10848",
-      "parcel_id": "B004030101100",
-      "name": "LESTER CARL DRAYTON LESTER GEO",
-      "total_balance_due": 700.58,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=B004030101100",
       "tax_year": "2025"
     },
     {
@@ -6417,14 +6193,6 @@
       "name": "LOLLIS WANDA GAIL",
       "total_balance_due": 3676.64,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0615010102000",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "11192",
-      "parcel_id": "0571030101104",
-      "name": "LOREDO MARICELA NIETO PATLAN J",
-      "total_balance_due": 1003.74,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0571030101104",
       "tax_year": "2025"
     },
     {
@@ -6793,14 +6561,6 @@
       "name": "MCCORMICK DAPHNY (JTWROS) FRAR",
       "total_balance_due": 1263.91,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0509050100700",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "11992",
-      "parcel_id": "0130000302501",
-      "name": "MCCRAVEY CAMILLA JOY",
-      "total_balance_due": 1132.62,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0130000302501",
       "tax_year": "2025"
     },
     {
@@ -7524,14 +7284,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "13568",
-      "parcel_id": "0502020100501",
-      "name": "ONEAL HELEN",
-      "total_balance_due": 1030.44,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0502020100501",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "13580",
       "parcel_id": "0085000200100",
       "name": "OR WATKINS IRBY JARRARD JAMES",
@@ -7684,14 +7436,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "13888",
-      "parcel_id": "0593010701700",
-      "name": "PARSON EMILY RENEE",
-      "total_balance_due": 3855.08,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0593010701700",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "13900",
       "parcel_id": "0134000200404",
       "name": "PATEL BHARTIBEN ASHOKKUMAR",
@@ -7745,14 +7489,6 @@
       "name": "PAYNE DELANEY",
       "total_balance_due": 2772.2,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=P015080502800",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "13964",
-      "parcel_id": "0638050102200",
-      "name": "PEACE ELIOT BRADFORD",
-      "total_balance_due": 2359.16,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0638050102200",
       "tax_year": "2025"
     },
     {
@@ -8772,14 +8508,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "15892",
-      "parcel_id": "0300010109700",
-      "name": "SALTER SANCHEZ SALTER SHARON",
-      "total_balance_due": 1884.72,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0300010109700",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "15932",
       "parcel_id": "0130000101800",
       "name": "SANDERS JEANETTE SYBIL SANDERS",
@@ -8825,14 +8553,6 @@
       "name": "SC LAND PRESERVE LLC",
       "total_balance_due": 34257.12,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0633010101609",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "16088",
-      "parcel_id": "0306000101508",
-      "name": "SC SIMPSONVILLE W GEORGIA II",
-      "total_balance_due": 13421.17,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0306000101508",
       "tax_year": "2025"
     },
     {
@@ -9428,14 +9148,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "17168",
-      "parcel_id": "0306000101404",
-      "name": "SPD PARTNERS LLC",
-      "total_balance_due": 5970.41,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0306000101404",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "17172",
       "parcel_id": "0148000200523",
       "name": "SPEARMAN DONNA J SPEARMAN JEFF",
@@ -9657,14 +9369,6 @@
       "name": "TAYLOR LARRY D TAYLOR EDWIN LE",
       "total_balance_due": 913.98,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0616010108600",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "17768",
-      "parcel_id": "0421000300800",
-      "name": "TAYLOR SYLVIE",
-      "total_balance_due": 993.34,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0421000300800",
       "tax_year": "2025"
     },
     {
@@ -9924,27 +9628,11 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "18008",
-      "parcel_id": "0574020100201",
-      "name": "THOMPSON JUSTEN L (JTWROS) THO",
-      "total_balance_due": 4401.75,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0574020100201",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "18012",
       "parcel_id": "0219000100800",
       "name": "THOMPSON LOIS B THOMPSON SUSAN",
       "total_balance_due": 2079.15,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0219000100800",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "18016",
-      "parcel_id": "0224000102500",
-      "name": "THOMPSON MAURICE",
-      "total_balance_due": 1844.58,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0224000102500",
       "tax_year": "2025"
     },
     {
@@ -10169,14 +9857,6 @@
       "name": "TREBING PAUL R",
       "total_balance_due": 1610.35,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0304000101000",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "18332",
-      "parcel_id": "0404000301100",
-      "name": "TREJO NANCY TREJO SILVERIO",
-      "total_balance_due": 1046.62,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0404000301100",
       "tax_year": "2025"
     },
     {
@@ -10684,14 +10364,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "19140",
-      "parcel_id": "T035020101300",
-      "name": "WELCHEL VANESSA ANN",
-      "total_balance_due": 3294.55,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=T035020101300",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "19152",
       "parcel_id": "0618010101424",
       "name": "WELLMON DENNIS G & FRANCES M",
@@ -10769,14 +10441,6 @@
       "name": "WHITESIDE WILLIAM VAN",
       "total_balance_due": 1610.3,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0506070101601",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "19312",
-      "parcel_id": "WG08000501800",
-      "name": "WHITESIDES CORDIE LEE",
-      "total_balance_due": 3420.35,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=WG08000501800",
       "tax_year": "2025"
     },
     {
@@ -11257,14 +10921,6 @@
       "name": "6000 AUGUSTA EXCHANGE LLC",
       "total_balance_due": 6503.27,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0377001201502",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "20200",
-      "parcel_id": "0425000103800",
-      "name": "7 ARLENE DRIVE LAND TRUST",
-      "total_balance_due": 1936.78,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0425000103800",
       "tax_year": "2025"
     },
     {
