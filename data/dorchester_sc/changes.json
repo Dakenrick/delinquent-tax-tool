@@ -680,5 +680,313 @@
         "total_balance_due": 752.38
       }
     ]
+  },
+  {
+    "date": "2026-10-03",
+    "list_type": "real_property",
+    "added_count": 0,
+    "removed_count": 27,
+    "added": [],
+    "removed": [
+      {
+        "name": "LEMONS EDNA",
+        "parcel_id": "090-00-00-048.000-C",
+        "total_balance_due": 330.49
+      },
+      {
+        "name": "BAZZLE CHRISTOPHER & DEBORAH & C",
+        "parcel_id": "128-11-03-003.000-C",
+        "total_balance_due": 626.48
+      },
+      {
+        "name": "HERNDON JAMES G & CAROLYN H",
+        "parcel_id": "134-12-04-003.000-C",
+        "total_balance_due": 1001.43
+      },
+      {
+        "name": "PENNINGTON WALKER",
+        "parcel_id": "036-00-00-005.000-C",
+        "total_balance_due": 909.27
+      },
+      {
+        "name": "BEECH HILL SUMMERVILLE LLC",
+        "parcel_id": "160-00-00-056.000-C",
+        "total_balance_due": 90740.34
+      },
+      {
+        "name": "MORRISON KELVIN EUGENE & KIMBERL",
+        "parcel_id": "150-00-00-161.000-C",
+        "total_balance_due": 2255.28
+      },
+      {
+        "name": "FRANCIS BERNADETTE MIDDLETON",
+        "parcel_id": "199-00-00-047.000-C",
+        "total_balance_due": 3212.97
+      },
+      {
+        "name": "UPCHURCH JAMES ANDREW",
+        "parcel_id": "128-14-01-011.000-C",
+        "total_balance_due": 618.22
+      },
+      {
+        "name": "FULLER KIMBERLY & NORMA CURETON",
+        "parcel_id": "032-00-00-047.000-C",
+        "total_balance_due": 720.27
+      },
+      {
+        "name": "GLEATON KATHERINE & NANCY WILLIA",
+        "parcel_id": "031-15-00-014.000-C",
+        "total_balance_due": 1293.37
+      },
+      {
+        "name": "EVANS JILENE LESAN",
+        "parcel_id": "159-04-06-002.000-C",
+        "total_balance_due": 10000.85
+      },
+      {
+        "name": "SWEATMAN JEFFERY G & VIVIAN L",
+        "parcel_id": "070-00-00-152.000-C",
+        "total_balance_due": 605.83
+      },
+      {
+        "name": "DAISY LAND MANAGEMENT",
+        "parcel_id": "163-13-11-009.000-C",
+        "total_balance_due": 10672.25
+      },
+      {
+        "name": "JOHNSON RICKY ET AL",
+        "parcel_id": "015-00-00-077.000-C",
+        "total_balance_due": 438.02
+      },
+      {
+        "name": "BROWN LIONEL MARCUS ETAL",
+        "parcel_id": "203-00-00-018.000-C",
+        "total_balance_due": 14150.24
+      },
+      {
+        "name": "WALKER THOMASENIA",
+        "parcel_id": "080-00-00-122.000-C",
+        "total_balance_due": 2158.0
+      },
+      {
+        "name": "MORRISON KELVIN",
+        "parcel_id": "150-00-00-197.000-C",
+        "total_balance_due": 1204.74
+      },
+      {
+        "name": "WHITE EMMER DELL",
+        "parcel_id": "130-11-06-004.000-C",
+        "total_balance_due": 3429.76
+      },
+      {
+        "name": "WHITE TIMOTHY R",
+        "parcel_id": "129-09-06-002.000-C",
+        "total_balance_due": 942.59
+      },
+      {
+        "name": "EDWARDS DORA L",
+        "parcel_id": "015-00-00-124.000-C",
+        "total_balance_due": 270.05
+      },
+      {
+        "name": "EURE JOAN ET AL",
+        "parcel_id": "032-00-00-099.000-C",
+        "total_balance_due": 990.18
+      },
+      {
+        "name": "NORFOLK SOUTHERN RAILWAY COMPANY",
+        "parcel_id": "087-00-00-110.000-C",
+        "total_balance_due": 23165.73
+      },
+      {
+        "name": "HERNDON JAMES G & CAROLYN H",
+        "parcel_id": "134-12-04-002.000-C",
+        "total_balance_due": 1020.65
+      },
+      {
+        "name": "LEMON DOROTHY M",
+        "parcel_id": "135-00-00-136.000-C",
+        "total_balance_due": 1561.58
+      },
+      {
+        "name": "HAYNES DELLA M ET AL",
+        "parcel_id": "073-00-00-038.000-C",
+        "total_balance_due": 664.88
+      },
+      {
+        "name": "WASHINGTON ANEASE & ROSA BELL YO",
+        "parcel_id": "045-00-00-050.000-C",
+        "total_balance_due": 420.37
+      },
+      {
+        "name": "ANDERSON ALEXANDER A & TIFFANY L",
+        "parcel_id": "129-12-09-014.000-C",
+        "total_balance_due": 1972.58
+      }
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "list_type": "mobile_home",
+    "added_count": 0,
+    "removed_count": 31,
+    "added": [],
+    "removed": [
+      {
+        "name": "WALKER KADIJAH SHANA",
+        "parcel_id": "31081C",
+        "total_balance_due": 567.98
+      },
+      {
+        "name": "WHITE MARCUS ORKELLY NATAIJA KOR",
+        "parcel_id": "29641C",
+        "total_balance_due": 266.54
+      },
+      {
+        "name": "SMITH STEVEN",
+        "parcel_id": "22219C",
+        "total_balance_due": 422.71
+      },
+      {
+        "name": "BURBAGE JAMES JR OR CHRYSTAL LYN",
+        "parcel_id": "27666C",
+        "total_balance_due": 200.18
+      },
+      {
+        "name": "WINNS REBECCA CEIL",
+        "parcel_id": "29858C",
+        "total_balance_due": 397.94
+      },
+      {
+        "name": "GEDDIS PATRICIA & CLEVELAND",
+        "parcel_id": "15472C",
+        "total_balance_due": 444.15
+      },
+      {
+        "name": "BRITT WILLA MAE",
+        "parcel_id": "24850C",
+        "total_balance_due": 691.82
+      },
+      {
+        "name": "WOOD OAK MHP",
+        "parcel_id": "22269C",
+        "total_balance_due": 332.12
+      },
+      {
+        "name": "HOLLADAY CHRISTIN",
+        "parcel_id": "18389C",
+        "total_balance_due": 406.8
+      },
+      {
+        "name": "JOHNSON JOHN LEWIS",
+        "parcel_id": "30222C",
+        "total_balance_due": 1578.13
+      },
+      {
+        "name": "KESSINGER ROY WAYNE",
+        "parcel_id": "19395C",
+        "total_balance_due": 933.75
+      },
+      {
+        "name": "SINGLETON GREGORY",
+        "parcel_id": "18693C",
+        "total_balance_due": 507.02
+      },
+      {
+        "name": "SHAW JAMES R JR & GINA K",
+        "parcel_id": "23644C",
+        "total_balance_due": 1261.54
+      },
+      {
+        "name": "MORSELL TABRINA JHAMKA",
+        "parcel_id": "26516C",
+        "total_balance_due": 1012.59
+      },
+      {
+        "name": "PERRY IRENE SNIPES",
+        "parcel_id": "24671C",
+        "total_balance_due": 844.53
+      },
+      {
+        "name": "HERNDON JAMES JR & CAROLYN",
+        "parcel_id": "8830C",
+        "total_balance_due": 630.86
+      },
+      {
+        "name": "FORD JOY MELVINA",
+        "parcel_id": "26213C",
+        "total_balance_due": 660.37
+      },
+      {
+        "name": "SWEATMAN JEFFERY",
+        "parcel_id": "21216C",
+        "total_balance_due": 386.73
+      },
+      {
+        "name": "ROBERTS-BISHOP TAMARA M",
+        "parcel_id": "31020C",
+        "total_balance_due": 465.25
+      },
+      {
+        "name": "HOLMAN ERNESTINE YOUNG",
+        "parcel_id": "28536C",
+        "total_balance_due": 446.0
+      },
+      {
+        "name": "WALKER JACOB JR",
+        "parcel_id": "27965C",
+        "total_balance_due": 552.03
+      },
+      {
+        "name": "DESCHENES MARC PATRICK",
+        "parcel_id": "25559C",
+        "total_balance_due": 593.8
+      },
+      {
+        "name": "WILSON WILLIAM C",
+        "parcel_id": "28754C",
+        "total_balance_due": 3041.55
+      },
+      {
+        "name": "STEVENSON CHERYL WHACK",
+        "parcel_id": "24807C",
+        "total_balance_due": 795.85
+      },
+      {
+        "name": "GLOVER CLARA L",
+        "parcel_id": "13610C",
+        "total_balance_due": 398.51
+      },
+      {
+        "name": "GOVAN ALVIN",
+        "parcel_id": "14217C",
+        "total_balance_due": 355.35
+      },
+      {
+        "name": "WALKER JACOB JR",
+        "parcel_id": "30639C",
+        "total_balance_due": 880.44
+      },
+      {
+        "name": "BLAND DORETHEA COBIN",
+        "parcel_id": "27506C",
+        "total_balance_due": 217.62
+      },
+      {
+        "name": "JAMES TONY LATROY",
+        "parcel_id": "31419C",
+        "total_balance_due": 568.63
+      },
+      {
+        "name": "MOORE ERNEST III",
+        "parcel_id": "29451C",
+        "total_balance_due": 1017.41
+      },
+      {
+        "name": "PROGRESS PROPERTIES",
+        "parcel_id": "31388C",
+        "total_balance_due": 3081.02
+      }
+    ]
   }
 ]
