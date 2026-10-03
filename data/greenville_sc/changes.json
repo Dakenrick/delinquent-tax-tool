@@ -2239,5 +2239,302 @@
         "total_balance_due": 5132.85
       }
     ]
+  },
+  {
+    "date": "2026-10-03",
+    "list_type": "tax_sale",
+    "added_count": 0,
+    "removed_count": 48,
+    "added": [],
+    "removed": [
+      {
+        "item_number": "7484",
+        "name": "HALL ROBERT E & MARY H",
+        "parcel_id": "0649050101108",
+        "total_balance_due": 891.59
+      },
+      {
+        "item_number": "12296",
+        "name": "MERCER KASEY JEAN MERCER LOREN",
+        "parcel_id": "0498010104901",
+        "total_balance_due": 1577.2
+      },
+      {
+        "item_number": "15076",
+        "name": "REEDY SPRINGS HOMEOWNERS ASSOC",
+        "parcel_id": "0584080107500",
+        "total_balance_due": 2012.87
+      },
+      {
+        "item_number": "12472",
+        "name": "MILLS KIMBERLY MILLS RONNIE B",
+        "parcel_id": "0155001401400",
+        "total_balance_due": 923.89
+      },
+      {
+        "item_number": "10688",
+        "name": "LEDBETTER PATRICIA A",
+        "parcel_id": "0508010104700",
+        "total_balance_due": 2196.28
+      },
+      {
+        "item_number": "8760",
+        "name": "HYATT JOHNNY JR",
+        "parcel_id": "0238020100306",
+        "total_balance_due": 968.77
+      },
+      {
+        "item_number": "11804",
+        "name": "MAXWELL DIANE MAXWELL MARLOWE",
+        "parcel_id": "0439000700100",
+        "total_balance_due": 2340.54
+      },
+      {
+        "item_number": "3240",
+        "name": "CHERRY & DWAYNE LLC",
+        "parcel_id": "0609010103301",
+        "total_balance_due": 1272.19
+      },
+      {
+        "item_number": "4880",
+        "name": "DONKLE PROPERTIES LLC",
+        "parcel_id": "P021000100300",
+        "total_balance_due": 13609.62
+      },
+      {
+        "item_number": "14316",
+        "name": "PLATT SHARHONDA PATRICE (JTWRO",
+        "parcel_id": "0151000400600",
+        "total_balance_due": 1604.59
+      },
+      {
+        "item_number": "14100",
+        "name": "PETTY JEFF",
+        "parcel_id": "0635040102102",
+        "total_balance_due": 1302.02
+      },
+      {
+        "item_number": "732",
+        "name": "AUSTIN ASHLEY E",
+        "parcel_id": "0372000200900",
+        "total_balance_due": 2487.47
+      },
+      {
+        "item_number": "19052",
+        "name": "WATSON BRYAN WATSON CHERYL V,",
+        "parcel_id": "M009060102800",
+        "total_balance_due": 1994.38
+      },
+      {
+        "item_number": "12116",
+        "name": "MCKINNEDY DAVID L",
+        "parcel_id": "0384000109500",
+        "total_balance_due": 1904.87
+      },
+      {
+        "item_number": "17728",
+        "name": "TAYLOR JAMES BENJAMIN",
+        "parcel_id": "0629020101706",
+        "total_balance_due": 1070.84
+      },
+      {
+        "item_number": "12012",
+        "name": "MCCUTCHEN RYAN PAUL",
+        "parcel_id": "0290000101600",
+        "total_balance_due": 678.27
+      },
+      {
+        "item_number": "8568",
+        "name": "HOWARD JUDY GAIL",
+        "parcel_id": "T034011001600",
+        "total_balance_due": 1412.72
+      },
+      {
+        "item_number": "8192",
+        "name": "HILL MELISSA MARTIN",
+        "parcel_id": "0234000102200",
+        "total_balance_due": 2379.84
+      },
+      {
+        "item_number": "2596",
+        "name": "CALVERT MARSHA G WESTON SHERYL",
+        "parcel_id": "WG06010106600",
+        "total_balance_due": 1527.07
+      },
+      {
+        "item_number": "19808",
+        "name": "WOODS STEPHON S WOODS MIRANDA",
+        "parcel_id": "0560040101015",
+        "total_balance_due": 928.9
+      },
+      {
+        "item_number": "19092",
+        "name": "WAYNICK ALICIA A",
+        "parcel_id": "0500040102900",
+        "total_balance_due": 2096.53
+      },
+      {
+        "item_number": "8520",
+        "name": "HOWARD DAVID BLAKE",
+        "parcel_id": "P036000102300",
+        "total_balance_due": 4005.77
+      },
+      {
+        "item_number": "9536",
+        "name": "JONES ROY",
+        "parcel_id": "B011000301300",
+        "total_balance_due": 1548.39
+      },
+      {
+        "item_number": "12776",
+        "name": "MOORE RHONDA FAY PLATT SHARHON",
+        "parcel_id": "0151000400700",
+        "total_balance_due": 1916.57
+      },
+      {
+        "item_number": "5756",
+        "name": "FIFER RANDALL H",
+        "parcel_id": "M004050101800",
+        "total_balance_due": 4101.45
+      },
+      {
+        "item_number": "17636",
+        "name": "SWAYNGHAM LEVEDA M SWAYNGHAM W",
+        "parcel_id": "0145000101800",
+        "total_balance_due": 1557.78
+      },
+      {
+        "item_number": "17100",
+        "name": "SORENSON LINES FAMILY LIVING T",
+        "parcel_id": "0662150100100",
+        "total_balance_due": 2119.82
+      },
+      {
+        "item_number": "2188",
+        "name": "BRYANT TROY L",
+        "parcel_id": "0250000202100",
+        "total_balance_due": 1422.34
+      },
+      {
+        "item_number": "15148",
+        "name": "RETFORD DOUGLAS S",
+        "parcel_id": "0300010106400",
+        "total_balance_due": 3535.6
+      },
+      {
+        "item_number": "4896",
+        "name": "DOUGHER JOANNE (JTWROS) DOUGHE",
+        "parcel_id": "0274030110100",
+        "total_balance_due": 4337.73
+      },
+      {
+        "item_number": "14140",
+        "name": "PHILLIPS TAMMY P (JTWROS) PHIL",
+        "parcel_id": "0511010102101",
+        "total_balance_due": 941.45
+      },
+      {
+        "item_number": "17904",
+        "name": "THOMAS TINA RENE",
+        "parcel_id": "0248000215000",
+        "total_balance_due": 1766.85
+      },
+      {
+        "item_number": "10692",
+        "name": "LEDBETTER PATRICIA ANN",
+        "parcel_id": "0508010104400",
+        "total_balance_due": 1204.22
+      },
+      {
+        "item_number": "2080",
+        "name": "BROWN JERRY L BROWN MARGARET B",
+        "parcel_id": "0563010101722",
+        "total_balance_due": 1529.07
+      },
+      {
+        "item_number": "10696",
+        "name": "LEDBETTER PATRICIA ANN",
+        "parcel_id": "0508010104500",
+        "total_balance_due": 1882.27
+      },
+      {
+        "item_number": "7164",
+        "name": "GREEN LEE ANN PLEMMONS SHANE A",
+        "parcel_id": "0537050100200",
+        "total_balance_due": 1318.58
+      },
+      {
+        "item_number": "7680",
+        "name": "HARRISON PRESTON",
+        "parcel_id": "P041000123700",
+        "total_balance_due": 5104.09
+      },
+      {
+        "item_number": "17008",
+        "name": "SMITH TODD A",
+        "parcel_id": "0640030100110",
+        "total_balance_due": 1891.67
+      },
+      {
+        "item_number": "19688",
+        "name": "WILSON ROBERT DANIEL JR",
+        "parcel_id": "B012000101803",
+        "total_balance_due": 1605.17
+      },
+      {
+        "item_number": "9888",
+        "name": "KING DONALD J",
+        "parcel_id": "0510020103903",
+        "total_balance_due": 980.53
+      },
+      {
+        "item_number": "828",
+        "name": "BABB MACKENZIE NICOLE",
+        "parcel_id": "0134000101102",
+        "total_balance_due": 1111.12
+      },
+      {
+        "item_number": "16136",
+        "name": "SCHWENDLER MICHELLE RENEE SCHW",
+        "parcel_id": "0575020100525",
+        "total_balance_due": 3393.22
+      },
+      {
+        "item_number": "6616",
+        "name": "GCI INVESTMENT PROPERTIES LLC",
+        "parcel_id": "0315000100300",
+        "total_balance_due": 13136.25
+      },
+      {
+        "item_number": "15072",
+        "name": "REEDY SPRINGS HOMEOWNERS ASSOC",
+        "parcel_id": "0584080107400",
+        "total_balance_due": 760.96
+      },
+      {
+        "item_number": "19088",
+        "name": "WAYNICK ALICIA A",
+        "parcel_id": "0500040102800",
+        "total_balance_due": 6878.51
+      },
+      {
+        "item_number": "6612",
+        "name": "GCI INVESTMENT PROPERTIES LLC",
+        "parcel_id": "0315000100200",
+        "total_balance_due": 6123.02
+      },
+      {
+        "item_number": "20028",
+        "name": "ZITKUS LYNN C",
+        "parcel_id": "0575230123800",
+        "total_balance_due": 1490.01
+      },
+      {
+        "item_number": "1016",
+        "name": "BARKSDALE DEXTER B",
+        "parcel_id": "0574130102700",
+        "total_balance_due": 1634.63
+      }
+    ]
   }
 ]
