@@ -2536,5 +2536,20 @@
         "total_balance_due": 1634.63
       }
     ]
+  },
+  {
+    "date": "2026-10-05",
+    "list_type": "tax_sale",
+    "added_count": 0,
+    "removed_count": 1,
+    "added": [],
+    "removed": [
+      {
+        "item_number": "6644",
+        "name": "GERALD GLUR REAL ESTATE INC",
+        "parcel_id": "0405000300300",
+        "total_balance_due": 2437.96
+      }
+    ]
   }
 ]

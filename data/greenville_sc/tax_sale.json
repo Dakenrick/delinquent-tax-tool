@@ -4,11 +4,11 @@
   "list_type": "tax_sale",
   "source_url": "https://www.greenvillecounty.org/appsas400/taxsale/",
   "tax_year": "2025",
-  "scraped_at": "2026-10-04T16:50:52.909974+00:00",
-  "record_count": 1564,
+  "scraped_at": "2026-10-05T20:34:02.639126+00:00",
+  "record_count": 1563,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 4815961.67,
+  "parsed_total_balance_due": 4813523.71,
   "totals_match": null,
   "records": [
     {
@@ -3625,14 +3625,6 @@
       "name": "GERALD GLUR REAL ESTATE INC",
       "total_balance_due": 2073.62,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=T018020115500",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "6644",
-      "parcel_id": "0405000300300",
-      "name": "GERALD GLUR REAL ESTATE INC",
-      "total_balance_due": 2437.96,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0405000300300",
       "tax_year": "2025"
     },
     {
