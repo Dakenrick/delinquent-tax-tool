@@ -988,5 +988,183 @@
         "total_balance_due": 3081.02
       }
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "list_type": "real_property",
+    "added_count": 0,
+    "removed_count": 19,
+    "added": [],
+    "removed": [
+      {
+        "name": "STEPHEN BARRY M",
+        "parcel_id": "045-10-16-010.000-C",
+        "total_balance_due": 1811.67
+      },
+      {
+        "name": "WALTERS TERESA L",
+        "parcel_id": "045-11-05-001.000-C",
+        "total_balance_due": 840.17
+      },
+      {
+        "name": "PALMETTO EQUITY SOLUTIONS LLC",
+        "parcel_id": "058-00-00-083.000-C",
+        "total_balance_due": 1208.77
+      },
+      {
+        "name": "LANDCO DEVELOPERS INC",
+        "parcel_id": "114-00-00-016.000-C",
+        "total_balance_due": 193.54
+      },
+      {
+        "name": "GILBERT FITZGERALD W",
+        "parcel_id": "056-00-00-034.000-C",
+        "total_balance_due": 434.94
+      },
+      {
+        "name": "BROWN JOHN L",
+        "parcel_id": "094-00-00-014.000-C",
+        "total_balance_due": 2282.13
+      },
+      {
+        "name": "SUMMERS HERBERT ET AL",
+        "parcel_id": "085-00-00-019.000-C",
+        "total_balance_due": 2376.3
+      },
+      {
+        "name": "BROWN MARY T & JOHN L",
+        "parcel_id": "094-00-00-031.000-C",
+        "total_balance_due": 325.23
+      },
+      {
+        "name": "SEABROOK HAROLD",
+        "parcel_id": "075-13-06-012.000-C",
+        "total_balance_due": 267.59
+      },
+      {
+        "name": "EADE CELIA C",
+        "parcel_id": "143-11-00-001.000-C",
+        "total_balance_due": 656.92
+      },
+      {
+        "name": "JOHNSON JOHNNIE & JOANN R",
+        "parcel_id": "049-00-00-039.000-C",
+        "total_balance_due": 562.14
+      },
+      {
+        "name": "MARCHANT TEDDY M",
+        "parcel_id": "014-00-00-141.000-C",
+        "total_balance_due": 407.06
+      },
+      {
+        "name": "STEPHENS LAND COMPANY LLC",
+        "parcel_id": "015-00-00-156.000-C",
+        "total_balance_due": 300.54
+      },
+      {
+        "name": "OSBORN WILLIAM LLOYD",
+        "parcel_id": "121-16-07-003.000-C",
+        "total_balance_due": 1616.6
+      },
+      {
+        "name": "LANDCO DEVELOPERS INC",
+        "parcel_id": "116-00-00-028.000-C",
+        "total_balance_due": 159.28
+      },
+      {
+        "name": "RAVENELL JOHN OSCAR",
+        "parcel_id": "033-00-00-100.000-C",
+        "total_balance_due": 1070.8
+      },
+      {
+        "name": "MORRIS PATRICIA ANN MCLAIN & EDD",
+        "parcel_id": "042-00-00-062.000-C",
+        "total_balance_due": 945.43
+      },
+      {
+        "name": "LANDCO DEVELOPERS INC",
+        "parcel_id": "116-00-00-003.000-C",
+        "total_balance_due": 262.54
+      },
+      {
+        "name": "STEPHEN BARRY M",
+        "parcel_id": "045-10-16-009.000-C",
+        "total_balance_due": 1191.06
+      }
+    ]
+  },
+  {
+    "date": "2026-10-06",
+    "list_type": "mobile_home",
+    "added_count": 0,
+    "removed_count": 13,
+    "added": [],
+    "removed": [
+      {
+        "name": "BROWN STEVEN & HENRY SR",
+        "parcel_id": "19930C",
+        "total_balance_due": 516.03
+      },
+      {
+        "name": "MONTENEGRO MILTON VALLE",
+        "parcel_id": "29419C",
+        "total_balance_due": 932.04
+      },
+      {
+        "name": "OWENS LAURIE SALVO",
+        "parcel_id": "31541C",
+        "total_balance_due": 670.2
+      },
+      {
+        "name": "HAMILTON NATASHA SHAWANTA",
+        "parcel_id": "30834C",
+        "total_balance_due": 665.36
+      },
+      {
+        "name": "MERCHANT TEDDY",
+        "parcel_id": "31314C",
+        "total_balance_due": 1375.04
+      },
+      {
+        "name": "BRITT ANNIE (ESTATE)",
+        "parcel_id": "19551C",
+        "total_balance_due": 772.11
+      },
+      {
+        "name": "BLANTON SHANA NICOLE",
+        "parcel_id": "30454C",
+        "total_balance_due": 615.43
+      },
+      {
+        "name": "MARCHANT DONALD W JR",
+        "parcel_id": "27632C",
+        "total_balance_due": 675.93
+      },
+      {
+        "name": "COBBS JAMES A",
+        "parcel_id": "90027C",
+        "total_balance_due": 506.72
+      },
+      {
+        "name": "SEABROOK HAROLD",
+        "parcel_id": "23653C",
+        "total_balance_due": 907.81
+      },
+      {
+        "name": "SMITH MITZI MICHELLE",
+        "parcel_id": "26208C",
+        "total_balance_due": 682.22
+      },
+      {
+        "name": "SHULER SAMUEL LANIER OR CARI LYN",
+        "parcel_id": "30626C",
+        "total_balance_due": 529.5
+      },
+      {
+        "name": "GONZALEZ LOPEZ RENE",
+        "parcel_id": "28303C",
+        "total_balance_due": 1512.08
+      }
+    ]
   }
 ]

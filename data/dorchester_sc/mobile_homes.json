@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "mobile_home",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000201.pgm",
-  "scraped_at": "2026-10-04T16:12:02.819660+00:00",
-  "record_count": 259,
+  "scraped_at": "2026-10-06T17:39:13.442619+00:00",
+  "record_count": 246,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 223807.74,
+  "parsed_total_balance_due": 213447.27,
   "totals_match": false,
   "records": [
     {
@@ -131,14 +131,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "BLANTON SHANA NICOLE",
-      "parcel_id": "30454C",
-      "id_type": "sticker",
-      "total_balance_due": 615.43,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "BOUNDS DARYL B",
       "parcel_id": "30302C",
       "id_type": "sticker",
@@ -195,16 +187,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "BRITT ANNIE (ESTATE)",
-      "parcel_id": "19551C",
-      "id_type": "sticker",
-      "total_balance_due": 772.11,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "BRITT ANNIE"
-      ]
-    },
-    {
       "name": "BROWN EMMIE",
       "parcel_id": "28113C",
       "id_type": "sticker",
@@ -233,14 +215,6 @@
       "parcel_id": "25786C",
       "id_type": "sticker",
       "total_balance_due": 418.92,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "BROWN STEVEN & HENRY SR",
-      "parcel_id": "19930C",
-      "id_type": "sticker",
-      "total_balance_due": 516.03,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -321,14 +295,6 @@
       "parcel_id": "23086C",
       "id_type": "sticker",
       "total_balance_due": 780.75,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "COBBS JAMES A",
-      "parcel_id": "90027C",
-      "id_type": "sticker",
-      "total_balance_due": 506.72,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -720,14 +686,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "GONZALEZ LOPEZ RENE",
-      "parcel_id": "28303C",
-      "id_type": "sticker",
-      "total_balance_due": 1512.08,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "GOODWINE JEROME N & LEE",
       "parcel_id": "21484C",
       "id_type": "sticker",
@@ -812,14 +770,6 @@
       "parcel_id": "5883C",
       "id_type": "sticker",
       "total_balance_due": 681.82,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "HAMILTON NATASHA SHAWANTA",
-      "parcel_id": "30834C",
-      "id_type": "sticker",
-      "total_balance_due": 665.36,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1163,14 +1113,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MARCHANT DONALD W JR",
-      "parcel_id": "27632C",
-      "id_type": "sticker",
-      "total_balance_due": 675.93,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MARROQUIN CARLOS",
       "parcel_id": "30789C",
       "id_type": "sticker",
@@ -1309,14 +1251,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MERCHANT TEDDY",
-      "parcel_id": "31314C",
-      "id_type": "sticker",
-      "total_balance_due": 1375.04,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MILES ANNIE L",
       "parcel_id": "12436C",
       "id_type": "sticker",
@@ -1351,14 +1285,6 @@
       "parcel_id": "24194C",
       "id_type": "sticker",
       "total_balance_due": 369.08,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "MONTENEGRO MILTON VALLE",
-      "parcel_id": "29419C",
-      "id_type": "sticker",
-      "total_balance_due": 932.04,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1454,14 +1380,6 @@
       "parcel_id": "27221C",
       "id_type": "sticker",
       "total_balance_due": 1748.02,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "OWENS LAURIE SALVO",
-      "parcel_id": "31541C",
-      "id_type": "sticker",
-      "total_balance_due": 670.2,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1692,14 +1610,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "SEABROOK HAROLD",
-      "parcel_id": "23653C",
-      "id_type": "sticker",
-      "total_balance_due": 907.81,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "SEARS JOHN ORA",
       "parcel_id": "22496C",
       "id_type": "sticker",
@@ -1716,14 +1626,6 @@
         "2023",
         "2024"
       ],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SHULER SAMUEL LANIER OR CARI LYN",
-      "parcel_id": "30626C",
-      "id_type": "sticker",
-      "total_balance_due": 529.5,
-      "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
     {
@@ -1795,14 +1697,6 @@
       "parcel_id": "17832C",
       "id_type": "sticker",
       "total_balance_due": 1319.98,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SMITH MITZI MICHELLE",
-      "parcel_id": "26208C",
-      "id_type": "sticker",
-      "total_balance_due": 682.22,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },

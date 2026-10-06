@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "real_property",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000200.pgm",
-  "scraped_at": "2026-10-04T16:12:02.036426+00:00",
-  "record_count": 604,
+  "scraped_at": "2026-10-06T17:39:12.686104+00:00",
+  "record_count": 585,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 2118195.1,
+  "parsed_total_balance_due": 2101618.11,
   "totals_match": false,
   "records": [
     {
@@ -776,14 +776,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "BROWN JOHN L",
-      "parcel_id": "094-00-00-014.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2282.13,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "BROWN LILLIE M LIFE ESTATE",
       "parcel_id": "007-00-00-155.000-C",
       "id_type": "tms",
@@ -796,14 +788,6 @@
       "parcel_id": "023-00-00-032.000-C",
       "id_type": "tms",
       "total_balance_due": 1008.66,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "BROWN MARY T & JOHN L",
-      "parcel_id": "094-00-00-031.000-C",
-      "id_type": "tms",
-      "total_balance_due": 325.23,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1013,7 +997,7 @@
       "name": "CALLAWAY DOROTHY (TRUSTEE) & ETA",
       "parcel_id": "031-09-00-001.000-C",
       "id_type": "tms",
-      "total_balance_due": 2238.26,
+      "total_balance_due": 2573.98,
       "prior_years_unpaid": [
         "2024"
       ],
@@ -1554,14 +1538,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "EADE CELIA C",
-      "parcel_id": "143-11-00-001.000-C",
-      "id_type": "tms",
-      "total_balance_due": 656.92,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "EDWARDS LARRY L & GWENDOLYN S",
       "parcel_id": "067-00-00-064.000-C",
       "id_type": "tms",
@@ -1838,14 +1814,6 @@
       "parcel_id": "135-12-06-002.000-C",
       "id_type": "tms",
       "total_balance_due": 1271.92,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "GILBERT FITZGERALD W",
-      "parcel_id": "056-00-00-034.000-C",
-      "id_type": "tms",
-      "total_balance_due": 434.94,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -2386,14 +2354,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "JOHNSON JOHNNIE & JOANN R",
-      "parcel_id": "049-00-00-039.000-C",
-      "id_type": "tms",
-      "total_balance_due": 562.14,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "JOHNSON JOHNNY & KATIE KITT (JTR",
       "parcel_id": "049-00-00-104.000-C",
       "id_type": "tms",
@@ -2650,30 +2610,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "LANDCO DEVELOPERS INC",
-      "parcel_id": "114-00-00-016.000-C",
-      "id_type": "tms",
-      "total_balance_due": 193.54,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "LANDCO DEVELOPERS INC",
-      "parcel_id": "116-00-00-003.000-C",
-      "id_type": "tms",
-      "total_balance_due": 262.54,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "LANDCO DEVELOPERS INC",
-      "parcel_id": "116-00-00-028.000-C",
-      "id_type": "tms",
-      "total_balance_due": 159.28,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "LAPORTE JONATHAN D",
       "parcel_id": "023-00-00-031.000-C",
       "id_type": "tms",
@@ -2822,14 +2758,6 @@
       "parcel_id": "162-05-04-010.000-C",
       "id_type": "tms",
       "total_balance_due": 383.2,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "MARCHANT TEDDY M",
-      "parcel_id": "014-00-00-141.000-C",
-      "id_type": "tms",
-      "total_balance_due": 407.06,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -3176,14 +3104,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MORRIS PATRICIA ANN MCLAIN & EDD",
-      "parcel_id": "042-00-00-062.000-C",
-      "id_type": "tms",
-      "total_balance_due": 945.43,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MORSCH CAROLYN M",
       "parcel_id": "128-04-05-004.000-C",
       "id_type": "tms",
@@ -3288,16 +3208,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "OSBORN WILLIAM LLOYD",
-      "parcel_id": "121-16-07-003.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1616.6,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "WHITE JOSEPHINE G B (LIFE ESTATE"
-      ]
-    },
-    {
       "name": "OTT CHRISTOPHER LEE",
       "parcel_id": "054-00-00-033.000-C",
       "id_type": "tms",
@@ -3326,14 +3236,6 @@
       "parcel_id": "070-00-00-055.000-C",
       "id_type": "tms",
       "total_balance_due": 2988.38,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "PALMETTO EQUITY SOLUTIONS LLC",
-      "parcel_id": "058-00-00-083.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1208.77,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -3528,14 +3430,6 @@
       "parcel_id": "080-00-00-066.000-C",
       "id_type": "tms",
       "total_balance_due": 741.92,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "RAVENELL JOHN OSCAR",
-      "parcel_id": "033-00-00-100.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1070.8,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -3864,14 +3758,6 @@
       "parcel_id": "129-08-03-002.000-C",
       "id_type": "tms",
       "total_balance_due": 976.54,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SEABROOK HAROLD",
-      "parcel_id": "075-13-06-012.000-C",
-      "id_type": "tms",
-      "total_balance_due": 267.59,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -4258,30 +4144,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "STEPHEN BARRY M",
-      "parcel_id": "045-10-16-009.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1191.06,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "STEPHEN BARRY M",
-      "parcel_id": "045-10-16-010.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1811.67,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "STEPHENS LAND COMPANY LLC",
-      "parcel_id": "015-00-00-156.000-C",
-      "id_type": "tms",
-      "total_balance_due": 300.54,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "STEPHENS STANLEY A JR",
       "parcel_id": "106-00-00-026.000-C",
       "id_type": "tms",
@@ -4392,14 +4254,6 @@
       "parcel_id": "031-15-00-004.000-C",
       "id_type": "tms",
       "total_balance_due": 2722.99,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SUMMERS HERBERT ET AL",
-      "parcel_id": "085-00-00-019.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2376.3,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -4624,14 +4478,6 @@
       "parcel_id": "107-00-00-160.000-C",
       "id_type": "tms",
       "total_balance_due": 2098.28,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "WALTERS TERESA L",
-      "parcel_id": "045-11-05-001.000-C",
-      "id_type": "tms",
-      "total_balance_due": 840.17,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
