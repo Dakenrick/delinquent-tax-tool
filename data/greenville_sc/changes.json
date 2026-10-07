@@ -3046,5 +3046,194 @@
         "total_balance_due": 2862.01
       }
     ]
+  },
+  {
+    "date": "2026-10-07",
+    "list_type": "tax_sale",
+    "added_count": 0,
+    "removed_count": 30,
+    "added": [],
+    "removed": [
+      {
+        "item_number": "13868",
+        "name": "PARKS TONY S",
+        "parcel_id": "0386000300300",
+        "total_balance_due": 704.03
+      },
+      {
+        "item_number": "19036",
+        "name": "WATERS JIMMY S WATERS ANNA C",
+        "parcel_id": "0168000801000",
+        "total_balance_due": 1777.73
+      },
+      {
+        "item_number": "5144",
+        "name": "EAGLEWATCH II HOMEOWNERS ASSOC",
+        "parcel_id": "0337020106300",
+        "total_balance_due": 921.92
+      },
+      {
+        "item_number": "152",
+        "name": "ACOSTA ROCIO BRITO ORTIZ-APARI",
+        "parcel_id": "B011000302700",
+        "total_balance_due": 3205.99
+      },
+      {
+        "item_number": "7604",
+        "name": "HARRIS DENISE (JTWROS) LANE DA",
+        "parcel_id": "0159000102700",
+        "total_balance_due": 1002.31
+      },
+      {
+        "item_number": "90043",
+        "name": "BURNETT JEREMY DERRICK &",
+        "parcel_id": "0603010101006",
+        "total_balance_due": 2974.39
+      },
+      {
+        "item_number": "15708",
+        "name": "ROSEMUND KENNETH",
+        "parcel_id": "0625010101408",
+        "total_balance_due": 770.13
+      },
+      {
+        "item_number": "10800",
+        "name": "LENNAR CAROLINA INC",
+        "parcel_id": "0296010106301",
+        "total_balance_due": 678.26
+      },
+      {
+        "item_number": "3472",
+        "name": "CLARK WAYNE EUGENE",
+        "parcel_id": "0640010104401",
+        "total_balance_due": 2110.57
+      },
+      {
+        "item_number": "19504",
+        "name": "WILLIAMS JEANNIE H ETAL CONV,",
+        "parcel_id": "0623010102210",
+        "total_balance_due": 838.51
+      },
+      {
+        "item_number": "12504",
+        "name": "MILLWOOD FAMILY TRUST",
+        "parcel_id": "0624050803100",
+        "total_balance_due": 714.01
+      },
+      {
+        "item_number": "5188",
+        "name": "ECS DEVELOPMENT LLC",
+        "parcel_id": "0514130101000",
+        "total_balance_due": 975.35
+      },
+      {
+        "item_number": "16760",
+        "name": "SMITH ADAM FRED (JTWROS) FRICK",
+        "parcel_id": "0103000600800",
+        "total_balance_due": 3715.85
+      },
+      {
+        "item_number": "5140",
+        "name": "EAGLE CHASE TOWNHOME OWNERS AS",
+        "parcel_id": "0538030101804",
+        "total_balance_due": 709.74
+      },
+      {
+        "item_number": "4396",
+        "name": "DAVIS DONALD ALLRED TRUST DAVI",
+        "parcel_id": "P027000100500",
+        "total_balance_due": 1790.31
+      },
+      {
+        "item_number": "11620",
+        "name": "MARTINEZ GILBERTO PENA",
+        "parcel_id": "B008030122700",
+        "total_balance_due": 2125.29
+      },
+      {
+        "item_number": "1588",
+        "name": "BLACKSTONE HOMEOWNERS ASSOC",
+        "parcel_id": "0533300101600",
+        "total_balance_due": 808.73
+      },
+      {
+        "item_number": "13592",
+        "name": "ORTIZ NESTOR A",
+        "parcel_id": "0548280103400",
+        "total_balance_due": 5404.76
+      },
+      {
+        "item_number": "11836",
+        "name": "MAYS HORACE",
+        "parcel_id": "0380000502100",
+        "total_balance_due": 1448.45
+      },
+      {
+        "item_number": "16680",
+        "name": "SK BUILDERS INC",
+        "parcel_id": "0529120104900",
+        "total_balance_due": 1256.52
+      },
+      {
+        "item_number": "2068",
+        "name": "BROWN DEVASHIO",
+        "parcel_id": "0373000500816",
+        "total_balance_due": 1981.3
+      },
+      {
+        "item_number": "44",
+        "name": "AAA WOFTAM",
+        "parcel_id": "0568040100809",
+        "total_balance_due": 1348.8
+      },
+      {
+        "item_number": "15704",
+        "name": "ROSEMUND KENNETH",
+        "parcel_id": "0625010101301",
+        "total_balance_due": 1414.93
+      },
+      {
+        "item_number": "12500",
+        "name": "MILLWOOD FAMILY TRUST",
+        "parcel_id": "0624050105600",
+        "total_balance_due": 3816.48
+      },
+      {
+        "item_number": "64",
+        "name": "ABERCROMBIE JIMMIE LEWIS",
+        "parcel_id": "0574030100807",
+        "total_balance_due": 3299.29
+      },
+      {
+        "item_number": "3088",
+        "name": "CESSNA COURT BUSINESS PARK PRO",
+        "parcel_id": "0284000201450",
+        "total_balance_due": 1029.92
+      },
+      {
+        "item_number": "5740",
+        "name": "FIELD TRIP TRAVELERS REST LLC",
+        "parcel_id": "0661030100910",
+        "total_balance_due": 13934.03
+      },
+      {
+        "item_number": "2832",
+        "name": "CARTER BETTY J CARTER RAYMOND",
+        "parcel_id": "B013010117500",
+        "total_balance_due": 3233.26
+      },
+      {
+        "item_number": "10600",
+        "name": "LAWSON JOHN EARNEST III",
+        "parcel_id": "0556040102000",
+        "total_balance_due": 4513.85
+      },
+      {
+        "item_number": "18068",
+        "name": "THOMPSONS FAMILY TRUST LLC",
+        "parcel_id": "0107001202800",
+        "total_balance_due": 5355.13
+      }
+    ]
   }
 ]
