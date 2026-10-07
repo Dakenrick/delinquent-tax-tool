@@ -1166,5 +1166,123 @@
         "total_balance_due": 1512.08
       }
     ]
+  },
+  {
+    "date": "2026-10-07",
+    "list_type": "real_property",
+    "added_count": 0,
+    "removed_count": 13,
+    "added": [],
+    "removed": [
+      {
+        "name": "WALDEN DOUGLAS",
+        "parcel_id": "060-00-00-098.000-C",
+        "total_balance_due": 1233.46
+      },
+      {
+        "name": "BETHEA CHARLES & MARY (JTROS)",
+        "parcel_id": "146-14-01-029.000-C",
+        "total_balance_due": 4824.44
+      },
+      {
+        "name": "BAKER TERRENCE D & HANNA M FULLE",
+        "parcel_id": "136-12-04-094.000-C",
+        "total_balance_due": 4221.87
+      },
+      {
+        "name": "ALVAREZ-VILLEGAS OSCAR & MARIA R",
+        "parcel_id": "172-15-14-007.000-C",
+        "total_balance_due": 883.72
+      },
+      {
+        "name": "SIMMONS ELIZABETH",
+        "parcel_id": "047-00-00-058.000-C",
+        "total_balance_due": 189.24
+      },
+      {
+        "name": "AMPB LLC",
+        "parcel_id": "129-01-13-011.000-C",
+        "total_balance_due": 1514.4
+      },
+      {
+        "name": "STEPHENS STANLEY A JR",
+        "parcel_id": "106-00-00-026.000-C",
+        "total_balance_due": 2911.33
+      },
+      {
+        "name": "ROSS ANTONIO",
+        "parcel_id": "084-00-00-032.000-C",
+        "total_balance_due": 1139.29
+      },
+      {
+        "name": "RILEY SANDRA",
+        "parcel_id": "109-01-03-015.000-C",
+        "total_balance_due": 855.3
+      },
+      {
+        "name": "DORCHESTER HABITAT FOR HUMANITY",
+        "parcel_id": "118-00-00-209.000-C",
+        "total_balance_due": 393.11
+      },
+      {
+        "name": "CARROLL CATHY F",
+        "parcel_id": "104-00-00-006.000-C",
+        "total_balance_due": 1725.69
+      },
+      {
+        "name": "ROSS ANTONIO & SABRINA",
+        "parcel_id": "035-00-00-145.000-C",
+        "total_balance_due": 805.6
+      },
+      {
+        "name": "CRAVEN TAMMY M",
+        "parcel_id": "137-08-04-019.000-C",
+        "total_balance_due": 4761.4
+      }
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "list_type": "mobile_home",
+    "added_count": 0,
+    "removed_count": 7,
+    "added": [],
+    "removed": [
+      {
+        "name": "PEREZ FREDDY ZARAO",
+        "parcel_id": "26053C",
+        "total_balance_due": 1165.04
+      },
+      {
+        "name": "FOGLE GEORGE D III",
+        "parcel_id": "27094C",
+        "total_balance_due": 1087.4
+      },
+      {
+        "name": "AMPB LLC",
+        "parcel_id": "29397C",
+        "total_balance_due": 420.42
+      },
+      {
+        "name": "DOCTOR RUBEN J",
+        "parcel_id": "22839C",
+        "total_balance_due": 2433.86
+      },
+      {
+        "name": "MOORER WILLIE",
+        "parcel_id": "27514C",
+        "total_balance_due": 943.32
+      },
+      {
+        "name": "KESSLER VELVET SUE & JOHN",
+        "parcel_id": "22328C",
+        "total_balance_due": 723.3
+      },
+      {
+        "name": "MATTHEWS TAMARA L OR FRANCIS DEN",
+        "parcel_id": "29318C",
+        "total_balance_due": 481.75
+      }
+    ]
   }
 ]

@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "real_property",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000200.pgm",
-  "scraped_at": "2026-10-06T17:39:12.686104+00:00",
-  "record_count": 585,
+  "scraped_at": "2026-10-07T18:10:33.700269+00:00",
+  "record_count": 572,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 2101618.11,
+  "parsed_total_balance_due": 2076159.26,
   "totals_match": false,
   "records": [
     {
@@ -185,22 +185,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "ALVAREZ-VILLEGAS OSCAR & MARIA R",
-      "parcel_id": "172-15-14-007.000-C",
-      "id_type": "tms",
-      "total_balance_due": 883.72,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "AMPB LLC",
-      "parcel_id": "129-01-13-011.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1514.4,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "ANDERSON ADRIAN",
       "parcel_id": "080-00-00-150.000-C",
       "id_type": "tms",
@@ -305,14 +289,6 @@
       "parcel_id": "121-00-00-207.000-C",
       "id_type": "tms",
       "total_balance_due": 445.53,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "BAKER TERRENCE D & HANNA M FULLE",
-      "parcel_id": "136-12-04-094.000-C",
-      "id_type": "tms",
-      "total_balance_due": 4221.87,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -435,14 +411,6 @@
       "parcel_id": "036-11-04-030.000-C",
       "id_type": "tms",
       "total_balance_due": 525.0,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "BETHEA CHARLES & MARY (JTROS)",
-      "parcel_id": "146-14-01-029.000-C",
-      "id_type": "tms",
-      "total_balance_due": 4824.44,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1038,14 +1006,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "CARROLL CATHY F",
-      "parcel_id": "104-00-00-006.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1725.69,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "CARTER DANIEL",
       "parcel_id": "108-00-00-025.000-C",
       "id_type": "tms",
@@ -1316,14 +1276,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "CRAVEN TAMMY M",
-      "parcel_id": "137-08-04-019.000-C",
-      "id_type": "tms",
-      "total_balance_due": 4761.4,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "CRENSHAW RODNEY L & ANITA MICHEL",
       "parcel_id": "170-11-01-045.000-C",
       "id_type": "tms",
@@ -1478,16 +1430,6 @@
       "total_balance_due": 2644.52,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
-    },
-    {
-      "name": "DORCHESTER HABITAT FOR HUMANITY",
-      "parcel_id": "118-00-00-209.000-C",
-      "id_type": "tms",
-      "total_balance_due": 393.11,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "SNIPES JOHNNIE B"
-      ]
     },
     {
       "name": "DRIGGERS TERESA J OR RICHARD M J",
@@ -3576,14 +3518,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "RILEY SANDRA",
-      "parcel_id": "109-01-03-015.000-C",
-      "id_type": "tms",
-      "total_balance_due": 855.3,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "RIVERS LAWRENCE",
       "parcel_id": "130-14-02-002.000-C",
       "id_type": "tms",
@@ -3652,22 +3586,6 @@
       "parcel_id": "136-15-03-013.000-C",
       "id_type": "tms",
       "total_balance_due": 3720.99,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ROSS ANTONIO",
-      "parcel_id": "084-00-00-032.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1139.29,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ROSS ANTONIO & SABRINA",
-      "parcel_id": "035-00-00-145.000-C",
-      "id_type": "tms",
-      "total_balance_due": 805.6,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -3840,14 +3758,6 @@
       "parcel_id": "145-10-01-042.000-C",
       "id_type": "tms",
       "total_balance_due": 2502.68,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SIMMONS ELIZABETH",
-      "parcel_id": "047-00-00-058.000-C",
-      "id_type": "tms",
-      "total_balance_due": 189.24,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -4142,16 +4052,6 @@
       "total_balance_due": 860.68,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
-    },
-    {
-      "name": "STEPHENS STANLEY A JR",
-      "parcel_id": "106-00-00-026.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2911.33,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "STEPHENS STANLEY A"
-      ]
     },
     {
       "name": "STEWARD ADRIENNE",
@@ -4462,14 +4362,6 @@
       "parcel_id": "144-10-01-023.000-C",
       "id_type": "tms",
       "total_balance_due": 2819.57,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "WALDEN DOUGLAS",
-      "parcel_id": "060-00-00-098.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1233.46,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },

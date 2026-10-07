@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "mobile_home",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000201.pgm",
-  "scraped_at": "2026-10-06T17:39:13.442619+00:00",
-  "record_count": 246,
+  "scraped_at": "2026-10-07T18:10:34.376880+00:00",
+  "record_count": 239,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 213447.27,
+  "parsed_total_balance_due": 206192.18,
   "totals_match": false,
   "records": [
     {
@@ -47,14 +47,6 @@
       "parcel_id": "26611C",
       "id_type": "sticker",
       "total_balance_due": 356.06,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "AMPB LLC",
-      "parcel_id": "29397C",
-      "id_type": "sticker",
-      "total_balance_due": 420.42,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -451,14 +443,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "DOCTOR RUBEN J",
-      "parcel_id": "22839C",
-      "id_type": "sticker",
-      "total_balance_due": 2433.86,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "DRIGGERS MARK WALTON",
       "parcel_id": "25091C",
       "id_type": "sticker",
@@ -562,14 +546,6 @@
       "parcel_id": "21326C",
       "id_type": "sticker",
       "total_balance_due": 986.31,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "FOGLE GEORGE D III",
-      "parcel_id": "27094C",
-      "id_type": "sticker",
-      "total_balance_due": 1087.4,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -985,14 +961,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "KESSLER VELVET SUE & JOHN",
-      "parcel_id": "22328C",
-      "id_type": "sticker",
-      "total_balance_due": 723.3,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "KINARD WILLIAM KYLE",
       "parcel_id": "31192C",
       "id_type": "sticker",
@@ -1153,14 +1121,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MATTHEWS TAMARA L OR FRANCIS DEN",
-      "parcel_id": "29318C",
-      "id_type": "sticker",
-      "total_balance_due": 481.75,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MCCANN SANDRA ANN",
       "parcel_id": "30620C",
       "id_type": "sticker",
@@ -1289,14 +1249,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MOORER WILLIE",
-      "parcel_id": "27514C",
-      "id_type": "sticker",
-      "total_balance_due": 943.32,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MORALES MARVIN DE JESUS",
       "parcel_id": "31105C",
       "id_type": "sticker",
@@ -1388,14 +1340,6 @@
       "parcel_id": "30724C",
       "id_type": "sticker",
       "total_balance_due": 673.8,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "PEREZ FREDDY ZARAO",
-      "parcel_id": "26053C",
-      "id_type": "sticker",
-      "total_balance_due": 1165.04,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
