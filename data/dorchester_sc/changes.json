@@ -1284,5 +1284,104 @@
         "total_balance_due": 481.75
       }
     ]
+  },
+  {
+    "date": "2026-10-08",
+    "list_type": "real_property",
+    "added_count": 2,
+    "removed_count": 10,
+    "added": [
+      {
+        "name": "VINCENT CYNTHIA TEAGUE & HADLEY",
+        "parcel_id": "136-07-05-023.000-C",
+        "total_balance_due": 3220.46
+      },
+      {
+        "name": "ALEJANDRO JUAN E",
+        "parcel_id": "154-14-07-063.000-C",
+        "total_balance_due": 4726.48
+      }
+    ],
+    "removed": [
+      {
+        "name": "MONTGOMERY ROBERT W ETAL",
+        "parcel_id": "172-12-00-009.000-C",
+        "total_balance_due": 2566.48
+      },
+      {
+        "name": "BARNES TAWANNA GLOVER",
+        "parcel_id": "150-00-00-055.000-C",
+        "total_balance_due": 778.46
+      },
+      {
+        "name": "HALL JESSIE LEE (TRUSTEE)",
+        "parcel_id": "123-13-09-001.000-C",
+        "total_balance_due": 1871.24
+      },
+      {
+        "name": "SNIPES CELIA ET AL",
+        "parcel_id": "135-00-00-132.000-C",
+        "total_balance_due": 532.58
+      },
+      {
+        "name": "ROD HOLDINGS LLC",
+        "parcel_id": "045-15-12-003.000-C",
+        "total_balance_due": 6994.27
+      },
+      {
+        "name": "WARING ROBERT V",
+        "parcel_id": "137-02-09-006.000-C",
+        "total_balance_due": 4392.53
+      },
+      {
+        "name": "ROBINSON SARAH (ESTATE)",
+        "parcel_id": "135-00-00-199.000-C",
+        "total_balance_due": 954.26
+      },
+      {
+        "name": "EDWARDS LARRY L & GWENDOLYN S",
+        "parcel_id": "067-00-00-064.000-C",
+        "total_balance_due": 450.34
+      },
+      {
+        "name": "AJPACAJA BYRON ALEXANDER AVILA &",
+        "parcel_id": "162-10-02-008.000-C",
+        "total_balance_due": 9785.1
+      },
+      {
+        "name": "MARCHANT TINA L",
+        "parcel_id": "066-00-00-010.000-C",
+        "total_balance_due": 733.18
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "list_type": "mobile_home",
+    "added_count": 0,
+    "removed_count": 4,
+    "added": [],
+    "removed": [
+      {
+        "name": "GADSON ISREAL L",
+        "parcel_id": "23582C",
+        "total_balance_due": 1822.85
+      },
+      {
+        "name": "HALL RAYMOND S",
+        "parcel_id": "5883C",
+        "total_balance_due": 681.82
+      },
+      {
+        "name": "SIMMONS CALVIN & OCTAVIA",
+        "parcel_id": "15967C",
+        "total_balance_due": 988.86
+      },
+      {
+        "name": "YES HOMESALES EXP LLC",
+        "parcel_id": "28928C",
+        "total_balance_due": 2151.62
+      }
+    ]
   }
 ]

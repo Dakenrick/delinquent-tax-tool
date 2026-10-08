@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "mobile_home",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000201.pgm",
-  "scraped_at": "2026-10-07T18:10:34.376880+00:00",
-  "record_count": 239,
+  "scraped_at": "2026-10-08T18:12:39.802692+00:00",
+  "record_count": 235,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 206192.18,
+  "parsed_total_balance_due": 200547.03,
   "totals_match": false,
   "records": [
     {
@@ -574,14 +574,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "GADSON ISREAL L",
-      "parcel_id": "23582C",
-      "id_type": "sticker",
-      "total_balance_due": 1822.85,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "GANT SHERICA A & CARL ARNETT",
       "parcel_id": "22623C",
       "id_type": "sticker",
@@ -738,14 +730,6 @@
       "parcel_id": "31221C",
       "id_type": "sticker",
       "total_balance_due": 287.17,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "HALL RAYMOND S",
-      "parcel_id": "5883C",
-      "id_type": "sticker",
-      "total_balance_due": 681.82,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1581,14 +1565,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "SIMMONS CALVIN & OCTAVIA",
-      "parcel_id": "15967C",
-      "id_type": "sticker",
-      "total_balance_due": 988.86,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "SIMMONS CASSANDRA ANN",
       "parcel_id": "24553C",
       "id_type": "sticker",
@@ -1935,14 +1911,6 @@
       "parcel_id": "15734C",
       "id_type": "sticker",
       "total_balance_due": 918.31,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "YES HOMESALES EXP LLC",
-      "parcel_id": "28928C",
-      "id_type": "sticker",
-      "total_balance_due": 2151.62,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
