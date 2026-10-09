@@ -4828,5 +4828,254 @@
         "total_balance_due": 1177.63
       }
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "list_type": "tax_sale",
+    "added_count": 0,
+    "removed_count": 40,
+    "added": [],
+    "removed": [
+      {
+        "item_number": "6500",
+        "name": "GARCIA LESLIE ANN (JTWROS) GON",
+        "parcel_id": "WG06020106300",
+        "total_balance_due": 1516.15
+      },
+      {
+        "item_number": "16900",
+        "name": "SMITH MILTON A III (JTWROS) SM",
+        "parcel_id": "0222020501400",
+        "total_balance_due": 1919.11
+      },
+      {
+        "item_number": "4776",
+        "name": "DIXON RICHARD F III",
+        "parcel_id": "0115001200200",
+        "total_balance_due": 2028.56
+      },
+      {
+        "item_number": "16932",
+        "name": "SMITH REGINA G",
+        "parcel_id": "0145000100702",
+        "total_balance_due": 1260.62
+      },
+      {
+        "item_number": "16960",
+        "name": "SMITH REGINA G",
+        "parcel_id": "0274040107300",
+        "total_balance_due": 2250.78
+      },
+      {
+        "item_number": "8476",
+        "name": "HOPKINS KEVIN C",
+        "parcel_id": "0655050100901",
+        "total_balance_due": 1427.22
+      },
+      {
+        "item_number": "16920",
+        "name": "SMITH REGINA G",
+        "parcel_id": "0110000600200",
+        "total_balance_due": 1189.77
+      },
+      {
+        "item_number": "2432",
+        "name": "BUTLER WILLIAM M & DAVID M",
+        "parcel_id": "0602020103902",
+        "total_balance_due": 1102.26
+      },
+      {
+        "item_number": "4760",
+        "name": "DIRTON PROPERTIES LLC",
+        "parcel_id": "0365000600100",
+        "total_balance_due": 2350.4
+      },
+      {
+        "item_number": "4756",
+        "name": "DIRTON PROPERTIES LLC",
+        "parcel_id": "0267000202400",
+        "total_balance_due": 2292.71
+      },
+      {
+        "item_number": "4528",
+        "name": "DEMARSKI MATTHEW",
+        "parcel_id": "0156000501100",
+        "total_balance_due": 1296.43
+      },
+      {
+        "item_number": "14992",
+        "name": "RED BARN LAND TRUST",
+        "parcel_id": "0633020100200",
+        "total_balance_due": 1699.78
+      },
+      {
+        "item_number": "10432",
+        "name": "LANCE CHARLES RAY LANCE DEBRA",
+        "parcel_id": "0523010200502",
+        "total_balance_due": 1083.21
+      },
+      {
+        "item_number": "6776",
+        "name": "GILSTRAP REGINA L",
+        "parcel_id": "0196000700700",
+        "total_balance_due": 1755.19
+      },
+      {
+        "item_number": "15008",
+        "name": "REDDING LONNIE",
+        "parcel_id": "0155001502300",
+        "total_balance_due": 1341.57
+      },
+      {
+        "item_number": "2884",
+        "name": "CASTELLON PABLO ERIBERTO",
+        "parcel_id": "B008030121500",
+        "total_balance_due": 1825.49
+      },
+      {
+        "item_number": "6768",
+        "name": "GILSTRAP REGINA L",
+        "parcel_id": "M009020106500",
+        "total_balance_due": 2676.03
+      },
+      {
+        "item_number": "16956",
+        "name": "SMITH REGINA G",
+        "parcel_id": "0250000100900",
+        "total_balance_due": 1794.59
+      },
+      {
+        "item_number": "16984",
+        "name": "SMITH RHONDA M & STANLEY E",
+        "parcel_id": "0610010101201",
+        "total_balance_due": 8646.76
+      },
+      {
+        "item_number": "2436",
+        "name": "BUTLER WILLIAM M & DAVID M",
+        "parcel_id": "0602020103903",
+        "total_balance_due": 794.29
+      },
+      {
+        "item_number": "16944",
+        "name": "SMITH REGINA G",
+        "parcel_id": "0226000300700",
+        "total_balance_due": 1692.58
+      },
+      {
+        "item_number": "2372",
+        "name": "BURTS DOUGLAS WILLIAMS DORIS,",
+        "parcel_id": "0385000203200",
+        "total_balance_due": 1424.42
+      },
+      {
+        "item_number": "5076",
+        "name": "DYETI INCORPORATED",
+        "parcel_id": "P015100114700",
+        "total_balance_due": 21499.47
+      },
+      {
+        "item_number": "18096",
+        "name": "THORPE KHALIL",
+        "parcel_id": "0231000101001",
+        "total_balance_due": 1037.78
+      },
+      {
+        "item_number": "3924",
+        "name": "COSTER JASON",
+        "parcel_id": "0673030100601",
+        "total_balance_due": 932.28
+      },
+      {
+        "item_number": "8792",
+        "name": "ICE AGE ICE SCULPTURES OF GREE",
+        "parcel_id": "0593040102928",
+        "total_balance_due": 4011.0
+      },
+      {
+        "item_number": "6780",
+        "name": "GILSTRAP REGINA L",
+        "parcel_id": "0236000602600",
+        "total_balance_due": 1668.59
+      },
+      {
+        "item_number": "16948",
+        "name": "SMITH REGINA G",
+        "parcel_id": "0226000300800",
+        "total_balance_due": 3320.49
+      },
+      {
+        "item_number": "2388",
+        "name": "BUTLER DAILYN",
+        "parcel_id": "0596050100300",
+        "total_balance_due": 834.89
+      },
+      {
+        "item_number": "16952",
+        "name": "SMITH REGINA G",
+        "parcel_id": "0227000101100",
+        "total_balance_due": 4840.44
+      },
+      {
+        "item_number": "16804",
+        "name": "SMITH DOROTHY JEAN",
+        "parcel_id": "0568030100405",
+        "total_balance_due": 1070.17
+      },
+      {
+        "item_number": "14148",
+        "name": "PHILYAW JOHN B",
+        "parcel_id": "0599010102902",
+        "total_balance_due": 1056.64
+      },
+      {
+        "item_number": "6564",
+        "name": "GARRETT ZACHARY C",
+        "parcel_id": "0129000200700",
+        "total_balance_due": 1709.83
+      },
+      {
+        "item_number": "19128",
+        "name": "WEIBLE CHARLES E",
+        "parcel_id": "0575010103600",
+        "total_balance_due": 1761.21
+      },
+      {
+        "item_number": "16940",
+        "name": "SMITH REGINA G",
+        "parcel_id": "0222031001900",
+        "total_balance_due": 1938.18
+      },
+      {
+        "item_number": "9472",
+        "name": "JONES DORIS H",
+        "parcel_id": "B004010102001",
+        "total_balance_due": 1697.63
+      },
+      {
+        "item_number": "18200",
+        "name": "TOLBERT RUTH ALVENIA TOLBERT J",
+        "parcel_id": "0354020101700",
+        "total_balance_due": 1405.67
+      },
+      {
+        "item_number": "6376",
+        "name": "G S SERVICES INC",
+        "parcel_id": "0593050104500",
+        "total_balance_due": 2590.41
+      },
+      {
+        "item_number": "16936",
+        "name": "SMITH REGINA G",
+        "parcel_id": "0200000302100",
+        "total_balance_due": 1892.43
+      },
+      {
+        "item_number": "460",
+        "name": "ANDERSON ALAN M",
+        "parcel_id": "T006001301300",
+        "total_balance_due": 1195.37
+      }
+    ]
   }
 ]
