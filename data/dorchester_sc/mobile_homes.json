@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "mobile_home",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000201.pgm",
-  "scraped_at": "2026-10-08T18:12:39.802692+00:00",
-  "record_count": 235,
+  "scraped_at": "2026-10-09T17:45:44.860180+00:00",
+  "record_count": 233,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 200547.03,
+  "parsed_total_balance_due": 198079.14,
   "totals_match": false,
   "records": [
     {
@@ -586,14 +586,6 @@
       "parcel_id": "28643C",
       "id_type": "sticker",
       "total_balance_due": 649.45,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "GAVINS SHARLENE A",
-      "parcel_id": "23737C",
-      "id_type": "sticker",
-      "total_balance_due": 531.23,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1770,20 +1762,6 @@
       "id_type": "sticker",
       "total_balance_due": 3310.31,
       "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "WALKER RUTHY",
-      "parcel_id": "18645C",
-      "id_type": "sticker",
-      "total_balance_due": 1936.66,
-      "prior_years_unpaid": [
-        "2020",
-        "2021",
-        "2022",
-        "2023",
-        "2024"
-      ],
       "formerly_owned_by": []
     },
     {

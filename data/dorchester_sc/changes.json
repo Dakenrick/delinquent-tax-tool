@@ -1383,5 +1383,94 @@
         "total_balance_due": 2151.62
       }
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "list_type": "real_property",
+    "added_count": 1,
+    "removed_count": 11,
+    "added": [
+      {
+        "name": "WATERS RYAN & BRANDY (JTROS)",
+        "parcel_id": "055-00-00-087.777-C",
+        "total_balance_due": 1254.67
+      }
+    ],
+    "removed": [
+      {
+        "name": "BENNETT STEPHANIE E",
+        "parcel_id": "135-02-11-024.000-C",
+        "total_balance_due": 15176.08
+      },
+      {
+        "name": "LEMON GENE E",
+        "parcel_id": "135-00-00-130.000-C",
+        "total_balance_due": 1211.51
+      },
+      {
+        "name": "REEVES SAMMIE",
+        "parcel_id": "080-00-00-014.000-C",
+        "total_balance_due": 549.34
+      },
+      {
+        "name": "GEDDIS MARY E ET AL",
+        "parcel_id": "175-00-00-001.000-C",
+        "total_balance_due": 1183.99
+      },
+      {
+        "name": "ABBY SUMMERVILLE LLC",
+        "parcel_id": "137-08-00-001.000-C",
+        "total_balance_due": 557668.77
+      },
+      {
+        "name": "JOHNSON SARA ANN ETAL",
+        "parcel_id": "003-00-00-033.000-C",
+        "total_balance_due": 1127.14
+      },
+      {
+        "name": "STEWARD EILEEN P & ALMA S",
+        "parcel_id": "071-00-00-084.000-C",
+        "total_balance_due": 1360.82
+      },
+      {
+        "name": "BROWN MARTHA M & NANCY D",
+        "parcel_id": "023-00-00-032.000-C",
+        "total_balance_due": 1008.66
+      },
+      {
+        "name": "STINSON MONIQUE",
+        "parcel_id": "172-11-15-029.000-C",
+        "total_balance_due": 3018.73
+      },
+      {
+        "name": "BROWN WOODROW W JR",
+        "parcel_id": "145-16-05-007.000-C",
+        "total_balance_due": 835.94
+      },
+      {
+        "name": "ADDISON JOSEPH & DELORISE (JTROS",
+        "parcel_id": "078-00-00-064.000-C",
+        "total_balance_due": 353.02
+      }
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "list_type": "mobile_home",
+    "added_count": 0,
+    "removed_count": 2,
+    "added": [],
+    "removed": [
+      {
+        "name": "WALKER RUTHY",
+        "parcel_id": "18645C",
+        "total_balance_due": 1936.66
+      },
+      {
+        "name": "GAVINS SHARLENE A",
+        "parcel_id": "23737C",
+        "total_balance_due": 531.23
+      }
+    ]
   }
 ]
