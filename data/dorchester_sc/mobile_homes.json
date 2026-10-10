@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "mobile_home",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000201.pgm",
-  "scraped_at": "2026-10-09T17:45:44.860180+00:00",
-  "record_count": 233,
+  "scraped_at": "2026-10-10T16:39:05.751503+00:00",
+  "record_count": 222,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 198079.14,
+  "parsed_total_balance_due": 189574.42,
   "totals_match": false,
   "records": [
     {
@@ -355,14 +355,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "DAVIS JAMES T & NICOLE MCFADDEN",
-      "parcel_id": "17802C",
-      "id_type": "sticker",
-      "total_balance_due": 511.01,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "DAVIS RICHARD AND SHIRLEY B",
       "parcel_id": "28272C",
       "id_type": "sticker",
@@ -503,14 +495,6 @@
       "parcel_id": "17464C",
       "id_type": "sticker",
       "total_balance_due": 814.59,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ESPARZA LORENZO JR",
-      "parcel_id": "28865C",
-      "id_type": "sticker",
-      "total_balance_due": 962.98,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -690,14 +674,6 @@
       "parcel_id": "18282C",
       "id_type": "sticker",
       "total_balance_due": 483.67,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "GUERRA DOMINGUEZ WILVERT SAVINON",
-      "parcel_id": "28429C",
-      "id_type": "sticker",
-      "total_balance_due": 887.96,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -953,14 +929,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "KITT KATIE LEE SHRON",
-      "parcel_id": "31114C",
-      "id_type": "sticker",
-      "total_balance_due": 588.05,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "LAND SHEILA O",
       "parcel_id": "24170C",
       "id_type": "sticker",
@@ -1121,32 +1089,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MCFADDEN DAISY",
-      "parcel_id": "16909C",
-      "id_type": "sticker",
-      "total_balance_due": 1116.56,
-      "prior_years_unpaid": [
-        "2016",
-        "2017",
-        "2018",
-        "2019",
-        "2020",
-        "2021",
-        "2022",
-        "2023",
-        "2024"
-      ],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "MCFADDEN NICOLE",
-      "parcel_id": "15385C",
-      "id_type": "sticker",
-      "total_balance_due": 630.85,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MCGUIRE GERNAEIL JERMAINE",
       "parcel_id": "26648C",
       "id_type": "sticker",
@@ -1163,26 +1105,10 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MCKNIGHT TIMOTHY & LINDA",
-      "parcel_id": "22237C",
-      "id_type": "sticker",
-      "total_balance_due": 909.07,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MCMILLAN EVITA L",
       "parcel_id": "28644C",
       "id_type": "sticker",
       "total_balance_due": 468.47,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "MENDEZ MAGANA GILBERTO",
-      "parcel_id": "33623C",
-      "id_type": "sticker",
-      "total_balance_due": 1212.92,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1573,14 +1499,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "SIMPSON VERONIQUE L OR WILLIAMS",
-      "parcel_id": "30062C",
-      "id_type": "sticker",
-      "total_balance_due": 305.56,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "SIMS LENA E & ALLISON",
       "parcel_id": "11814C",
       "id_type": "sticker",
@@ -1669,14 +1587,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "SUMMERS RONALD DEMETRIUS",
-      "parcel_id": "28673C",
-      "id_type": "sticker",
-      "total_balance_due": 477.18,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "SWEAT LAURA M (EZZELL)",
       "parcel_id": "22103C",
       "id_type": "sticker",
@@ -1745,14 +1655,6 @@
       "parcel_id": "27708C",
       "id_type": "sticker",
       "total_balance_due": 851.94,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "WAGERS JOHN P III",
-      "parcel_id": "28521C",
-      "id_type": "sticker",
-      "total_balance_due": 902.58,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
