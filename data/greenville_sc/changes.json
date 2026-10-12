@@ -5410,5 +5410,351 @@
         "total_balance_due": 2360.02
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "list_type": "tax_sale",
+    "added_count": 1,
+    "removed_count": 55,
+    "added": [
+      {
+        "item_number": "17800",
+        "name": "TBS OF SOUTH CAROLINA LLC",
+        "parcel_id": "TO00000404100",
+        "total_balance_due": 943.17
+      }
+    ],
+    "removed": [
+      {
+        "item_number": "4796",
+        "name": "DNG HOSPITALITY GROUP LLC",
+        "parcel_id": "0538100138900",
+        "total_balance_due": 6666.99
+      },
+      {
+        "item_number": "2360",
+        "name": "BURTON SHIRLEY F WILLIAMS VICK",
+        "parcel_id": "0397000200107",
+        "total_balance_due": 857.64
+      },
+      {
+        "item_number": "10884",
+        "name": "LEWERS SHAVIA ZAKILYA (JTWROS)",
+        "parcel_id": "0566070106100",
+        "total_balance_due": 2220.02
+      },
+      {
+        "item_number": "9908",
+        "name": "KING RECO LAMONT",
+        "parcel_id": "0506040602100",
+        "total_balance_due": 825.66
+      },
+      {
+        "item_number": "4360",
+        "name": "DAVENPORT LARRY A TRUST B DAVE",
+        "parcel_id": "0324000900200",
+        "total_balance_due": 1989.43
+      },
+      {
+        "item_number": "668",
+        "name": "ASHMORE HOMES INC",
+        "parcel_id": "0373000505600",
+        "total_balance_due": 3719.65
+      },
+      {
+        "item_number": "3620",
+        "name": "COGGINS RANDALL C",
+        "parcel_id": "0522020101807",
+        "total_balance_due": 842.72
+      },
+      {
+        "item_number": "7220",
+        "name": "GREENVILLE HKW LLC",
+        "parcel_id": "0074000100300",
+        "total_balance_due": 68729.7
+      },
+      {
+        "item_number": "9988",
+        "name": "KNIGHT COREY DANIEL KNIGHT JEF",
+        "parcel_id": "0276010100200",
+        "total_balance_due": 3899.14
+      },
+      {
+        "item_number": "18900",
+        "name": "VSWC LLC",
+        "parcel_id": "0074000800300",
+        "total_balance_due": 9790.24
+      },
+      {
+        "item_number": "532",
+        "name": "ANGLIN STEPHANIE C",
+        "parcel_id": "0612030104306",
+        "total_balance_due": 754.19
+      },
+      {
+        "item_number": "14704",
+        "name": "PROFESSIONAL DEVELOPERS LLC",
+        "parcel_id": "0232000100201",
+        "total_balance_due": 1384.74
+      },
+      {
+        "item_number": "14692",
+        "name": "PROFESSIONAL DEVELOPERS LLC",
+        "parcel_id": "0186000101400",
+        "total_balance_due": 1995.35
+      },
+      {
+        "item_number": "17036",
+        "name": "SMITHERS MARGARET LOUISE",
+        "parcel_id": "0230000505900",
+        "total_balance_due": 10228.17
+      },
+      {
+        "item_number": "9668",
+        "name": "K B S E LLC",
+        "parcel_id": "0263010104500",
+        "total_balance_due": 6987.94
+      },
+      {
+        "item_number": "20",
+        "name": "A S K ENTERPRISES & FUNDING LL",
+        "parcel_id": "0376000105000",
+        "total_balance_due": 3245.19
+      },
+      {
+        "item_number": "6168",
+        "name": "FOX BETTY B FOX JOHN H",
+        "parcel_id": "0574090102800",
+        "total_balance_due": 1240.8
+      },
+      {
+        "item_number": "7844",
+        "name": "HAYES RODGER C (JTWROS) HAYES",
+        "parcel_id": "0513060101202",
+        "total_balance_due": 707.42
+      },
+      {
+        "item_number": "2548",
+        "name": "CABALLERO OSCAR ROLANDO PINEDA",
+        "parcel_id": "0404001100900",
+        "total_balance_due": 890.79
+      },
+      {
+        "item_number": "1804",
+        "name": "BOWEN CHRISTOPHER A BOWEN REGI",
+        "parcel_id": "0174020500800",
+        "total_balance_due": 2002.57
+      },
+      {
+        "item_number": "17800",
+        "name": "TBS OF SOUTH CAROLINA LLC",
+        "parcel_id": "0200000404100",
+        "total_balance_due": 943.17
+      },
+      {
+        "item_number": "20180",
+        "name": "409 WATERMARKE LLC",
+        "parcel_id": "0638060101800",
+        "total_balance_due": 907.14
+      },
+      {
+        "item_number": "12268",
+        "name": "MENCINI JOHN MICHAEL",
+        "parcel_id": "T029010102800",
+        "total_balance_due": 2948.02
+      },
+      {
+        "item_number": "896",
+        "name": "BAINE SCOTT EVERETTE SEEBURGER",
+        "parcel_id": "B005040100600",
+        "total_balance_due": 1405.59
+      },
+      {
+        "item_number": "14696",
+        "name": "PROFESSIONAL DEVELOPERS LLC",
+        "parcel_id": "0197000600900",
+        "total_balance_due": 7480.01
+      },
+      {
+        "item_number": "14688",
+        "name": "PROFESSIONAL DEVELOPERS LLC",
+        "parcel_id": "0174020201000",
+        "total_balance_due": 2680.65
+      },
+      {
+        "item_number": "10852",
+        "name": "LESTER MARGARET MCCALL SELENE",
+        "parcel_id": "B004010102205",
+        "total_balance_due": 1895.9
+      },
+      {
+        "item_number": "9264",
+        "name": "JIMINEZ ESTEFANIA",
+        "parcel_id": "0379000401300",
+        "total_balance_due": 2011.52
+      },
+      {
+        "item_number": "19256",
+        "name": "WHITE DELROY D",
+        "parcel_id": "0548280110400",
+        "total_balance_due": 2052.13
+      },
+      {
+        "item_number": "12636",
+        "name": "MOHAMED HAYAT (JTWROS) ALTAIRI",
+        "parcel_id": "0550130100200",
+        "total_balance_due": 10936.38
+      },
+      {
+        "item_number": "5392",
+        "name": "ELLENBURG DEBRA J",
+        "parcel_id": "WG10010101005",
+        "total_balance_due": 955.52
+      },
+      {
+        "item_number": "18412",
+        "name": "TROTTERSFIELD LLC",
+        "parcel_id": "0531180100200",
+        "total_balance_due": 2381.92
+      },
+      {
+        "item_number": "7996",
+        "name": "HENDRICKS DONNIE R HENDRICKS C",
+        "parcel_id": "B011000302400",
+        "total_balance_due": 4226.49
+      },
+      {
+        "item_number": "11884",
+        "name": "MCBEE TOWNHOMES LLC",
+        "parcel_id": "0064000300200",
+        "total_balance_due": 62815.86
+      },
+      {
+        "item_number": "5536",
+        "name": "ESKEW KELLI ELIZABETH",
+        "parcel_id": "0239010500900",
+        "total_balance_due": 1601.02
+      },
+      {
+        "item_number": "3452",
+        "name": "CLARK MANOR INC",
+        "parcel_id": "0552010101002",
+        "total_balance_due": 707.41
+      },
+      {
+        "item_number": "5492",
+        "name": "EPPES JOHN ALBERT",
+        "parcel_id": "0509030102902",
+        "total_balance_due": 682.64
+      },
+      {
+        "item_number": "3412",
+        "name": "CJK HOME SOLUTIONS LLC",
+        "parcel_id": "0224000201620",
+        "total_balance_due": 1213.37
+      },
+      {
+        "item_number": "2064",
+        "name": "BROWN DEBRA WOODSON CARSON CRI",
+        "parcel_id": "0598020101801",
+        "total_balance_due": 3163.9
+      },
+      {
+        "item_number": "7328",
+        "name": "GRINDSTAFF GLENDA K",
+        "parcel_id": "WG10010101001",
+        "total_balance_due": 1250.95
+      },
+      {
+        "item_number": "9016",
+        "name": "JACKSON JOSHUA OMAR IRBY LOLA",
+        "parcel_id": "0298000100304",
+        "total_balance_due": 2434.4
+      },
+      {
+        "item_number": "16520",
+        "name": "SHULTS TINA MARIE (L-EST)",
+        "parcel_id": "0631100102100",
+        "total_balance_due": 984.96
+      },
+      {
+        "item_number": "900",
+        "name": "BAINE SCOTT EVERETTE SEEBURGER",
+        "parcel_id": "P032000112300",
+        "total_balance_due": 1805.52
+      },
+      {
+        "item_number": "19440",
+        "name": "WILLIAMS AVERY DUSTIN JEREMIAH",
+        "parcel_id": "0377000800800",
+        "total_balance_due": 1662.46
+      },
+      {
+        "item_number": "7472",
+        "name": "HALL MATTHEW",
+        "parcel_id": "0624130104102",
+        "total_balance_due": 775.71
+      },
+      {
+        "item_number": "24",
+        "name": "A S K ENTERPRISES & FUNDING LL",
+        "parcel_id": "0376000105001",
+        "total_balance_due": 1008.83
+      },
+      {
+        "item_number": "432",
+        "name": "AME CONSTRUCTION LLC",
+        "parcel_id": "0360000200118",
+        "total_balance_due": 5254.42
+      },
+      {
+        "item_number": "10608",
+        "name": "LAYNE RICHARD NATHAN",
+        "parcel_id": "0577040102300",
+        "total_balance_due": 1142.25
+      },
+      {
+        "item_number": "4832",
+        "name": "DOGAN CHARLES & CATHERINE",
+        "parcel_id": "0604060100810",
+        "total_balance_due": 928.09
+      },
+      {
+        "item_number": "5668",
+        "name": "FARHAN GHAZI",
+        "parcel_id": "0584060103200",
+        "total_balance_due": 5882.94
+      },
+      {
+        "item_number": "6404",
+        "name": "GAINES JASON",
+        "parcel_id": "0607010103302",
+        "total_balance_due": 963.88
+      },
+      {
+        "item_number": "15256",
+        "name": "RICHARDSON-HUNTER GLENOLA RICH",
+        "parcel_id": "0386000117000",
+        "total_balance_due": 1418.43
+      },
+      {
+        "item_number": "14112",
+        "name": "PHAM NGOC TU THI",
+        "parcel_id": "0548350111800",
+        "total_balance_due": 1978.51
+      },
+      {
+        "item_number": "16744",
+        "name": "SLOAN KERRI ELIZABETH",
+        "parcel_id": "0493000601200",
+        "total_balance_due": 1159.04
+      },
+      {
+        "item_number": "6964",
+        "name": "GOODSON WENDY S GOODSON LARRY",
+        "parcel_id": "M003030101900",
+        "total_balance_due": 996.9
+      }
+    ]
   }
 ]
