@@ -4,11 +4,11 @@
   "list_type": "tax_sale",
   "source_url": "https://www.greenvillecounty.org/appsas400/taxsale/",
   "tax_year": "2025",
-  "scraped_at": "2026-10-12T21:16:09.630792+00:00",
-  "record_count": 1040,
+  "scraped_at": "2026-10-13T19:17:13.036852+00:00",
+  "record_count": 1035,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 3086121.5,
+  "parsed_total_balance_due": 3074566.31,
   "totals_match": null,
   "records": [
     {
@@ -2468,14 +2468,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "5960",
-      "parcel_id": "0157000500200",
-      "name": "FORE LOUISE L",
-      "total_balance_due": 4563.77,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0157000500200",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "5980",
       "parcel_id": "0645030101800",
       "name": "FOREVER FAMILY TRUST",
@@ -3884,14 +3876,6 @@
       "tax_year": "2025"
     },
     {
-      "item_number": "9060",
-      "parcel_id": "T022010100506",
-      "name": "JAMES & COMPANY BUILDERS LLC",
-      "total_balance_due": 2676.82,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=T022010100506",
-      "tax_year": "2025"
-    },
-    {
       "item_number": "9076",
       "parcel_id": "0534040107600",
       "name": "JAMES HENRY S M",
@@ -4393,14 +4377,6 @@
       "name": "LATIMORE CHARLES W LATIMORE LI",
       "total_balance_due": 1300.49,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0377001201400",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "10532",
-      "parcel_id": "0112001605600",
-      "name": "LATOUR HOMES LLC",
-      "total_balance_due": 890.08,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0112001605600",
       "tax_year": "2025"
     },
     {
@@ -5457,14 +5433,6 @@
       "name": "NYBLOM TOMAS NYBLOM MELINDA",
       "total_balance_due": 2808.63,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=P030000134000",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "13460",
-      "parcel_id": "0529070101400",
-      "name": "ODOM-STEWART ROBIN",
-      "total_balance_due": 2683.53,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0529070101400",
       "tax_year": "2025"
     },
     {
@@ -7569,14 +7537,6 @@
       "name": "VENTURE HOME BUYERS LLC",
       "total_balance_due": 1992.18,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0549020103100",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "18796",
-      "parcel_id": "0648060101015",
-      "name": "VENTURE HOME BUYERS LLC",
-      "total_balance_due": 740.99,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0648060101015",
       "tax_year": "2025"
     },
     {

@@ -5756,5 +5756,44 @@
         "total_balance_due": 996.9
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "list_type": "tax_sale",
+    "added_count": 0,
+    "removed_count": 5,
+    "added": [],
+    "removed": [
+      {
+        "item_number": "18796",
+        "name": "VENTURE HOME BUYERS LLC",
+        "parcel_id": "0648060101015",
+        "total_balance_due": 740.99
+      },
+      {
+        "item_number": "10532",
+        "name": "LATOUR HOMES LLC",
+        "parcel_id": "0112001605600",
+        "total_balance_due": 890.08
+      },
+      {
+        "item_number": "13460",
+        "name": "ODOM-STEWART ROBIN",
+        "parcel_id": "0529070101400",
+        "total_balance_due": 2683.53
+      },
+      {
+        "item_number": "5960",
+        "name": "FORE LOUISE L",
+        "parcel_id": "0157000500200",
+        "total_balance_due": 4563.77
+      },
+      {
+        "item_number": "9060",
+        "name": "JAMES & COMPANY BUILDERS LLC",
+        "parcel_id": "T022010100506",
+        "total_balance_due": 2676.82
+      }
+    ]
   }
 ]
