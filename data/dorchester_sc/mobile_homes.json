@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "mobile_home",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000201.pgm",
-  "scraped_at": "2026-10-12T20:37:55.795536+00:00",
-  "record_count": 222,
+  "scraped_at": "2026-10-13T18:41:29.433428+00:00",
+  "record_count": 211,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 189574.42,
+  "parsed_total_balance_due": 180414.77,
   "totals_match": false,
   "records": [
     {
@@ -87,14 +87,6 @@
       "parcel_id": "25650C",
       "id_type": "sticker",
       "total_balance_due": 467.92,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "BARBERA JAMES",
-      "parcel_id": "29865C",
-      "id_type": "sticker",
-      "total_balance_due": 3055.16,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -263,14 +255,6 @@
       "parcel_id": "23726C",
       "id_type": "sticker",
       "total_balance_due": 897.63,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "CLARK CHERYL ANN",
-      "parcel_id": "24206C",
-      "id_type": "sticker",
-      "total_balance_due": 361.79,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -622,14 +606,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "GLEATON KRISTIN D",
-      "parcel_id": "20929C",
-      "id_type": "sticker",
-      "total_balance_due": 367.36,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "GOODWINE JEROME N & LEE",
       "parcel_id": "21484C",
       "id_type": "sticker",
@@ -674,14 +650,6 @@
       "parcel_id": "18282C",
       "id_type": "sticker",
       "total_balance_due": 483.67,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "GUTIERREZ MONICA OR FUNES SANTO",
-      "parcel_id": "30563C",
-      "id_type": "sticker",
-      "total_balance_due": 748.21,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -738,14 +706,6 @@
       "parcel_id": "90046C",
       "id_type": "sticker",
       "total_balance_due": 361.2,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "HENDERSON ANNA MAE",
-      "parcel_id": "28816C",
-      "id_type": "sticker",
-      "total_balance_due": 627.89,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -889,14 +849,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "JUSTUS SHERMAN T",
-      "parcel_id": "31831C",
-      "id_type": "sticker",
-      "total_balance_due": 1356.97,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "KECK ROBERT WAYNE",
       "parcel_id": "22059C",
       "id_type": "sticker",
@@ -1025,14 +977,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MARROQUIN CARLOS",
-      "parcel_id": "30789C",
-      "id_type": "sticker",
-      "total_balance_due": 839.5,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MARTIN SHIRLEY",
       "parcel_id": "7256C",
       "id_type": "sticker",
@@ -1041,26 +985,10 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MARTINEZ ARTURO JR",
-      "parcel_id": "31511C",
-      "id_type": "sticker",
-      "total_balance_due": 383.07,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MARTINO DORETHA",
       "parcel_id": "17665C",
       "id_type": "sticker",
       "total_balance_due": 393.51,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "MATINEZ ARTURO JR",
-      "parcel_id": "31510C",
-      "id_type": "sticker",
-      "total_balance_due": 387.23,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1747,14 +1675,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "WILLIAMS NATHANIEL & LETTIE",
-      "parcel_id": "15562C",
-      "id_type": "sticker",
-      "total_balance_due": 520.78,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "WILLIAMS SAMUEL S",
       "parcel_id": "24324C",
       "id_type": "sticker",
@@ -1799,14 +1719,6 @@
       "parcel_id": "30232C",
       "id_type": "sticker",
       "total_balance_due": 1581.49,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ZANDER TONI D & FRANK A",
-      "parcel_id": "18874C",
-      "id_type": "sticker",
-      "total_balance_due": 511.69,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     }

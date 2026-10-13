@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "real_property",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000200.pgm",
-  "scraped_at": "2026-10-12T20:37:55.276410+00:00",
-  "record_count": 520,
+  "scraped_at": "2026-10-13T18:41:28.604647+00:00",
+  "record_count": 505,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 1372062.74,
+  "parsed_total_balance_due": 1332677.14,
   "totals_match": false,
   "records": [
     {
@@ -323,6 +323,16 @@
       "formerly_owned_by": []
     },
     {
+      "name": "BARLOW STEPHEN & ANDREA (JTROS)",
+      "parcel_id": "137-09-09-009.000-C",
+      "id_type": "tms",
+      "total_balance_due": 2632.43,
+      "prior_years_unpaid": [
+        "2024"
+      ],
+      "formerly_owned_by": []
+    },
+    {
       "name": "BARTON DEBRA L",
       "parcel_id": "136-11-07-047.000-C",
       "id_type": "tms",
@@ -383,14 +393,6 @@
       "parcel_id": "090-00-00-145.000-C",
       "id_type": "tms",
       "total_balance_due": 4302.95,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "BLAIR MARTY",
-      "parcel_id": "165-00-00-004.000-C",
-      "id_type": "tms",
-      "total_balance_due": 5002.04,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -629,14 +631,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "BRITT MINNIE MAE ET AL",
-      "parcel_id": "081-00-00-210.000-C",
-      "id_type": "tms",
-      "total_balance_due": 622.07,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "BRITT THEODORE III & TAWANA S (J",
       "parcel_id": "079-00-00-030.000-C",
       "id_type": "tms",
@@ -870,14 +864,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "CAKIROGLU AYDAN",
-      "parcel_id": "171-04-05-007.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2804.24,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "CALLAHAN DAVID K",
       "parcel_id": "128-04-03-005.000-C",
       "id_type": "tms",
@@ -1044,14 +1030,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "CLARK CATHY S",
-      "parcel_id": "032-00-00-258.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2299.25,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "COAFOU ESTATES LLC",
       "parcel_id": "063-00-00-179.000-C",
       "id_type": "tms",
@@ -1082,14 +1060,6 @@
       "parcel_id": "162-05-08-013.000-C",
       "id_type": "tms",
       "total_balance_due": 4563.01,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "COLLIER NADINE LANCE",
-      "parcel_id": "171-02-05-002.000-C",
-      "id_type": "tms",
-      "total_balance_due": 6186.98,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1562,6 +1532,16 @@
       "formerly_owned_by": []
     },
     {
+      "name": "FRENCH TEDDY B",
+      "parcel_id": "137-05-06-006.000-C",
+      "id_type": "tms",
+      "total_balance_due": 2071.34,
+      "prior_years_unpaid": [
+        "2024"
+      ],
+      "formerly_owned_by": []
+    },
+    {
       "name": "FULTON ANDREW W",
       "parcel_id": "055-00-00-078.000-C",
       "id_type": "tms",
@@ -1822,22 +1802,6 @@
       ]
     },
     {
-      "name": "GUTIERREZ JAVIER",
-      "parcel_id": "129-01-04-007.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1300.18,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "GUTIERREZ MONICA",
-      "parcel_id": "129-06-03-005.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1369.18,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "HALL JESSIE LEE (TRUSTEE)",
       "parcel_id": "122-16-10-006.000-C",
       "id_type": "tms",
@@ -2030,14 +1994,6 @@
       "parcel_id": "058-00-00-215.000-C",
       "id_type": "tms",
       "total_balance_due": 1093.6,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "HUTSON REBECCA & KIMBERLY B",
-      "parcel_id": "045-09-00-073.000-C",
-      "id_type": "tms",
-      "total_balance_due": 514.32,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -2460,18 +2416,18 @@
       ]
     },
     {
-      "name": "LINCOLN NICHOLAS & NICOLE (JTROS",
-      "parcel_id": "130-11-04-013.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1141.7,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "LIPSCOMB O WILSON (LIFE ESTATE)",
       "parcel_id": "036-00-00-124.000-C",
       "id_type": "tms",
       "total_balance_due": 3574.39,
+      "prior_years_unpaid": [],
+      "formerly_owned_by": []
+    },
+    {
+      "name": "LLOR ANTONIO & MELANIE LEPLANTE",
+      "parcel_id": "181-13-01-002.000-C",
+      "id_type": "tms",
+      "total_balance_due": 1120.42,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -2940,22 +2896,6 @@
       ]
     },
     {
-      "name": "PECKHAM STEPHEN J & MELISSA M L",
-      "parcel_id": "128-12-02-008.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1988.1,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "PENDERGAST DAVID TODD & ALEXANDR",
-      "parcel_id": "159-07-00-004.000-C",
-      "id_type": "tms",
-      "total_balance_due": 4399.09,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "PENNINGTON RAGAN ET AL",
       "parcel_id": "095-00-00-020.000-C",
       "id_type": "tms",
@@ -3298,14 +3238,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "RUIZ MARIA NOHEMI GONZALEZ & CRI",
-      "parcel_id": "143-01-00-064.000-C",
-      "id_type": "tms",
-      "total_balance_due": 6339.92,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "RYAN GEORGE L & KATHARINE (TRUST",
       "parcel_id": "153-00-00-089.000-C",
       "id_type": "tms",
@@ -3338,22 +3270,6 @@
       "formerly_owned_by": [
         "SAMPSON JUDY ET AL"
       ]
-    },
-    {
-      "name": "SANDBERG KYM & MICHAEL DALE",
-      "parcel_id": "165-00-00-021.000-C",
-      "id_type": "tms",
-      "total_balance_due": 2790.52,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SANDERS JAMES & TERRY GARVIN",
-      "parcel_id": "067-00-00-029.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1149.06,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
     },
     {
       "name": "SCOTT DELANO H",
@@ -3503,22 +3419,6 @@
       "prior_years_unpaid": [
         "2024"
       ],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SMALLS ODDIE D",
-      "parcel_id": "126-00-00-250.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1943.3,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SMALLS SHAVON SALENA",
-      "parcel_id": "153-11-00-007.000-C",
-      "id_type": "tms",
-      "total_balance_due": 3227.86,
-      "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
     {
@@ -3850,14 +3750,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "TITTLE TONI D & CRYSTAL ANN ZAND",
-      "parcel_id": "129-05-07-010.000-C",
-      "id_type": "tms",
-      "total_balance_due": 1203.2,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "TJMS LLC",
       "parcel_id": "172-12-00-005.000-C",
       "id_type": "tms",
@@ -4074,14 +3966,6 @@
       "parcel_id": "129-00-00-140.000-C",
       "id_type": "tms",
       "total_balance_due": 1254.54,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "WHITNEY STUART",
-      "parcel_id": "137-02-01-027.000-C",
-      "id_type": "tms",
-      "total_balance_due": 928.78,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },

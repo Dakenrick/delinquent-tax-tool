@@ -1715,5 +1715,184 @@
         "total_balance_due": 909.07
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "list_type": "real_property",
+    "added_count": 3,
+    "removed_count": 18,
+    "added": [
+      {
+        "name": "FRENCH TEDDY B",
+        "parcel_id": "137-05-06-006.000-C",
+        "total_balance_due": 2071.34
+      },
+      {
+        "name": "LLOR ANTONIO & MELANIE LEPLANTE",
+        "parcel_id": "181-13-01-002.000-C",
+        "total_balance_due": 1120.42
+      },
+      {
+        "name": "BARLOW STEPHEN & ANDREA (JTROS)",
+        "parcel_id": "137-09-09-009.000-C",
+        "total_balance_due": 2632.43
+      }
+    ],
+    "removed": [
+      {
+        "name": "CLARK CATHY S",
+        "parcel_id": "032-00-00-258.000-C",
+        "total_balance_due": 2299.25
+      },
+      {
+        "name": "PENDERGAST DAVID TODD & ALEXANDR",
+        "parcel_id": "159-07-00-004.000-C",
+        "total_balance_due": 4399.09
+      },
+      {
+        "name": "BLAIR MARTY",
+        "parcel_id": "165-00-00-004.000-C",
+        "total_balance_due": 5002.04
+      },
+      {
+        "name": "TITTLE TONI D & CRYSTAL ANN ZAND",
+        "parcel_id": "129-05-07-010.000-C",
+        "total_balance_due": 1203.2
+      },
+      {
+        "name": "HUTSON REBECCA & KIMBERLY B",
+        "parcel_id": "045-09-00-073.000-C",
+        "total_balance_due": 514.32
+      },
+      {
+        "name": "SMALLS SHAVON SALENA",
+        "parcel_id": "153-11-00-007.000-C",
+        "total_balance_due": 3227.86
+      },
+      {
+        "name": "SANDERS JAMES & TERRY GARVIN",
+        "parcel_id": "067-00-00-029.000-C",
+        "total_balance_due": 1149.06
+      },
+      {
+        "name": "GUTIERREZ MONICA",
+        "parcel_id": "129-06-03-005.000-C",
+        "total_balance_due": 1369.18
+      },
+      {
+        "name": "COLLIER NADINE LANCE",
+        "parcel_id": "171-02-05-002.000-C",
+        "total_balance_due": 6186.98
+      },
+      {
+        "name": "GUTIERREZ JAVIER",
+        "parcel_id": "129-01-04-007.000-C",
+        "total_balance_due": 1300.18
+      },
+      {
+        "name": "SMALLS ODDIE D",
+        "parcel_id": "126-00-00-250.000-C",
+        "total_balance_due": 1943.3
+      },
+      {
+        "name": "RUIZ MARIA NOHEMI GONZALEZ & CRI",
+        "parcel_id": "143-01-00-064.000-C",
+        "total_balance_due": 6339.92
+      },
+      {
+        "name": "WHITNEY STUART",
+        "parcel_id": "137-02-01-027.000-C",
+        "total_balance_due": 928.78
+      },
+      {
+        "name": "CAKIROGLU AYDAN",
+        "parcel_id": "171-04-05-007.000-C",
+        "total_balance_due": 2804.24
+      },
+      {
+        "name": "PECKHAM STEPHEN J & MELISSA M L",
+        "parcel_id": "128-12-02-008.000-C",
+        "total_balance_due": 1988.1
+      },
+      {
+        "name": "LINCOLN NICHOLAS & NICOLE (JTROS",
+        "parcel_id": "130-11-04-013.000-C",
+        "total_balance_due": 1141.7
+      },
+      {
+        "name": "BRITT MINNIE MAE ET AL",
+        "parcel_id": "081-00-00-210.000-C",
+        "total_balance_due": 622.07
+      },
+      {
+        "name": "SANDBERG KYM & MICHAEL DALE",
+        "parcel_id": "165-00-00-021.000-C",
+        "total_balance_due": 2790.52
+      }
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "list_type": "mobile_home",
+    "added_count": 0,
+    "removed_count": 11,
+    "added": [],
+    "removed": [
+      {
+        "name": "MARROQUIN CARLOS",
+        "parcel_id": "30789C",
+        "total_balance_due": 839.5
+      },
+      {
+        "name": "ZANDER TONI D & FRANK A",
+        "parcel_id": "18874C",
+        "total_balance_due": 511.69
+      },
+      {
+        "name": "WILLIAMS NATHANIEL & LETTIE",
+        "parcel_id": "15562C",
+        "total_balance_due": 520.78
+      },
+      {
+        "name": "HENDERSON ANNA MAE",
+        "parcel_id": "28816C",
+        "total_balance_due": 627.89
+      },
+      {
+        "name": "MATINEZ ARTURO JR",
+        "parcel_id": "31510C",
+        "total_balance_due": 387.23
+      },
+      {
+        "name": "GUTIERREZ MONICA OR FUNES SANTO",
+        "parcel_id": "30563C",
+        "total_balance_due": 748.21
+      },
+      {
+        "name": "BARBERA JAMES",
+        "parcel_id": "29865C",
+        "total_balance_due": 3055.16
+      },
+      {
+        "name": "MARTINEZ ARTURO JR",
+        "parcel_id": "31511C",
+        "total_balance_due": 383.07
+      },
+      {
+        "name": "JUSTUS SHERMAN T",
+        "parcel_id": "31831C",
+        "total_balance_due": 1356.97
+      },
+      {
+        "name": "CLARK CHERYL ANN",
+        "parcel_id": "24206C",
+        "total_balance_due": 361.79
+      },
+      {
+        "name": "GLEATON KRISTIN D",
+        "parcel_id": "20929C",
+        "total_balance_due": 367.36
+      }
+    ]
   }
 ]
