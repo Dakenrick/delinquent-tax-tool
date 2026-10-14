@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "mobile_home",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000201.pgm",
-  "scraped_at": "2026-10-13T18:41:29.433428+00:00",
-  "record_count": 211,
+  "scraped_at": "2026-10-14T16:13:21.854930+00:00",
+  "record_count": 188,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 180414.77,
+  "parsed_total_balance_due": 160968.23,
   "totals_match": false,
   "records": [
     {
@@ -23,14 +23,6 @@
       "parcel_id": "25146C",
       "id_type": "sticker",
       "total_balance_due": 754.88,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ADAMS JULIE S",
-      "parcel_id": "11193C",
-      "id_type": "sticker",
-      "total_balance_due": 900.52,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -55,14 +47,6 @@
       "parcel_id": "25595C",
       "id_type": "sticker",
       "total_balance_due": 315.04,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "AVILA RODRIGUEZ JULIO CESAR",
-      "parcel_id": "31421C",
-      "id_type": "sticker",
-      "total_balance_due": 2052.48,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -95,14 +79,6 @@
       "parcel_id": "25927C",
       "id_type": "sticker",
       "total_balance_due": 708.92,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "BIGGERSTAFF TIMOTHY",
-      "parcel_id": "23198C",
-      "id_type": "sticker",
-      "total_balance_due": 558.09,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -179,14 +155,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "BROWN EMORY O",
-      "parcel_id": "25644C",
-      "id_type": "sticker",
-      "total_balance_due": 603.83,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "BROWN LIZZIE ELMORE",
       "parcel_id": "18735C",
       "id_type": "sticker",
@@ -207,14 +175,6 @@
       "parcel_id": "25119C",
       "id_type": "sticker",
       "total_balance_due": 1102.91,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "BRUNDAGE JAMES M & SHARON C",
-      "parcel_id": "12069C",
-      "id_type": "sticker",
-      "total_balance_due": 486.8,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -291,34 +251,10 @@
       "formerly_owned_by": []
     },
     {
-      "name": "COPE GEMINI DEMPSEY",
-      "parcel_id": "24826C",
-      "id_type": "sticker",
-      "total_balance_due": 460.81,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "COUCH CHRISTOPHER EUGENE",
-      "parcel_id": "28586C",
-      "id_type": "sticker",
-      "total_balance_due": 868.53,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "CREEL FRANK JR & HAYNES LAKESHIA",
       "parcel_id": "28939C",
       "id_type": "sticker",
       "total_balance_due": 3984.59,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "CROPP TISHEA",
-      "parcel_id": "22617C",
-      "id_type": "sticker",
-      "total_balance_due": 1564.7,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -411,14 +347,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "DOCTOR DIKEISHA",
-      "parcel_id": "19436C",
-      "id_type": "sticker",
-      "total_balance_due": 897.57,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "DRIGGERS MARK WALTON",
       "parcel_id": "25091C",
       "id_type": "sticker",
@@ -475,25 +403,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "ERBY CHARLES F & JACQUELINE HODG",
-      "parcel_id": "17464C",
-      "id_type": "sticker",
-      "total_balance_due": 814.59,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ESPIRITU DANNY CAMPOS",
-      "parcel_id": "25633C",
-      "id_type": "sticker",
-      "total_balance_due": 704.72,
-      "prior_years_unpaid": [
-        "2023",
-        "2024"
-      ],
-      "formerly_owned_by": []
-    },
-    {
       "name": "FANETTI KAYLA MARIE",
       "parcel_id": "31963C",
       "id_type": "sticker",
@@ -530,6 +439,14 @@
       "parcel_id": "28233C",
       "id_type": "sticker",
       "total_balance_due": 1570.3,
+      "prior_years_unpaid": [],
+      "formerly_owned_by": []
+    },
+    {
+      "name": "FRAZIER EDITH B",
+      "parcel_id": "2548C",
+      "id_type": "sticker",
+      "total_balance_due": 324.99,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -574,14 +491,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "GEDDIS VENCENT & DANIELLE HARRIS",
-      "parcel_id": "24437C",
-      "id_type": "sticker",
-      "total_balance_due": 289.41,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "GERMANOFF ARCHIE W & JULIANA A",
       "parcel_id": "23533C",
       "id_type": "sticker",
@@ -602,22 +511,6 @@
       "parcel_id": "29559C",
       "id_type": "sticker",
       "total_balance_due": 972.31,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "GOODWINE JEROME N & LEE",
-      "parcel_id": "21484C",
-      "id_type": "sticker",
-      "total_balance_due": 367.49,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "GOODWINE JOHNNIE",
-      "parcel_id": "15191C",
-      "id_type": "sticker",
-      "total_balance_due": 458.9,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -726,14 +619,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "HICKMAN MICHAEL S OR TAMARA H NA",
-      "parcel_id": "20873C",
-      "id_type": "sticker",
-      "total_balance_due": 425.4,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "HOLDEN LOUANN GRANTHAM OR ROBERT",
       "parcel_id": "27477C",
       "id_type": "sticker",
@@ -762,25 +647,6 @@
       "parcel_id": "22643C",
       "id_type": "sticker",
       "total_balance_due": 827.75,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "HUGHES LLOYD STACEY",
-      "parcel_id": "27405C",
-      "id_type": "sticker",
-      "total_balance_due": 630.4,
-      "prior_years_unpaid": [
-        "2023",
-        "2024"
-      ],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "HUNT LOUIS VERNON",
-      "parcel_id": "32525C",
-      "id_type": "sticker",
-      "total_balance_due": 507.55,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -953,14 +819,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MACK CAROLYN",
-      "parcel_id": "23261C",
-      "id_type": "sticker",
-      "total_balance_due": 470.21,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MAINER ERNEST",
       "parcel_id": "24182C",
       "id_type": "sticker",
@@ -977,26 +835,10 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MARTIN SHIRLEY",
-      "parcel_id": "7256C",
-      "id_type": "sticker",
-      "total_balance_due": 318.4,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MARTINO DORETHA",
       "parcel_id": "17665C",
       "id_type": "sticker",
       "total_balance_due": 393.51,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "MCCANN SANDRA ANN",
-      "parcel_id": "30620C",
-      "id_type": "sticker",
-      "total_balance_due": 710.86,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1127,21 +969,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "NEALS KENNETH (ESTATE)",
-      "parcel_id": "7970C",
-      "id_type": "sticker",
-      "total_balance_due": 1217.53,
-      "prior_years_unpaid": [
-        "2021",
-        "2022",
-        "2023",
-        "2024"
-      ],
-      "formerly_owned_by": [
-        "NEALS KENNETH"
-      ]
-    },
-    {
       "name": "NESBITT DAVID L & JOHN L",
       "parcel_id": "24799C",
       "id_type": "sticker",
@@ -1224,18 +1051,18 @@
       "formerly_owned_by": []
     },
     {
-      "name": "PROGRESS PROPERTIES",
-      "parcel_id": "31386C",
-      "id_type": "sticker",
-      "total_balance_due": 2605.87,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "RAGAINS MICHAELA LEIGH",
       "parcel_id": "29155C",
       "id_type": "sticker",
       "total_balance_due": 507.55,
+      "prior_years_unpaid": [],
+      "formerly_owned_by": []
+    },
+    {
+      "name": "RAVENELL JACQUETTA GAIL",
+      "parcel_id": "30951C",
+      "id_type": "sticker",
+      "total_balance_due": 1546.84,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1392,17 +1219,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "SHABAZZ ABDUL",
-      "parcel_id": "13881C",
-      "id_type": "sticker",
-      "total_balance_due": 771.23,
-      "prior_years_unpaid": [
-        "2023",
-        "2024"
-      ],
-      "formerly_owned_by": []
-    },
-    {
       "name": "SILER TILDA",
       "parcel_id": "25453C",
       "id_type": "sticker",
@@ -1447,6 +1263,14 @@
       "parcel_id": "31310C",
       "id_type": "sticker",
       "total_balance_due": 396.06,
+      "prior_years_unpaid": [],
+      "formerly_owned_by": []
+    },
+    {
+      "name": "SMITH BRITTANY M",
+      "parcel_id": "27241C",
+      "id_type": "sticker",
+      "total_balance_due": 981.85,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1539,26 +1363,10 @@
       "formerly_owned_by": []
     },
     {
-      "name": "THOMPSON KEITH A",
-      "parcel_id": "23568C",
-      "id_type": "sticker",
-      "total_balance_due": 681.17,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "TINDALL JOHN L",
       "parcel_id": "15742C",
       "id_type": "sticker",
       "total_balance_due": 549.53,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "TORNABENE MARY JEAN & DEAN",
-      "parcel_id": "13919C",
-      "id_type": "sticker",
-      "total_balance_due": 694.06,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1611,14 +1419,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "WEATHERS JARED",
-      "parcel_id": "31701C",
-      "id_type": "sticker",
-      "total_balance_due": 2796.68,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "WHITE DEVIN B",
       "parcel_id": "26173C",
       "id_type": "sticker",
@@ -1667,6 +1467,14 @@
       "formerly_owned_by": []
     },
     {
+      "name": "WILLIAMS KIRA & PATRICK",
+      "parcel_id": "28890C",
+      "id_type": "sticker",
+      "total_balance_due": 895.02,
+      "prior_years_unpaid": [],
+      "formerly_owned_by": []
+    },
+    {
       "name": "WILLIAMS MARY RUTH",
       "parcel_id": "26284C",
       "id_type": "sticker",
@@ -1695,14 +1503,6 @@
       "parcel_id": "17948C",
       "id_type": "sticker",
       "total_balance_due": 1183.88,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "WINNINGHAM ROBERT",
-      "parcel_id": "154C",
-      "id_type": "sticker",
-      "total_balance_due": 337.44,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
