@@ -3,29 +3,13 @@
   "state": "SC",
   "list_type": "mobile_home",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000201.pgm",
-  "scraped_at": "2026-10-14T16:13:21.854930+00:00",
-  "record_count": 188,
+  "scraped_at": "2026-10-15T16:00:21.411614+00:00",
+  "record_count": 176,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 160968.23,
+  "parsed_total_balance_due": 147624.81,
   "totals_match": false,
   "records": [
-    {
-      "name": "A & E HOUSING",
-      "parcel_id": "22048C",
-      "id_type": "sticker",
-      "total_balance_due": 1028.93,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ACORD-BISHOP CANDICE",
-      "parcel_id": "25146C",
-      "id_type": "sticker",
-      "total_balance_due": 754.88,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
     {
       "name": "ADDISON RENAE",
       "parcel_id": "28888C",
@@ -55,14 +39,6 @@
       "parcel_id": "27563C",
       "id_type": "sticker",
       "total_balance_due": 503.4,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "BALTAZAR SALGADO DAVID",
-      "parcel_id": "31923C",
-      "id_type": "sticker",
-      "total_balance_due": 609.44,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -235,14 +211,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "CONNELLEY FARRELL",
-      "parcel_id": "5547C",
-      "id_type": "sticker",
-      "total_balance_due": 519.57,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "COPE ARTHUR THOMAS",
       "parcel_id": "26048C",
       "id_type": "sticker",
@@ -363,14 +331,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "DUNNING CLAY EARL",
-      "parcel_id": "27638C",
-      "id_type": "sticker",
-      "total_balance_due": 559.13,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "DUVALL BILLY JOE JR",
       "parcel_id": "26067C",
       "id_type": "sticker",
@@ -487,14 +447,6 @@
       "parcel_id": "19998C",
       "id_type": "sticker",
       "total_balance_due": 1105.03,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "GERMANOFF ARCHIE W & JULIANA A",
-      "parcel_id": "23533C",
-      "id_type": "sticker",
-      "total_balance_due": 1142.39,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -723,14 +675,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "KEITT ANNIE R",
-      "parcel_id": "14130C",
-      "id_type": "sticker",
-      "total_balance_due": 515.29,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "KINARD WILLIAM KYLE",
       "parcel_id": "31192C",
       "id_type": "sticker",
@@ -775,14 +719,6 @@
       "parcel_id": "31153C",
       "id_type": "sticker",
       "total_balance_due": 627.22,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "LIMEHOUSE THOMAS ASHLEY",
-      "parcel_id": "30004C",
-      "id_type": "sticker",
-      "total_balance_due": 2499.17,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -859,14 +795,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "MCGUIRE GERNAEIL JERMAINE",
-      "parcel_id": "26648C",
-      "id_type": "sticker",
-      "total_balance_due": 2325.13,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "MCKELVEY FRANCIS RUDOLPH",
       "parcel_id": "25668C",
       "id_type": "sticker",
@@ -917,14 +845,6 @@
       "parcel_id": "24194C",
       "id_type": "sticker",
       "total_balance_due": 369.08,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "MORALES MARVIN DE JESUS",
-      "parcel_id": "31105C",
-      "id_type": "sticker",
-      "total_balance_due": 1028.28,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1179,14 +1099,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "RUTLEDGE JACQUELINE M",
-      "parcel_id": "19631C",
-      "id_type": "sticker",
-      "total_balance_due": 1953.31,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "SANTIAGO CONSTANTINO",
       "parcel_id": "25404C",
       "id_type": "sticker",
@@ -1239,14 +1151,6 @@
       "parcel_id": "31216C",
       "id_type": "sticker",
       "total_balance_due": 384.79,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "SIMS LENA E & ALLISON",
-      "parcel_id": "11814C",
-      "id_type": "sticker",
-      "total_balance_due": 407.9,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
