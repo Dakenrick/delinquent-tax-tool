@@ -9635,5 +9635,27 @@
         "total_balance_due": 2614.27
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "list_type": "tax_sale",
+    "added_count": 1,
+    "removed_count": 1,
+    "added": [
+      {
+        "item_number": "5108",
+        "name": "E & B HOLDINGS LLC",
+        "parcel_id": "E667060104200",
+        "total_balance_due": 2751.81
+      }
+    ],
+    "removed": [
+      {
+        "item_number": "5108",
+        "name": "E & B HOLDINGS LLC",
+        "parcel_id": "0667060104200",
+        "total_balance_due": 2751.81
+      }
+    ]
   }
 ]

@@ -4,7 +4,7 @@
   "list_type": "tax_sale",
   "source_url": "https://www.greenvillecounty.org/appsas400/taxsale/",
   "tax_year": "2025",
-  "scraped_at": "2026-10-18T15:51:46.854467+00:00",
+  "scraped_at": "2026-10-19T18:43:22.184782+00:00",
   "record_count": 400,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
@@ -941,10 +941,10 @@
     },
     {
       "item_number": "5108",
-      "parcel_id": "0667060104200",
+      "parcel_id": "E667060104200",
       "name": "E & B HOLDINGS LLC",
       "total_balance_due": 2751.81,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0667060104200",
+      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=E667060104200",
       "tax_year": "2025"
     },
     {
