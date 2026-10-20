@@ -9657,5 +9657,20 @@
         "total_balance_due": 2751.81
       }
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "list_type": "tax_sale",
+    "added_count": 0,
+    "removed_count": 1,
+    "added": [],
+    "removed": [
+      {
+        "item_number": "19396",
+        "name": "WILCOX GALEN DRAUGHON",
+        "parcel_id": "P022020102200",
+        "total_balance_due": 12402.32
+      }
+    ]
   }
 ]
