@@ -4064,5 +4064,39 @@
         "total_balance_due": 1414.16
       }
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "list_type": "real_property",
+    "added_count": 0,
+    "removed_count": 5,
+    "added": [],
+    "removed": [
+      {
+        "name": "BUSH TRAVIS L",
+        "parcel_id": "163-01-09-091.000-C",
+        "total_balance_due": 9851.15
+      },
+      {
+        "name": "RODRIGUE TYLER & JENNIFER (JTROS",
+        "parcel_id": "171-11-03-036.000-C",
+        "total_balance_due": 6317.34
+      },
+      {
+        "name": "205TEAFARMROADCHS LLC",
+        "parcel_id": "145-01-05-011.000-C",
+        "total_balance_due": 6954.73
+      },
+      {
+        "name": "ROSENSKI VICTORIA A",
+        "parcel_id": "136-15-03-013.000-C",
+        "total_balance_due": 3237.07
+      },
+      {
+        "name": "WATERS RYAN & BRANDY (JTROS)",
+        "parcel_id": "055-00-00-087.777-C",
+        "total_balance_due": 1254.67
+      }
+    ]
   }
 ]

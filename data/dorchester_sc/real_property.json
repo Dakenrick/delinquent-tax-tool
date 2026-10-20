@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "real_property",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000200.pgm",
-  "scraped_at": "2026-10-19T18:00:04.599551+00:00",
-  "record_count": 218,
+  "scraped_at": "2026-10-20T16:04:26.473402+00:00",
+  "record_count": 213,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 564884.56,
+  "parsed_total_balance_due": 537269.6,
   "totals_match": false,
   "records": [
     {
@@ -356,14 +356,6 @@
       "parcel_id": "145-15-03-024.000-C",
       "id_type": "tms",
       "total_balance_due": 4537.34,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "BUSH TRAVIS L",
-      "parcel_id": "163-01-09-091.000-C",
-      "id_type": "tms",
-      "total_balance_due": 9851.15,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1336,14 +1328,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "RODRIGUE TYLER & JENNIFER (JTROS",
-      "parcel_id": "171-11-03-036.000-C",
-      "id_type": "tms",
-      "total_balance_due": 6317.34,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "RODRIGUEZ LYDIA MAGNA ET AL",
       "parcel_id": "137-12-06-001.000-C",
       "id_type": "tms",
@@ -1356,14 +1340,6 @@
       "parcel_id": "136-00-00-293.000-C",
       "id_type": "tms",
       "total_balance_due": 9446.47,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
-      "name": "ROSENSKI VICTORIA A",
-      "parcel_id": "136-15-03-013.000-C",
-      "id_type": "tms",
-      "total_balance_due": 3237.07,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -1686,14 +1662,6 @@
       "formerly_owned_by": []
     },
     {
-      "name": "WATERS RYAN & BRANDY (JTROS)",
-      "parcel_id": "055-00-00-087.777-C",
-      "id_type": "tms",
-      "total_balance_due": 1254.67,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": []
-    },
-    {
       "name": "WESCOTT EDITH",
       "parcel_id": "130-10-00-013.000-C",
       "id_type": "tms",
@@ -1806,16 +1774,6 @@
       "total_balance_due": 628.49,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
-    },
-    {
-      "name": "205TEAFARMROADCHS LLC",
-      "parcel_id": "145-01-05-011.000-C",
-      "id_type": "tms",
-      "total_balance_due": 6954.73,
-      "prior_years_unpaid": [],
-      "formerly_owned_by": [
-        "WATSON STEWART"
-      ]
     },
     {
       "name": "4EMGR LLC",
