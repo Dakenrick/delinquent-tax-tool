@@ -9672,5 +9672,20 @@
         "total_balance_due": 12402.32
       }
     ]
+  },
+  {
+    "date": "2026-10-21",
+    "list_type": "tax_sale",
+    "added_count": 0,
+    "removed_count": 1,
+    "added": [],
+    "removed": [
+      {
+        "item_number": "15728",
+        "name": "ROSSELLI INVESTMENTS LLC",
+        "parcel_id": "0498120103000",
+        "total_balance_due": 13828.9
+      }
+    ]
   }
 ]

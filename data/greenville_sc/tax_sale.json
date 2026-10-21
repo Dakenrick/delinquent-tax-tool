@@ -4,11 +4,11 @@
   "list_type": "tax_sale",
   "source_url": "https://www.greenvillecounty.org/appsas400/taxsale/",
   "tax_year": "2025",
-  "scraped_at": "2026-10-20T17:08:38.460963+00:00",
-  "record_count": 399,
+  "scraped_at": "2026-10-21T17:11:49.144941+00:00",
+  "record_count": 398,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 2444519.96,
+  "parsed_total_balance_due": 2430691.06,
   "totals_match": null,
   "records": [
     {
@@ -2529,14 +2529,6 @@
       "name": "ROSS MAUREEN L REVOCABLE TRUST",
       "total_balance_due": 2023.06,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0551020100900",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "15728",
-      "parcel_id": "0498120103000",
-      "name": "ROSSELLI INVESTMENTS LLC",
-      "total_balance_due": 13828.9,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0498120103000",
       "tax_year": "2025"
     },
     {
