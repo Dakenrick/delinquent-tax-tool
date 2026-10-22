@@ -4,11 +4,11 @@
   "list_type": "tax_sale",
   "source_url": "https://www.greenvillecounty.org/appsas400/taxsale/",
   "tax_year": "2025",
-  "scraped_at": "2026-10-21T17:11:49.144941+00:00",
-  "record_count": 398,
+  "scraped_at": "2026-10-22T17:10:27.799775+00:00",
+  "record_count": 397,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 2430691.06,
+  "parsed_total_balance_due": 2428449.34,
   "totals_match": null,
   "records": [
     {
@@ -1465,14 +1465,6 @@
       "name": "HELTON BETTY J HELTON BOBBY E",
       "total_balance_due": 1875.65,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0134000900500",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "8120",
-      "parcel_id": "0384000100900",
-      "name": "HEWINS ELSIE HEWINS J B, HEWIN",
-      "total_balance_due": 2241.72,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0384000100900",
       "tax_year": "2025"
     },
     {

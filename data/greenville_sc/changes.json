@@ -9687,5 +9687,20 @@
         "total_balance_due": 13828.9
       }
     ]
+  },
+  {
+    "date": "2026-10-22",
+    "list_type": "tax_sale",
+    "added_count": 0,
+    "removed_count": 1,
+    "added": [],
+    "removed": [
+      {
+        "item_number": "8120",
+        "name": "HEWINS ELSIE HEWINS J B, HEWIN",
+        "parcel_id": "0384000100900",
+        "total_balance_due": 2241.72
+      }
+    ]
   }
 ]
