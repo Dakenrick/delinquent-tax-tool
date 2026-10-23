@@ -9702,5 +9702,27 @@
         "total_balance_due": 2241.72
       }
     ]
+  },
+  {
+    "date": "2026-10-23",
+    "list_type": "tax_sale",
+    "added_count": 1,
+    "removed_count": 1,
+    "added": [
+      {
+        "item_number": "5732",
+        "name": "FFRE LLC",
+        "parcel_id": "040113800",
+        "total_balance_due": 7874.21
+      }
+    ],
+    "removed": [
+      {
+        "item_number": "5732",
+        "name": "FFRE LLC",
+        "parcel_id": "WG01040113800",
+        "total_balance_due": 7874.21
+      }
+    ]
   }
 ]

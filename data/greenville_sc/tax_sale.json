@@ -4,7 +4,7 @@
   "list_type": "tax_sale",
   "source_url": "https://www.greenvillecounty.org/appsas400/taxsale/",
   "tax_year": "2025",
-  "scraped_at": "2026-10-22T17:10:27.799775+00:00",
+  "scraped_at": "2026-10-23T17:06:36.451062+00:00",
   "record_count": 397,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
@@ -1005,10 +1005,10 @@
     },
     {
       "item_number": "5732",
-      "parcel_id": "WG01040113800",
+      "parcel_id": "040113800",
       "name": "FFRE LLC",
       "total_balance_due": 7874.21,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=WG01040113800",
+      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=040113800",
       "tax_year": "2025"
     },
     {
