@@ -4,11 +4,11 @@
   "list_type": "tax_sale",
   "source_url": "https://www.greenvillecounty.org/appsas400/taxsale/",
   "tax_year": "2025",
-  "scraped_at": "2026-10-26T18:41:10.523498+00:00",
-  "record_count": 397,
+  "scraped_at": "2026-10-27T18:00:20.852719+00:00",
+  "record_count": 396,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 2428449.34,
+  "parsed_total_balance_due": 2426736.51,
   "totals_match": null,
   "records": [
     {
@@ -1005,10 +1005,10 @@
     },
     {
       "item_number": "5732",
-      "parcel_id": "040113800",
+      "parcel_id": "WG01040113800",
       "name": "FFRE LLC",
       "total_balance_due": 7874.21,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=040113800",
+      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=WG01040113800",
       "tax_year": "2025"
     },
     {
@@ -1745,14 +1745,6 @@
       "name": "JUSTO MARIA GUADALUPE",
       "total_balance_due": 2161.41,
       "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0275000101823",
-      "tax_year": "2025"
-    },
-    {
-      "item_number": "9748",
-      "parcel_id": "0610010104900",
-      "name": "KEENE REBA",
-      "total_balance_due": 1712.83,
-      "detail_url": "https://www.greenvillecounty.org/appsas400/RealProperty/Details.aspx?TaxYear=2025&MapNumber=0610010104900",
       "tax_year": "2025"
     },
     {

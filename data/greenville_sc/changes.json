@@ -9724,5 +9724,33 @@
         "total_balance_due": 7874.21
       }
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "list_type": "tax_sale",
+    "added_count": 1,
+    "removed_count": 2,
+    "added": [
+      {
+        "item_number": "5732",
+        "name": "FFRE LLC",
+        "parcel_id": "WG01040113800",
+        "total_balance_due": 7874.21
+      }
+    ],
+    "removed": [
+      {
+        "item_number": "5732",
+        "name": "FFRE LLC",
+        "parcel_id": "040113800",
+        "total_balance_due": 7874.21
+      },
+      {
+        "item_number": "9748",
+        "name": "KEENE REBA",
+        "parcel_id": "0610010104900",
+        "total_balance_due": 1712.83
+      }
+    ]
   }
 ]
