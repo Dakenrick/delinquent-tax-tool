@@ -3,11 +3,11 @@
   "state": "SC",
   "list_type": "real_property",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000200.pgm",
-  "scraped_at": "2026-11-06T18:42:18.604044+00:00",
-  "record_count": 5,
+  "scraped_at": "2026-11-11T19:02:24.987482+00:00",
+  "record_count": 8,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 18595.98,
+  "parsed_total_balance_due": 44572.81,
   "totals_match": false,
   "records": [
     {
@@ -45,10 +45,34 @@
       "formerly_owned_by": []
     },
     {
+      "name": "MCELHANNON JONATHAN R & PERNILLA",
+      "parcel_id": "159-07-01-057.000-C",
+      "id_type": "tms",
+      "total_balance_due": 9824.58,
+      "prior_years_unpaid": [],
+      "formerly_owned_by": []
+    },
+    {
       "name": "PATEL NATHUBHAI R & MANJULABEN N",
       "parcel_id": "044-00-00-128.000-C",
       "id_type": "tms",
       "total_balance_due": 160.13,
+      "prior_years_unpaid": [],
+      "formerly_owned_by": []
+    },
+    {
+      "name": "POWERS BRETT AUSTIN",
+      "parcel_id": "163-01-09-060.000-C",
+      "id_type": "tms",
+      "total_balance_due": 6699.29,
+      "prior_years_unpaid": [],
+      "formerly_owned_by": []
+    },
+    {
+      "name": "THAMVANTHONGKHAM BOUNSOU & KIMBE",
+      "parcel_id": "168-02-01-005.000-C",
+      "id_type": "tms",
+      "total_balance_due": 9452.96,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     }

@@ -5692,5 +5692,29 @@
         "total_balance_due": 471.73
       }
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "list_type": "real_property",
+    "added_count": 3,
+    "removed_count": 0,
+    "added": [
+      {
+        "name": "POWERS BRETT AUSTIN",
+        "parcel_id": "163-01-09-060.000-C",
+        "total_balance_due": 6699.29
+      },
+      {
+        "name": "MCELHANNON JONATHAN R & PERNILLA",
+        "parcel_id": "159-07-01-057.000-C",
+        "total_balance_due": 9824.58
+      },
+      {
+        "name": "THAMVANTHONGKHAM BOUNSOU & KIMBE",
+        "parcel_id": "168-02-01-005.000-C",
+        "total_balance_due": 9452.96
+      }
+    ],
+    "removed": []
   }
 ]
