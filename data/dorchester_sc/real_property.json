@@ -3,18 +3,18 @@
   "state": "SC",
   "list_type": "real_property",
   "source_url": "https://as400.dorchestercounty.net/webapps/dtx000200.pgm",
-  "scraped_at": "2026-11-25T20:52:21.628395+00:00",
+  "scraped_at": "2026-11-26T20:43:56.212449+00:00",
   "record_count": 8,
   "site_reported_total_accounts": null,
   "site_reported_total_balance_due": null,
-  "parsed_total_balance_due": 44572.81,
+  "parsed_total_balance_due": 47288.75,
   "totals_match": false,
   "records": [
     {
       "name": "CORREA MAX A & MILTON J SHININ (",
       "parcel_id": "181-03-04-058.000-C",
       "id_type": "tms",
-      "total_balance_due": 8548.72,
+      "total_balance_due": 9831.02,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -22,7 +22,7 @@
       "name": "DOVE SARAH C",
       "parcel_id": "162-14-01-073.000-C",
       "id_type": "tms",
-      "total_balance_due": 7432.16,
+      "total_balance_due": 8546.98,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
@@ -30,7 +30,7 @@
       "name": "HAYES DEREK & NORA (JTROS)",
       "parcel_id": "145-06-06-015.004-C",
       "id_type": "tms",
-      "total_balance_due": 2125.34,
+      "total_balance_due": 2444.16,
       "prior_years_unpaid": [],
       "formerly_owned_by": []
     },
